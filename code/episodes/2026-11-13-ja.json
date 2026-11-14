@@ -1,0 +1,311 @@
+{
+ "title": "OpenAIがCursorに供給終了、GitHubでCI機密窃取",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十三日、金曜日のコードニュースです。",
+   "show": "おはようございます、蜜塔ラジオです。11月13日、金曜日のコードニュース。"
+  },
+  {
+   "say": "今日は四本、オープンエーアイとカーソルの契約終了から、ギットハブの機密窃取まで。",
+   "show": "今日は4本、OpenAIとCursorの契約終了から、GitHubの機密窃取まで。"
+  }
+ ],
+ "news": [
+  {
+   "label": "OpenAIがCursorに供給終了",
+   "points": [
+    "11月12日に終了",
+    "SpaceXが600億ドルで買収",
+    "Cursor「全体の5%」"
+   ],
+   "url": "https://forkast.news/openais-cursor-termination-turns-model-supply-into-a-competitive-weapon/",
+   "lines": [
+    {
+     "say": "まずはオープンエーアイとカーソル。モデル供給が十一月十二日に終了しました。",
+     "show": "まずはOpenAIとCursor。モデル供給が11月12日に終了。"
+    },
+    {
+     "say": "スペースエックスがカーソルの親会社を六百億ドルで買収し、支配権変更条項が発動しました。",
+     "show": "SpaceXがCursorの親会社Anysphereを600億ドルで買収し、変更条項が発動。"
+    },
+    {
+     "say": "カーソルはオープンエーアイのモデルは全体の五パーセントと説明。アンソロピックが計算資源を増やしています。",
+     "show": "CursorはOpenAIモデルが全体の約5%と説明。Anthropicが計算資源を増強。"
+    }
+   ],
+   "details": [
+    "OpenAIは8月28日に契約終了を通知。11月12日が猶予期間の末日でした。",
+    "SpaceXによるAnysphereの買収額は600億ドル。Cursorの親会社ごと傘下に入りました。",
+    "CursorのCEO、マイケル・トルエル氏は「OpenAIのモデルは全トラフィックの約5%」と説明しています。"
+   ],
+   "link": {
+    "url": "https://forkast.news/openais-cursor-termination-turns-model-supply-into-a-competitive-weapon/",
+    "title": "OpenAI’s Cursor Termination Turns Model Supply Into a Competitive Weapon",
+    "site": "Forkast",
+    "description": "Two weeks after SpaceX closed its $60B Cursor acquisition, OpenAI invoked a change-of-control clause to cut off model access — and Anthropic is already filling the gap.",
+    "image": "https://forkast.news/wp-content/uploads/2026/08/openai-cursor-model-supply-weaponized-1-1024x687.jpg",
+    "icon": "https://forkast.news/wp-content/uploads/2026/07/forkast-site-icon-dark-150x150.png"
+   }
+  },
+  {
+   "label": "MetaがAstryxを公開",
+   "points": [
+    "GitHubトレンド1位",
+    "150以上のReact部品",
+    "MITライセンス"
+   ],
+   "url": "https://github.com/meta/astryx",
+   "lines": [
+    {
+     "say": "次はメタ。デザインシステムのアストリックスを公開し、ギットハブトレンドで一位です。",
+     "show": "次はMeta。デザインシステムAstryxを公開し、GitHubトレンドで1位。"
+    },
+    {
+     "say": "百五十以上のリアクト部品を提供し、人とエーアイエージェントの両方が使える設計です。",
+     "show": "150以上のReactコンポーネントを提供。人とAIエージェントの両方向け。"
+    },
+    {
+     "say": "ライセンスはエムアイティー。メタ社内の一万三千以上のアプリで使われています。",
+     "show": "ライセンスはMIT。Meta社内の13,000以上のアプリで利用。"
+    }
+   ],
+   "details": [
+    "AstryxはReact 19以降とStyleXで作られています。",
+    "150以上のアクセシブルなコンポーネント、テーマ、ダークモード、CLIを備えます。",
+    "MITライセンスで、Meta社内では13,000以上のアプリが利用。今日のGitHubトレンドで1位です。"
+   ],
+   "link": {
+    "url": "https://github.com/meta/astryx",
+    "title": "GitHub - meta/astryx: An open source design system that's fully customizable and agent ready",
+    "site": "GitHub",
+    "description": "An open source design system that's fully customizable and agent ready - meta/astryx",
+    "image": "https://opengraph.githubassets.com/421c22c8d56562aaa9e44d96186d9aaaf982851605254117a35b5f7569af89ed/meta/astryx",
+    "icon": "https://github.com/fluidicon.png"
+   }
+  },
+  {
+   "label": "GitHubでCI機密を窃取",
+   "points": [
+    "4,837アカウント悪用",
+    "61,764リポジトリ探索",
+    "1,806以上で実行"
+   ],
+   "url": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
+   "lines": [
+    {
+     "say": "続いてはセキュリティ。盗まれた四千八百三十七のアカウントが、六万一千七百六十四のリポジトリを探索しました。",
+     "show": "続いてはセキュリティ。盗まれた4,837アカウントが61,764リポジトリを探索。"
+    },
+    {
+     "say": "攻撃者は権限を試すプルリクエストを送り、機密を盗むスクリプトを仕込みました。一分以内に取り消し、ログも消しています。",
+     "show": "攻撃者は権限確認のPRを送り、機密窃取スクリプトを注入。1分以内にrevertし、ログも削除。"
+    },
+    {
+     "say": "シーアイの機密やクラウドの鍵が漏れた可能性。ダブリューエフエックスのドックスブランチなど、心当たりがあればすぐ確認を。",
+     "show": "CI機密やクラウド鍵が漏洩した可能性。wfx-docsブランチなど、心当たりがあれば要確認。"
+    }
+   ],
+   "details": [
+    "11月10日から11日にかけて、4,837の侵害アカウントが61,764のリポジトリに探索PRを送りました。",
+    "PRの題名は「docs: dependency audit notes」、ブランチは「wfx-docs」。実行後1分以内にrevertし、workflowのログを削除していました。",
+    "CI secrets、GITHUB_TOKEN、AWS・Azure・GCPの鍵、SSH鍵などが標的。wfx-docsブランチや「ci: refresh build cache」などのcommitがあれば、秘密情報を全てローテーションしてください。"
+   ],
+   "link": {
+    "url": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
+    "title": "wfx-loot campaign pushes CI secret stealer to tens of thousands of repositories",
+    "site": "www.aikido.dev",
+    "description": "A wave of compromised accounts are pushing a CI secret stealer. See if you’re affected, what it steals, and what to rotate.",
+    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6af53277e55e46f45ff3cbee_GitHub_OG.jpg",
+    "icon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+   }
+  },
+  {
+   "label": "AWSが本機エミュレーター",
+   "points": [
+    "Rust製・無料",
+    "127.0.0.1:9297",
+    "AIエージェントが自動保守"
+   ],
+   "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+   "lines": [
+    {
+     "say": "最後は開発ツール。エーダブリューエスが本機用のエミュレーターを公開しました。ラスト製です。",
+     "show": "最後は開発ツール。AWSが本機用AWS Emulatorを公開。Rust製。"
+    },
+    {
+     "say": "シーエルアイやエスディーケーからそのまま使え、本機の九二九七番ポートで待ち受けます。追加料金はありません。",
+     "show": "CLIやSDKからそのまま利用。127.0.0.1:9297で待ち受け、追加料金なし。"
+    },
+    {
+     "say": "面白いのは、エーアイエージェントが自動で生成し、保守していること。ただしアイエーエムポリシーは評価しません。",
+     "show": "AIエージェントが自動生成・保守。ただしIAMポリシーは評価しない。"
+    }
+   ],
+   "details": [
+    "AWS EmulatorはRust製。AWS CLI、SDK、コーディングエージェントからローカルのHTTPSエンドポイントに接続します。",
+    "API modelのあるAWSサービスに対応。既定は127.0.0.1:9297、アカウントは000000000000、アクセスキーはEMULATORで始まります。",
+    "AWSのAPI modelからAIエージェントが生成・保守。IAMポリシーは実際には評価せず、クロスアカウントやクロスリージョンにも非対応です。"
+   ],
+   "link": {
+    "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+    "title": "Test your applications against AWS locally with AWS Emulator | Amazon Web Services",
+    "site": "Amazon Web Services",
+    "description": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior.",
+    "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/11/11/Header-A-dark-gradient-1-1260x630.png",
+    "icon": "https://a0.awsstatic.com/main/images/site/fav/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、ギットハブのシーアイ機密を狙う攻撃。心当たりのあるリポジトリは、すぐシークレットを入れ替えてください。",
+   "show": "今日の注目は、GitHubのCI機密を狙う攻撃。心当たりのあるrepoは、すぐsecretsをローテーション。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上、蜜塔ラジオでした。また明日。"
+  }
+ ],
+ "highlight": 2,
+ "format": "monoradio/news-1",
+ "date": "2026-11-13",
+ "lang": "ja",
+ "seconds": 130.15,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.62,
+   "show": "おはようございます、蜜塔ラジオです。11月13日、金曜日のコードニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.87,
+   "end": 14.54,
+   "show": "今日は4本、OpenAIとCursorの契約終了から、GitHubの機密窃取まで。",
+   "part": 0
+  },
+  {
+   "start": 15.59,
+   "end": 22.71,
+   "show": "まずはOpenAIとCursor。モデル供給が11月12日に終了。",
+   "part": 1
+  },
+  {
+   "start": 22.96,
+   "end": 30.65,
+   "show": "SpaceXがCursorの親会社Anysphereを600億ドルで買収し、変更条項が発動。",
+   "part": 1
+  },
+  {
+   "start": 30.9,
+   "end": 39.06,
+   "show": "CursorはOpenAIモデルが全体の約5%と説明。Anthropicが計算資源を増強。",
+   "part": 1
+  },
+  {
+   "start": 40.11,
+   "end": 46.88,
+   "show": "次はMeta。デザインシステムAstryxを公開し、GitHubトレンドで1位。",
+   "part": 2
+  },
+  {
+   "start": 47.13,
+   "end": 53.47,
+   "show": "150以上のReactコンポーネントを提供。人とAIエージェントの両方向け。",
+   "part": 2
+  },
+  {
+   "start": 53.72,
+   "end": 59.14,
+   "show": "ライセンスはMIT。Meta社内の13,000以上のアプリで利用。",
+   "part": 2
+  },
+  {
+   "start": 60.19,
+   "end": 69.75,
+   "show": "続いてはセキュリティ。盗まれた4,837アカウントが61,764リポジトリを探索。",
+   "part": 3
+  },
+  {
+   "start": 70.0,
+   "end": 79.07,
+   "show": "攻撃者は権限確認のPRを送り、機密窃取スクリプトを注入。1分以内にrevertし、ログも削除。",
+   "part": 3
+  },
+  {
+   "start": 79.32,
+   "end": 88.61,
+   "show": "CI機密やクラウド鍵が漏洩した可能性。wfx-docsブランチなど、心当たりがあれば要確認。",
+   "part": 3
+  },
+  {
+   "start": 89.66,
+   "end": 96.99,
+   "show": "最後は開発ツール。AWSが本機用AWS Emulatorを公開。Rust製。",
+   "part": 4
+  },
+  {
+   "start": 97.24,
+   "end": 105.32,
+   "show": "CLIやSDKからそのまま利用。127.0.0.1:9297で待ち受け、追加料金なし。",
+   "part": 4
+  },
+  {
+   "start": 105.57,
+   "end": 114.85,
+   "show": "AIエージェントが自動生成・保守。ただしIAMポリシーは評価しない。",
+   "part": 4
+  },
+  {
+   "start": 115.9,
+   "end": 125.38,
+   "show": "今日の注目は、GitHubのCI機密を狙う攻撃。心当たりのあるrepoは、すぐsecretsをローテーション。",
+   "part": 5
+  },
+  {
+   "start": 125.63,
+   "end": 129.15,
+   "show": "以上、蜜塔ラジオでした。また明日。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 15.59
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 15.59,
+   "end": 40.11
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 40.11,
+   "end": 60.19
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 60.19,
+   "end": 89.66
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 89.66,
+   "end": 115.9
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 115.9,
+   "end": 130.15
+  }
+ ],
+ "made_at": "2026-11-14T01:18:33"
+}

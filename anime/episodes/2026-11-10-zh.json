@@ -1,0 +1,321 @@
+{
+ "title": "間諜家家酒4期、魔法使之夜 動漫冬番開跑",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔電台。十一月十日，星期二的動漫新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月10日，星期二的動漫新聞。"
+  },
+  {
+   "say": "今天有五則：間諜家家酒的新消息、魔法使之夜、死亡旗標、惡魔紋章，還有平屋慢生活。",
+   "show": "今天有 5 則：間諜家家酒新消息、魔法使之夜、死亡flag、惡魔紋章、平屋慢生活。"
+  }
+ ],
+ "news": [
+  {
+   "label": "間諜家家酒 4期與電影",
+   "points": [
+    "2027年播4期",
+    "劇場版第2彈",
+    "新視覺公開"
+   ],
+   "url": "https://mantan-web.jp/article/20261108dog00m200015000a.html",
+   "lines": [
+    {
+     "say": "先看間諜家家酒。電視動畫第四季與劇場版第二彈，確定在二零二七年推出。",
+     "show": "先看SPY×FAMILY。TV動畫Season 4與劇場版第2彈確定2027年推出。"
+    },
+    {
+     "say": "消息在十一月八日的活動上公布，全新的主視覺也一起公開，原作漫畫累計已超過四千二百萬本。",
+     "show": "11月8日活動公布，新主視覺同步解禁。原作漫畫累計突破4200萬本。"
+    }
+   ],
+   "details": [
+    "發表活動是11月8日在東京舉行的「ANIME EXTRA MISSION II」。",
+    "Season 4於2027年播出，劇場版第2彈同年上映，配給為東寶。",
+    "原作者遠藤達哉也貼出阿尼亞舉著「4」和「2」的賀圖。"
+   ],
+   "link": {
+    "url": "https://mantan-web.jp/article/20261108dog00m200015000a.html",
+    "title": "SPY×FAMILY：テレビアニメシーズン4制作 2027年放送 劇場版アニメ第2弾も2027年公開 - MANTANWEB（まんたんウェブ）",
+    "site": "MANTANWEB（まんたんウェブ）",
+    "description": "集英社のマンガアプリ「少年ジャンプ＋（プラス）」で連載中の遠藤達哉さんのマンガが原作のテレビアニメ「SPY×FAMILY」のシーズン4が制作され、2027年に放送されることが分か…",
+    "image": null,
+    "icon": "https://mantan-web.jp/assets/favicons/apple-touch-icon-57x57.png"
+   }
+  },
+  {
+   "label": "魔法使之夜 11/20上映",
+   "points": [
+    "11月20日上映",
+    "IMAX同步",
+    "11家零點最速場"
+   ],
+   "url": "https://eiga.com/news/20261102/2/",
+   "lines": [
+    {
+     "say": "接著是劇場動畫魔法使之夜。由製作鬼滅之刃的團隊打造，十一月二十日在日本上映。",
+     "show": "接著是劇場動畫《魔法使之夜》。ufotable製作，11月20日上映。"
+    },
+    {
+     "say": "上映首日就會有IMAX版本，全國十一家戲院還要在二十日凌晨零點舉行最速場。",
+     "show": "首日IMAX同步上映，全國11家戲院20日凌晨0點最速場。"
+    }
+   ],
+   "details": [
+    "蒼崎青子由戶松遙配音，久遠寺有珠由花澤香菜配音，靜希草十郎由小林裕介配音。",
+    "11月21日在TOHO Cinemas日比谷、22日在TOHO Cinemas梅田舉行舞台問候。",
+    "主題曲是supercell的《夜與青》。"
+   ],
+   "link": {
+    "url": "https://eiga.com/news/20261102/2/",
+    "title": "TYPE-MOON×ufotable「魔法使いの夜」11月20日からIMAX版が同時公開 戸松遥、小林裕介登壇の舞台挨拶も決定 : 映画ニュース - 映画.com",
+    "site": "映画.com",
+    "description": "劇場アニメ「魔法使いの夜」のIMAX版が、公開日の11月20日から同時公開されることが分かった。あわせて、IMAXビジュアルが披露されている。また、11月21、22日に蒼崎青子役の戸松遥と静希草十郎役の小林裕介が登壇する公開記念舞台挨拶も決",
+    "image": "https://media.eiga.com/images/buzz/130247/8d1ebb3b413ec192.jpg",
+    "icon": "https://media.eiga.com/favicon.ico"
+   }
+  },
+  {
+   "label": "死亡flag 2027動畫化",
+   "points": [
+    "2027年電視動畫",
+    "累計175萬部",
+    "反派附身題材"
+   ],
+   "url": "https://mantan-web.jp/article/20261109dog00m200053000a.html",
+   "lines": [
+    {
+     "say": "再來是日本人氣網路小說，我的死亡旗標停不下來。這部作品確定在二零二七年改編成電視動畫。",
+     "show": "再來是《我的死亡flag停不下來》。2027年電視動畫化確定。"
+    },
+    {
+     "say": "故事講的是主角附身到遊戲裡的反派身上，必須一一避開即將到來的死亡旗標，系列累計已經突破一百七十五萬本。",
+     "show": "主角附身遊戲反派、迴避死亡flag的故事。系列累計突破175萬本。"
+    }
+   ],
+   "details": [
+    "日文原名是《俺の死亡フラグが留まるところを知らない》。",
+    "原作是泉，角色原案Aちき，漫畫乙須ミツヤ。",
+    "小說第5集12月11日、漫畫第13集11月29日發售。"
+   ],
+   "link": {
+    "url": "https://mantan-web.jp/article/20261109dog00m200053000a.html",
+    "title": "俺の死亡フラグが留まるところを知らない：“なろう系”人気作 2027年テレビアニメ化 ツンデレな悪役が膨大な死亡フラグを回避！ - MANTANWEB（まんたんウェブ）",
+    "site": "MANTANWEB（まんたんウェブ）",
+    "description": "小説投稿サイト「小説家になろう」から生まれた人気作「俺の死亡フラグが留まるところを知らない」（宝島社）が、2027年にテレビアニメ化されることが分かった。ゲームの悪役・ハロルドに…",
+    "image": null,
+    "icon": "https://mantan-web.jp/assets/favicons/apple-touch-icon-57x57.png"
+   }
+  },
+  {
+   "label": "惡魔紋章 連播兩季",
+   "points": [
+    "連續兩季播出",
+    "Prime Video全球",
+    "Production I.G"
+   ],
+   "url": "https://www.animenewsnetwork.com/news/2026-11-10/devils-crest-anime-confirms-half-year-run/.243678",
+   "lines": [
+    {
+     "say": "川原礫的小說惡魔紋章，動畫確定會連續播出兩季。",
+     "show": "川原礫原作《惡魔紋章》，動畫確定連續兩季播出。"
+    },
+    {
+     "say": "作品從十一月六日起在亞馬遜平台全球上線，由日本動畫公司製作，片頭曲也已經公開。",
+     "show": "11月6日起Prime Video全球上線，Production I.G製作，OP為Ado《シンカ》。"
+    }
+   ],
+   "details": [
+    "總導演ウシロシンジ，導演駒屋健一郎，系列構成梅原英司。",
+    "片頭曲是Ado的《シンカ》，片尾曲是Soala的《ReaL》。",
+    "原作是電擊文庫出版、川原礫的《デモンズ・クレスト》。"
+   ],
+   "link": {
+    "url": "https://www.animenewsnetwork.com/news/2026-11-10/devils-crest-anime-confirms-half-year-run/.243678",
+    "title": "Devils' Crest Anime Confirms Half-Year Run",
+    "site": "Anime News Network",
+    "description": "Anime debuted worldwide on Prime Video on November 6",
+    "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJD/cms/news.10/242411/1003-reveal-devils-crest-battle-key-art.jpg",
+    "icon": "https://www.animenewsnetwork.com/meta/favicon.ico"
+   }
+  },
+  {
+   "label": "平屋慢生活 明年1月",
+   "points": [
+    "2027年1月開播",
+    "Netflix全球",
+    "星野源寫OP"
+   ],
+   "url": "https://www.nhk.jp/g/blog/4n07fyu5xm8w/",
+   "lines": [
+    {
+     "say": "最後是平屋慢生活。這部人氣漫畫，明年一月起會在NHK播出動畫。",
+     "show": "最後是《平屋慢生活》。人氣漫畫2027年1月起在NHK動畫化。"
+    },
+    {
+     "say": "同一部作品也會在Netflix全球上線，片頭曲由星野源全新創作。",
+     "show": "Netflix全球上線，OP由星野源全新創作，ED為TOMOO。"
+    }
+   ],
+   "details": [
+    "2027年1月起在NHK綜合台播出，同月起Netflix全球配信。",
+    "動畫製作是Production +h.，導演末澤慧。",
+    "主演配音內田雄馬、髙橋茉優，原作累計170萬本。"
+   ],
+   "link": {
+    "url": "https://www.nhk.jp/g/blog/4n07fyu5xm8w/",
+    "title": "アニメ「ひらやすみ」オープニングテーマは星野源の書き下ろし新曲に決定！",
+    "site": "NHKアニメ",
+    "description": "アニメ「ひらやすみ」オープニングテーマは星野源の書き下ろし新曲に決定！",
+    "image": "https://g-img.nhk.jp/assets/dfd470c2eaaf4f90a547bdabbb16d678/8f5b4e137c444bab8c3e692a611040c5/anime_%E3%83%95%E3%82%99%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81_%E3%81%B2%E3%82%89%E3%82%84%E3%81%99%E3%81%BF_OP%E8%A7%A3%E7%A6%81.jpg?w=1280",
+    "icon": null
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天最值得關注的是間諜家家酒。第四季和劇場版第二彈都在二零二七年登場，對這個系列來說是重要的一年。",
+   "show": "今天最值得關注的是SPY×FAMILY。Season 4與劇場版第2彈都在2027年登場。"
+  },
+  {
+   "say": "以上，蜜塔電台。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-10",
+ "lang": "zh",
+ "seconds": 109.11,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.98,
+   "show": "早安，這裡是蜜塔 radio。11月10日，星期二的動漫新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.23,
+   "end": 14.92,
+   "show": "今天有 5 則：間諜家家酒新消息、魔法使之夜、死亡flag、惡魔紋章、平屋慢生活。",
+   "part": 0
+  },
+  {
+   "start": 15.97,
+   "end": 23.46,
+   "show": "先看SPY×FAMILY。TV動畫Season 4與劇場版第2彈確定2027年推出。",
+   "part": 1
+  },
+  {
+   "start": 23.71,
+   "end": 32.07,
+   "show": "11月8日活動公布，新主視覺同步解禁。原作漫畫累計突破4200萬本。",
+   "part": 1
+  },
+  {
+   "start": 33.12,
+   "end": 40.88,
+   "show": "接著是劇場動畫《魔法使之夜》。ufotable製作，11月20日上映。",
+   "part": 2
+  },
+  {
+   "start": 41.13,
+   "end": 48.48,
+   "show": "首日IMAX同步上映，全國11家戲院20日凌晨0點最速場。",
+   "part": 2
+  },
+  {
+   "start": 49.53,
+   "end": 57.5,
+   "show": "再來是《我的死亡flag停不下來》。2027年電視動畫化確定。",
+   "part": 3
+  },
+  {
+   "start": 57.75,
+   "end": 67.43,
+   "show": "主角附身遊戲反派、迴避死亡flag的故事。系列累計突破175萬本。",
+   "part": 3
+  },
+  {
+   "start": 68.48,
+   "end": 72.77,
+   "show": "川原礫原作《惡魔紋章》，動畫確定連續兩季播出。",
+   "part": 4
+  },
+  {
+   "start": 73.02,
+   "end": 80.24,
+   "show": "11月6日起Prime Video全球上線，Production I.G製作，OP為Ado《シンカ》。",
+   "part": 4
+  },
+  {
+   "start": 81.29,
+   "end": 87.43,
+   "show": "最後是《平屋慢生活》。人氣漫畫2027年1月起在NHK動畫化。",
+   "part": 5
+  },
+  {
+   "start": 87.68,
+   "end": 94.4,
+   "show": "Netflix全球上線，OP由星野源全新創作，ED為TOMOO。",
+   "part": 5
+  },
+  {
+   "start": 95.45,
+   "end": 105.37,
+   "show": "今天最值得關注的是SPY×FAMILY。Season 4與劇場版第2彈都在2027年登場。",
+   "part": 6
+  },
+  {
+   "start": 105.62,
+   "end": 108.11,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 15.97
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 15.97,
+   "end": 33.12
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 33.12,
+   "end": 49.53
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 49.53,
+   "end": 68.48
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 68.48,
+   "end": 81.29
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 81.29,
+   "end": 95.45
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 95.45,
+   "end": 109.11
+  }
+ ],
+ "made_at": "2026-11-11T02:44:26"
+}

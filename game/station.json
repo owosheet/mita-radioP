@@ -1,0 +1,39 @@
+{
+  "format": "myradio/station-1",
+  "id": "game",
+  "name": "蜜塔 radio",
+  "description": "ゲームの気になるニュースを、毎朝90秒から2分で。",
+  "tagline": "蜜塔の朝ニュース",
+  "logo": "logo.png",
+  "url": "https://mita.bee.moe/game/",
+  "repo": "https://github.com/owosheet/mita-radioP",
+  "language": "ja",
+  "languages": ["ja", "zh"],
+  "schedule": { "every": "day", "time": "06:10", "timezone": "Asia/Tokyo" },
+  "episodes": "episodes.json",
+  "character": {
+    "pack": "character/character.json",
+    "thumbnail": "character/base.png",
+    "note": "AIで生成したキャラクターです"
+  },
+  "credits": ["声：蜜塔（mita）"],
+  "caster": "声：蜜塔（mita）",
+  "audio": { "dir": "audio", "keep_days": 30 },
+  "weather": true,
+  "i18n": {
+    "en": {
+      "name": "Mita Radio",
+      "tagline": "Mita's morning news",
+      "description": "The gaming news worth knowing, every morning in 90 seconds to 2 minutes.",
+      "credits": ["Voice: Mita"],
+      "caster": "Voice: Mita"
+    },
+    "zh": {
+      "name": "蜜塔 radio",
+      "tagline": "蜜塔的晨間新聞",
+      "description": "每天早上用 90 秒到 2 分鐘，掌握遊戲新聞。",
+      "credits": ["聲音：蜜塔（mita）"],
+      "caster": "聲音：蜜塔（mita）"
+    }
+  }
+}

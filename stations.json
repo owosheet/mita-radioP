@@ -1,0 +1,81 @@
+{
+ "format": "myradio/stations-1",
+ "language": "ja",
+ "languages": [
+  "ja",
+  "zh"
+ ],
+ "name": {
+  "ja": "蜜塔 radio",
+  "zh": "蜜塔 radio",
+  "en": "Mita Radio"
+ },
+ "tagline": {
+  "ja": "ゲームと政治とアニメ、コードのニュースを、毎朝90秒から2分で。",
+  "zh": "每天早上用 90 秒到 2 分鐘，掌握遊戲、政治、動漫與程式新聞。",
+  "en": "The gaming, politics, anime and coding news worth knowing, every morning in 90 seconds to 2 minutes."
+ },
+ "url": "https://mita.bee.moe/",
+ "stations": [
+  {
+   "id": "game",
+   "url": "https://mita.bee.moe/game/",
+   "name": {
+    "ja": "ゲーム",
+    "zh": "遊戲",
+    "en": "Games"
+   },
+   "tagline": {
+    "ja": "ゲームニュース",
+    "zh": "遊戲新聞",
+    "en": "Gaming news"
+   },
+   "logo": "logo.png"
+  },
+  {
+   "id": "politics",
+   "url": "https://mita.bee.moe/politics/",
+   "name": {
+    "ja": "政治",
+    "zh": "政治",
+    "en": "Politics"
+   },
+   "tagline": {
+    "ja": "政治ニュース",
+    "zh": "政治新聞",
+    "en": "Politics news"
+   },
+   "logo": "logo.png"
+  },
+  {
+   "id": "anime",
+   "url": "https://mita.bee.moe/anime/",
+   "name": {
+    "ja": "アニメ",
+    "zh": "動漫",
+    "en": "Anime"
+   },
+   "tagline": {
+    "ja": "アニメニュース",
+    "zh": "動漫新聞",
+    "en": "Anime news"
+   },
+   "logo": "logo.png"
+  },
+  {
+   "id": "code",
+   "url": "https://mita.bee.moe/code/",
+   "name": {
+    "ja": "コード",
+    "zh": "程式",
+    "en": "Code"
+   },
+   "tagline": {
+    "ja": "プログラマーのニュース",
+    "zh": "程式設計師新聞",
+    "en": "News for programmers"
+   },
+   "logo": "logo.png"
+  }
+ ]
+}

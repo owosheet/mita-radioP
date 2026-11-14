@@ -1,0 +1,321 @@
+{
+ "title": "GTA6預載啟動，BLG粉碎T1神話",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔電台。十一月十日，星期二的晨間新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月10日，星期二的晨間新聞。"
+  },
+  {
+   "say": "今天有五則新聞，從俠盜獵車手六的預載，到勇者鬥惡龍新作，還有世界大賽。",
+   "show": "今天有 5 則，從 GTA6 預載到勇者鬥惡龍新作、世界大賽。"
+  }
+ ],
+ "news": [
+  {
+   "label": "GTA6 預載開始",
+   "points": [
+    "11月10日預載",
+    "11月19日發售",
+    "最大212GB"
+   ],
+   "url": "https://news.17173.com/content/11092026/220804049.shtml",
+   "lines": [
+    {
+     "say": "首先是最受期待的《俠盜獵車手6》。十一月十日起，開始預先下載。",
+     "show": "首先是《GTA6》。11月10日起開放下載。"
+    },
+    {
+     "say": "PS5 從零點開始，Xbox 從早上九點開始。十一月十九日發售，容量最大兩百一十二 GB。",
+     "show": "PS5 0 時、Xbox 9 時開始。11月19日發售，最大 212GB。"
+    }
+   ],
+   "details": [
+    "PS5 於 11 月 10 日 0 時（日本時間）開始，Xbox 於 9 時開始。",
+    "預載從原本的 11 月 12 日提前。",
+    "實體版為下載碼，11 月 12 日起販售。"
+   ],
+   "link": {
+    "url": "https://news.17173.com/content/11092026/220804049.shtml",
+    "title": "https://news.17173.com/content/11092026/220804049.shtml",
+    "site": "news.17173.com",
+    "description": "",
+    "image": null,
+    "icon": null
+   }
+  },
+  {
+   "label": "LoL 四強 BLG 晉級",
+   "points": [
+    "BLG 3-1 T1",
+    "終結13連勝",
+    "15日決賽對GEN"
+   ],
+   "url": "https://www.4gamers.com.tw/news/detail/83162/worlds-2026-semis-day2-t1-vs-blg",
+   "lines": [
+    {
+     "say": "接著是《英雄聯盟》世界大賽。四強賽中，BLG 以三比一擊敗 T1。",
+     "show": "接著是《英雄聯盟》世界大賽。四強 BLG 3-1 擊敗 T1。"
+    },
+    {
+     "say": "T1 對 LPL 戰隊的 BO5 十三連勝就此中止，四連霸夢碎。決賽將在十五日對上 GEN。",
+     "show": "T1 對 LPL 的 BO5 13 連勝中止，四連霸夢碎。15日決賽對 GEN。"
+    }
+   ],
+   "details": [
+    "BLG 成為首支在世界賽 BO5 擊敗 T1 的 LPL 戰隊。",
+    "T1 自 2013 年以來對 LPL 的 BO5 連勝紀錄告終。",
+    "決賽於 11 月 15 日在紐約巴克萊中心舉行。"
+   ],
+   "link": {
+    "url": "https://www.4gamers.com.tw/news/detail/83162/worlds-2026-semis-day2-t1-vs-blg",
+    "title": "新的歷史！BLG擊敗T1終結不敗神話，3:1晉級總決賽",
+    "site": "4Gamers 官方網站",
+    "description": "一穿四...!?!?",
+    "image": "https://img.4gamers.com.tw/news-image/a906b3a6-7c6c-42fe-b583-1ccd15c229da.jpg",
+    "icon": "https://img.4gamers.com.tw/puku-site-server-img/favicon-20210414.ico"
+   }
+  },
+  {
+   "label": "勇者鬥惡龍新作",
+   "points": [
+    "11月9日突襲發表",
+    "手機指令RPG",
+    "今晚8點預告"
+   ],
+   "url": "https://www.mgoddess.com/news/dq-rpg-11-10/?lang=zh-CN",
+   "lines": [
+    {
+     "say": "接著是勇者鬥惡龍。Square Enix 閃電發表手機新作，《勇者鬥惡龍 RPG 魔界樹與被引導之島》。",
+     "show": "接著是勇者鬥惡龍。SQEX 閃電發表手遊新作《勇者鬥惡龍 RPG 魔界樹與被引導之島》。"
+    },
+    {
+     "say": "這是一款指令式 RPG，今晚八點將公開預告片，發售日尚未確定。",
+     "show": "指令式 RPG，今晚 8 點公開預告片，發售日未定。"
+    }
+   ],
+   "details": [
+    "平台為 iOS 與 Android，發售日與價格未定。",
+    "預告片約 2 分鐘，在 Square Enix 官方 YouTube 首播。",
+    "官方 X 帳號 @DQRPG_JP 同步開設。"
+   ],
+   "link": {
+    "url": "https://www.mgoddess.com/news/dq-rpg-11-10/?lang=zh-CN",
+    "title": "《勇者斗恶龙RPG 魔界树与被指引的岛屿》官宣 — 宣传片11月10日20点首播 | 全球手游最新资讯",
+    "site": "Mobile Goddess",
+    "description": "Square Enix在2026年11月9日悄悄放出了《勇者斗恶龙RPG 魔界树与被指引的岛屿》的新消息，定于11月10日20点在YouTube上线预告片。官方说这段视频大概两分钟，会以YouTube Premiere的形式首发。",
+    "image": "https://i0.wp.com/news.qoo-app.com/wp-content/uploads/2026/11/HWptl2fbYAAhdAz.jpg",
+    "icon": "https://www.mgoddess.com/favicon.ico"
+   }
+  },
+  {
+   "label": "魔獸世界 首個滿級",
+   "points": [
+    "上線3天滿級",
+    "JokerD五人隊",
+    "12月9日團本"
+   ],
+   "url": "https://www.upmedia.mg/tw/game/community/273625",
+   "lines": [
+    {
+     "say": "《魔獸世界：永恆》上線三天，就出現了世界第一支滿級隊伍。",
+     "show": "《魔獸世界：永恆》上線 3 天，世界首支滿級隊伍誕生。"
+    },
+    {
+     "say": "主播 JokerD 領軍的五人隊，用不到五十二小時升到六十級。首批團本要到十二月九日才開放。",
+     "show": "JokerD 五人隊不到 52 小時封頂。首批團本 12 月 9 日開放。"
+    }
+   ],
+   "details": [
+    "隊伍組成是 3 名法師、1 名聖騎士、1 名薩滿；4 名不死族、1 名食人妖。",
+    "利用調整後的不死族「食屍」技能回復法力，幾乎沒有休息時間。",
+    "首批團本為巴羅深淵、海加爾山峰、奧妮克希亞巢穴。"
+   ],
+   "link": {
+    "url": "https://www.upmedia.mg/tw/game/community/273625",
+    "title": "《魔獸世界：永恆》全球最速60等封頂者出爐！靠聚怪轟炸流快速練功 -- 上報",
+    "site": "www.upmedia.mg",
+    "description": "暴雪旗下經典線上遊戲的最新版本《魔獸世界：永恆》已經在 11 月 4 日正式上線，雖然大部份的玩家都決定放慢自己的腳步，細細品味團隊為這個全新...",
+    "image": "https://cdn.upmedia.mg/upfile/img/2026/1108/202611081331383967.webp",
+    "icon": null
+   }
+  },
+  {
+   "label": "HoYoverse 重返 G-STAR",
+   "points": [
+    "G-STAR 11/19-22",
+    "星布谷地 12/4",
+    "Nexus Anima 11/25"
+   ],
+   "url": "https://www.mgoddess.com/news/4-2-6098ef25cf/?lang=zh-TW",
+   "lines": [
+    {
+     "say": "最後是 HoYoverse。時隔四年重返 G-STAR，將在韓國首次公開兩款新作。",
+     "show": "最後是 HoYoverse。時隔 4 年重返 G-STAR，韓國首度公開兩款新作。"
+    },
+    {
+     "say": "《星布谷地》將在十二月四日全球上線，《崩壞：Nexus Anima》則在十一月二十五日展開最終測試。",
+     "show": "《星布谷地 Petit Planet》12月4日全球上線；《崩壞：Nexus Anima》11月25日最終測試。"
+    }
+   ],
+   "details": [
+    "G-STAR 2026 於 11 月 19 日至 22 日在釜山 BEXCO 舉行。",
+    "HoYoverse 以約 100 個攤位參展，是四年來首次回歸。",
+    "《崩壞：Nexus Anima》正式推出目標為 2027 年春季。"
+   ],
+   "link": {
+    "url": "https://www.mgoddess.com/news/4-2-6098ef25cf/?lang=zh-TW",
+    "title": "HoYoverse 帶著兩款新作重返 G-STAR 2026，Petit Planet 12 月 4 日全球上線 | 全球手遊最新資訊",
+    "site": "Mobile Goddess",
+    "description": "HoYoverse 在首爾 Grand Hyatt 舉辦了媒體說明會，宣布將在缺席四年後重返 G-STAR，帶來兩款新作讓韓國玩家試玩並給予回饋。公司表示，將展示預計 12 月 4 日在 PC、iOS 與 Android 平台全球上線的《Petit Planet》，以及 11 月 25…",
+    "image": "https://static.inven.co.kr/column/2026/11/06/news/thumb/s1468681329.jpg",
+    "icon": "https://www.mgoddess.com/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點，當然是《俠盜獵車手6》。距離發售還有九天，先預載好，準備重返罪惡市。",
+   "show": "今天重點當然是《GTA6》。距發售還有 9 天，先預載，準備重返罪惡市。"
+  },
+  {
+   "say": "以上，蜜塔電台。我們明天見。",
+   "show": "以上，蜜塔 radio。我們明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-10",
+ "lang": "zh",
+ "seconds": 109.35,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.74,
+   "show": "早安，這裡是蜜塔 radio。11月10日，星期二的晨間新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.99,
+   "end": 14.87,
+   "show": "今天有 5 則，從 GTA6 預載到勇者鬥惡龍新作、世界大賽。",
+   "part": 0
+  },
+  {
+   "start": 15.92,
+   "end": 21.9,
+   "show": "首先是《GTA6》。11月10日起開放下載。",
+   "part": 1
+  },
+  {
+   "start": 22.15,
+   "end": 31.33,
+   "show": "PS5 0 時、Xbox 9 時開始。11月19日發售，最大 212GB。",
+   "part": 1
+  },
+  {
+   "start": 32.38,
+   "end": 38.95,
+   "show": "接著是《英雄聯盟》世界大賽。四強 BLG 3-1 擊敗 T1。",
+   "part": 2
+  },
+  {
+   "start": 39.2,
+   "end": 47.75,
+   "show": "T1 對 LPL 的 BO5 13 連勝中止，四連霸夢碎。15日決賽對 GEN。",
+   "part": 2
+  },
+  {
+   "start": 48.8,
+   "end": 57.43,
+   "show": "接著是勇者鬥惡龍。SQEX 閃電發表手遊新作《勇者鬥惡龍 RPG 魔界樹與被引導之島》。",
+   "part": 3
+  },
+  {
+   "start": 57.68,
+   "end": 63.3,
+   "show": "指令式 RPG，今晚 8 點公開預告片，發售日未定。",
+   "part": 3
+  },
+  {
+   "start": 64.35,
+   "end": 70.13,
+   "show": "《魔獸世界：永恆》上線 3 天，世界首支滿級隊伍誕生。",
+   "part": 4
+  },
+  {
+   "start": 70.38,
+   "end": 78.49,
+   "show": "JokerD 五人隊不到 52 小時封頂。首批團本 12 月 9 日開放。",
+   "part": 4
+  },
+  {
+   "start": 79.54,
+   "end": 86.15,
+   "show": "最後是 HoYoverse。時隔 4 年重返 G-STAR，韓國首度公開兩款新作。",
+   "part": 5
+  },
+  {
+   "start": 86.4,
+   "end": 95.02,
+   "show": "《星布谷地 Petit Planet》12月4日全球上線；《崩壞：Nexus Anima》11月25日最終測試。",
+   "part": 5
+  },
+  {
+   "start": 96.07,
+   "end": 105.02,
+   "show": "今天重點當然是《GTA6》。距發售還有 9 天，先預載，準備重返罪惡市。",
+   "part": 6
+  },
+  {
+   "start": 105.27,
+   "end": 108.35,
+   "show": "以上，蜜塔 radio。我們明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 15.92
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 15.92,
+   "end": 32.38
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 32.38,
+   "end": 48.8
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 48.8,
+   "end": 64.35
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 64.35,
+   "end": 79.54
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 79.54,
+   "end": 96.07
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 96.07,
+   "end": 109.35
+  }
+ ],
+ "made_at": "2026-11-10T07:18:54"
+}

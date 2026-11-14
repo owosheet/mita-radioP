@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>蜜塔 radio</title>
+<meta name="description" content="ゲームと政治とアニメ、コードのニュースを、毎朝90秒から2分で。">
+<meta property="og:type" content="website">
+<meta property="og:title" content="蜜塔 radio">
+<meta property="og:description" content="ゲームと政治とアニメ、コードのニュースを、毎朝90秒から2分で。">
+<meta property="og:url" content="https://mita.bee.moe/">
+<meta name="twitter:card" content="summary">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<meta name="theme-color" content="#0c0e14">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="蜜塔 radio">
+<style>
+:root{--ink:#0c0e14;--cam:#161a26;--text:#f2f3f7;--muted:#8d93a8;--yellow:#ffd028;--teal:#3fe0dc;--line:#2a2e3a}
+*{box-sizing:border-box}
+html,body{min-height:100%}
+body{margin:0;background:
+  radial-gradient(70% 60% at 30% 0%,rgba(63,224,220,.08),transparent 70%),
+  repeating-linear-gradient(0deg,rgba(255,255,255,.035) 0 1px,transparent 1px 64px),
+  repeating-linear-gradient(90deg,rgba(255,255,255,.035) 0 1px,transparent 1px 64px),var(--ink);
+  color:var(--text);font-family:"Noto Sans JP","Hiragino Sans","Yu Gothic",system-ui,-apple-system,sans-serif;
+  -webkit-font-smoothing:antialiased}
+main{max-width:880px;margin:0 auto;padding:clamp(40px,8vw,90px) 20px 80px}
+header{display:flex;flex-wrap:wrap;align-items:center;gap:16px}
+.logo{display:inline-block;width:48px;height:48px;object-fit:cover;border-radius:50%;border:1px solid var(--line);flex:none}
+h1{margin:0;font-size:clamp(26px,5vw,38px);letter-spacing:2px;color:var(--yellow)}
+header p{flex-basis:100%;margin:10px 0 0;color:var(--muted);font-size:15px;line-height:1.7}
+/* the language pill and the install button, by the title (stage.py bakes the default language; the script follows the viewer) */
+.tools{margin-left:auto;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.langsw{position:relative}
+.langsw[hidden]{display:none}
+#langBtn{display:flex;align-items:center;gap:10px;height:44px;padding:4px 8px 4px 18px;border:2px solid var(--line);border-radius:999px;
+  background:rgba(22,25,35,.6);color:var(--text);font:600 16px system-ui,-apple-system,sans-serif;letter-spacing:1px;cursor:pointer;transition:border-color .2s,background .2s}
+#langBtn:hover,.langsw.open #langBtn{border-color:var(--yellow);background:rgba(255,208,40,.08)}
+#langBtn i{width:28px;height:28px;border-radius:50%;background:var(--yellow);display:grid;place-items:center;flex:none;transition:transform .3s}
+#langBtn i::before{content:"";width:7px;height:7px;border-right:3px solid var(--ink);border-bottom:3px solid var(--ink);transform:translateY(-2px) rotate(45deg)}
+.langsw.open #langBtn i{transform:rotate(180deg)}
+#langList{position:absolute;right:0;top:calc(100% + 10px);z-index:20;min-width:190px;padding:6px;background:#0e1017;border:2px solid var(--line);
+  border-radius:16px;box-shadow:0 18px 44px rgba(0,0,0,.6);display:flex;flex-direction:column;gap:2px;
+  opacity:0;visibility:hidden;transform:translateY(-8px);transition:opacity .2s,transform .25s,visibility .2s}
+.langsw.open #langList{opacity:1;visibility:visible;transform:none}
+#langList button{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:9px 14px;border:0;border-radius:10px;
+  background:none;color:var(--text);font:600 16px system-ui,-apple-system,sans-serif;text-align:left;white-space:nowrap;cursor:pointer}
+#langList button:hover,#langList button:focus-visible{background:rgba(255,255,255,.07);outline:none}
+#langList button[aria-selected=true]{background:rgba(255,208,40,.12);color:var(--yellow)}
+#langList small{font:700 12px ui-monospace,Menlo,monospace;letter-spacing:2px;color:var(--muted)}
+#install{display:flex;align-items:center;gap:8px;height:44px;padding:0 18px;border:2px solid var(--yellow);border-radius:999px;
+  background:rgba(255,208,40,.1);color:var(--yellow);font:700 15px system-ui,-apple-system,sans-serif;cursor:pointer;transition:background .2s}
+#install:hover{background:rgba(255,208,40,.2)}
+#install[hidden]{display:none}
+.iosHint{flex-basis:100%;margin:10px 0 0;color:var(--muted);font-size:13px;line-height:1.7}
+.iosHint[hidden]{display:none}
+.cards{display:grid;gap:14px;margin-top:36px}
+a.card{display:flex;align-items:center;gap:18px;padding:18px 22px;border:2px solid var(--line);border-radius:18px;
+  background:rgba(22,25,35,.8);color:inherit;text-decoration:none;transition:border-color .2s,background .2s,transform .2s}
+a.card:hover,a.card:focus-visible{border-color:var(--yellow);background:rgba(255,208,40,.06);transform:translateY(-1px);outline:none}
+.ic{width:54px;height:54px;border-radius:50%;background:#1a1d27;border:1px solid var(--line);
+  display:grid;place-items:center;flex:none;overflow:hidden}
+.ic .logo{width:100%;height:100%;object-fit:cover;border:0}
+.ic .initial{font:800 22px "Noto Sans JP",sans-serif;color:var(--yellow)}
+.card .txt{min-width:0}
+.card b{display:block;font-size:21px;letter-spacing:1px}
+.card small{display:block;margin-top:4px;color:var(--muted);font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.card .go{margin-left:auto;color:var(--yellow);font-size:18px;flex:none}
+footer{margin-top:48px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:12px;
+  display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+footer a{color:var(--yellow);text-decoration:none}
+@media (max-width:520px){a.card{padding:16px}.card b{font-size:18px}.tools{margin-left:0}}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <img class="logo" src="https://mita.bee.moe/game/logo.png?v=20261113" alt="">
+    <h1>蜜塔 radio</h1>
+    <div class="tools">
+      <div class="langsw" id="langsw" hidden>
+        <button id="langBtn" aria-haspopup="listbox" aria-expanded="false" aria-controls="langList"><span id="langCur">日本語</span><i></i></button>
+        <div id="langList" role="listbox"></div>
+      </div>
+      <button id="install" hidden aria-label="アプリを入れる"><span id="installTxt">アプリを入れる</span></button>
+    </div>
+    <p id="desc">ゲームと政治とアニメ、コードのニュースを、毎朝90秒から2分で。</p>
+    <p class="iosHint" id="iosHint" hidden></p>
+  </header>
+  <nav class="cards" aria-label="局"><a class="card" href="https://mita.bee.moe/game/" data-station="game"><span class="ic"><img class="logo" src="https://mita.bee.moe/game/logo.png?v=20261113" alt=""></span><span class="txt"><b>ゲーム</b><small>ゲームニュース</small></span><span class="go">▶</span></a>
+    <a class="card" href="https://mita.bee.moe/politics/" data-station="politics"><span class="ic"><img class="logo" src="https://mita.bee.moe/politics/logo.png?v=20261113" alt=""></span><span class="txt"><b>政治</b><small>政治ニュース</small></span><span class="go">▶</span></a>
+    <a class="card" href="https://mita.bee.moe/anime/" data-station="anime"><span class="ic"><img class="logo" src="https://mita.bee.moe/anime/logo.png?v=20261113" alt=""></span><span class="txt"><b>アニメ</b><small>アニメニュース</small></span><span class="go">▶</span></a>
+    <a class="card" href="https://mita.bee.moe/code/" data-station="code"><span class="ic"><img class="logo" src="https://mita.bee.moe/code/logo.png?v=20261113" alt=""></span><span class="txt"><b>コード</b><small>プログラマーのニュース</small></span><span class="go">▶</span></a></nav>
+  <footer><span>蜜塔 radio</span><a href="https://github.com/monoradio102/myradio">myradio</a></footer>
+</main>
+<script type="application/json" id="netdata">{"default":"ja","languages":["ja","zh"],"i18n":{"ja":{"title":"蜜塔 radio","desc":"ゲームと政治とアニメ、コードのニュースを、毎朝90秒から2分で。","stations":"局","install":"アプリを入れる","iosHint":"共有 → ホーム画面に追加"},"zh":{"title":"蜜塔 radio","desc":"每天早上用 90 秒到 2 分鐘，掌握遊戲、政治、動漫與程式新聞。","stations":"電臺","install":"安裝 App","iosHint":"分享 → 加入主畫面"}},"stations":[{"id":"game","name":{"ja":"ゲーム","zh":"遊戲","en":"Games"},"tagline":{"ja":"ゲームニュース","zh":"遊戲新聞","en":"Gaming news"}},{"id":"politics","name":{"ja":"政治","zh":"政治","en":"Politics"},"tagline":{"ja":"政治ニュース","zh":"政治新聞","en":"Politics news"}},{"id":"anime","name":{"ja":"アニメ","zh":"動漫","en":"Anime"},"tagline":{"ja":"アニメニュース","zh":"動漫新聞","en":"Anime news"}},{"id":"code","name":{"ja":"コード","zh":"程式","en":"Code"},"tagline":{"ja":"プログラマーのニュース","zh":"程式設計師新聞","en":"News for programmers"}}]}</script>
+<script>
+const $ = id => document.getElementById(id);
+let NET = {}; try { NET = JSON.parse($("netdata")?.textContent || "{}") || {}; } catch {}
+const DEF = NET.default || "ja";
+const NAMES = { ja: "日本語", zh: "中文", en: "English" };   // with index.html's LANG_META
+const LANGS = (NET.languages && NET.languages.length ? NET.languages : [DEF]);
+const I18N = NET.i18n || {};
+// a {lang: text} object or a plain string, through this language -> the default -> ja -> en -> the first value
+const pick = (v, lang) => typeof v === "string" ? v : (v?.[lang] ?? v?.[DEF] ?? v?.ja ?? v?.en ?? Object.values(v || {})[0] ?? "");
+
+let saved = null; try { saved = localStorage.getItem("lang"); } catch {}
+const nav = (navigator.language || "").toLowerCase();
+const auto = LANGS.find(l => nav.startsWith(l.toLowerCase()));
+let LANG = [saved, auto, DEF].find(l => l && LANGS.includes(l)) || (LANGS.includes(DEF) ? DEF : LANGS[0]);
+
+const langOpen = on => {
+  $("langsw").classList.toggle("open", on);
+  $("langBtn").setAttribute("aria-expanded", on);
+  if (on) requestAnimationFrame(() => ($("langList").querySelector("[aria-selected=true]") || $("langList").querySelector("button"))?.focus({ preventScroll: true }));
+};
+function applyLanguage(lang) {
+  if (!LANGS.includes(lang)) lang = LANGS.includes(DEF) ? DEF : LANGS[0];
+  LANG = lang;
+  const cur = I18N[lang] || {}, base = I18N[DEF] || I18N.ja || {};
+  const s = { title: cur.title || base.title || "", desc: cur.desc || base.desc || "", stations: cur.stations || base.stations || "",
+              install: cur.install || base.install || "", iosHint: cur.iosHint || base.iosHint || "" };
+  document.documentElement.lang = lang;
+  // with no NET_DATA (or a language the data lacks) keep the baked text rather than blanking the page
+  const setText = (el, txt) => { if (el && txt) el.textContent = txt; };
+  if (s.title) document.title = s.title;
+  if (s.desc) document.querySelector('meta[name="description"]')?.setAttribute("content", s.desc);
+  setText(document.querySelector("header h1"), s.title);
+  setText($("desc"), s.desc);
+  if (s.stations) document.querySelector("nav.cards")?.setAttribute("aria-label", s.stations);
+  for (const st of NET.stations || []) {
+    const card = document.querySelector(`a.card[data-station="${st.id}"]`); if (!card) continue;
+    setText(card.querySelector("b"), pick(st.name, lang));
+    setText(card.querySelector("small"), pick(st.tagline, lang));
+  }
+  $("langCur").textContent = NAMES[lang] || lang.toUpperCase();
+  $("langBtn").setAttribute("aria-label", NAMES[lang] || lang.toUpperCase());
+  setText($("installTxt"), s.install);
+  if (s.install) $("install").setAttribute("aria-label", s.install);
+  setText($("iosHint"), s.iosHint);
+  document.querySelectorAll("#langList [data-lang]").forEach(b => b.setAttribute("aria-selected", b.dataset.lang === lang));
+  try { localStorage.setItem("lang", lang); } catch {}
+}
+function buildLangMenu() {
+  $("langList").innerHTML = LANGS.map(l =>
+    `<button role="option" data-lang="${l}" aria-selected="${l === LANG}">${NAMES[l] || l.toUpperCase()}<small>${l.toUpperCase()}</small></button>`).join("");
+  $("langsw").hidden = LANGS.length < 2;
+}
+$("langBtn").onclick = () => langOpen(!$("langsw").classList.contains("open"));
+$("langList").onclick = e => {
+  const b = e.target.closest("[data-lang]"); if (!b) return;
+  langOpen(false); $("langBtn").focus({ preventScroll: true });
+  applyLanguage(b.dataset.lang);
+};
+$("langList").addEventListener("keydown", e => {
+  const opts = [...$("langList").querySelectorAll("button")], i = opts.indexOf(document.activeElement);
+  if (e.key === "ArrowDown" || e.key === "ArrowUp") opts[Math.max(0, Math.min(opts.length - 1, i + (e.key === "ArrowDown" ? 1 : -1)))]?.focus();
+  else if (e.key === "Escape") { langOpen(false); $("langBtn").focus(); }
+  else if (e.key === "Tab") { langOpen(false); $("langBtn").focus(); return; }
+  else return;
+  e.preventDefault(); e.stopPropagation();
+});
+document.addEventListener("click", e => { if (!e.target.closest("#langsw")) langOpen(false); });
+document.addEventListener("keydown", e => { if (e.key === "Escape") langOpen(false); });
+
+// install: the browser's own prompt where there is one (Chromium); iOS gets the share -> home screen hint
+const STANDALONE = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+const IS_IOS = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);   // iPadOS says Mac
+let promptEvent = null;
+const installBtn = $("install");
+if (!STANDALONE && IS_IOS) installBtn.hidden = false;
+addEventListener("beforeinstallprompt", e => {
+  e.preventDefault(); promptEvent = e;
+  if (!STANDALONE) installBtn.hidden = false;
+});
+addEventListener("appinstalled", () => { promptEvent = null; installBtn.hidden = true; });
+installBtn.onclick = async () => {
+  if (!promptEvent) {   // iOS Safari: where the button for "add to home screen" lives
+    if (IS_IOS) $("iosHint").hidden = !$("iosHint").hidden;
+    return;
+  }
+  promptEvent.prompt();
+  try { await promptEvent.userChoice; } catch {}
+  promptEvent = null; installBtn.hidden = true;
+};
+
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+
+buildLangMenu();
+applyLanguage(LANG);
+</script>
+<script>if (location.hash && "https://mita.bee.moe/game/") location.replace("https://mita.bee.moe/game/" + location.hash);</script>
+</body>
+</html>

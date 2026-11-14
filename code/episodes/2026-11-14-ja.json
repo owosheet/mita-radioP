@@ -1,0 +1,311 @@
+{
+ "title": "Gemini 4 Hydrogen登場、TSMC従業員4.6万件流出",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十四日、土曜日のコードニュースです。",
+   "show": "おはようございます、蜜塔ラジオです。11月14日、土曜日のコードニュース。"
+  },
+  {
+   "say": "今日は四本、ジェミニ フォー ハイドロジェンから、ティーエスエムシーの情報流出まで。",
+   "show": "今日は4本、Gemini 4 Hydrogenから、TSMCの情報流出まで。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Gemini 4 Hydrogen登場",
+   "points": [
+    "11月12日公開",
+    "Terminal-Bench 57%",
+    "Pro／Ultra向け"
+   ],
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "lines": [
+    {
+     "say": "まずはグーグル。十一月十二日、新しいモデル、ジェミニ フォー ハイドロジェンを公開しました。",
+     "show": "まずはGoogle。11月12日、新モデルGemini 4 Hydrogenを公開。"
+    },
+    {
+     "say": "コーディングとエージェント作業向け。ターミナルベンチ四点一は五十七パーセントで、三点八フラッシュの三倍以上です。",
+     "show": "コーディングとエージェント作業向け。Terminal-Bench 4.1は57%、3.8 Flashの3倍以上。"
+    },
+    {
+     "say": "カーボンと組むオーケストレーターは、クォータを二十四パーセント節約し、平均十九パーセント速く終わります。",
+     "show": "Carbonと組むOrchestratorは、クォータ24%節約、平均19%高速化。"
+    }
+   ],
+   "details": [
+    "Gemini 4 Hydrogenは11月12日に公開。日常のコーディングとエージェント作業向けのモデルです。",
+    "Terminal-Bench 4.1は57%。3.8 Flashの18.2%から大きく向上し、Artificial Analysisは51、xhighで54です。",
+    "OrchestratorはCarbonと双方向に受け渡し、Carbonに近い成功率を保ちながらクォータ24%減、平均19%高速。Pro／Ultra加入者と企業向けに提供します。"
+   ],
+   "link": {
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "title": "Gemini 4 Hydrogen and Orchestrator | Google Antigravity Blog",
+    "site": "Google Antigravity",
+    "description": "Today, we're rolling out Gemini 4 Hydrogen inside Google Antigravity alongside a new model dropdown option called Orchestrator, which pairs Hydrogen with…",
+    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
+    "icon": "https://antigravity.google/favicon.svg"
+   }
+  },
+  {
+   "label": "AlibabaのコードレビューCLI",
+   "points": [
+    "GitHubトレンド1位",
+    "50.4kスター",
+    "Apache-2.0"
+   ],
+   "url": "https://github.com/alibaba/open-code-review",
+   "lines": [
+    {
+     "say": "次はギットハブトレンド。アリババのオープンコードレビューが一位です。",
+     "show": "次はGitHubトレンド。Alibabaのopen-code-reviewが1位。"
+    },
+    {
+     "say": "ゴー製のコマンドラインツールで、差分に行単位のコメントを付けます。スターは五万四千を超えました。",
+     "show": "Go製CLIで、diffに行単位のコメント。スターは5万4千を突破。"
+    },
+    {
+     "say": "ヌルポやエックスエスエスなど、よくある不具合の規則を内蔵。クロードコードやコーデックスとも連携します。",
+     "show": "NPEやXSSなど定番の規則を内蔵。Claude CodeやCodexとも連携。"
+    }
+   ],
+   "details": [
+    "open-code-reviewはAlibabaの社内レビュー支援をOSS化したもの。Go製、Apache-2.0です。",
+    "差分だけでなくファイル全体も走査でき、NPE、スレッド安全性、XSS、SQLインジェクションなどの規則を内蔵。",
+    "OpenAI／Anthropic互換のモデルに対応し、Claude Code、Codex、Cursor、CIへ連携。今日のGitHubトレンドで1位、50.4kスター。"
+   ],
+   "link": {
+    "url": "https://github.com/alibaba/open-code-review",
+    "title": "GitHub - alibaba/open-code-review: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "site": "GitHub",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language rulese...",
+    "image": "https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d",
+    "icon": "https://github.com/fluidicon.png"
+   }
+  },
+  {
+   "label": "TSMC従業員4.6万件流出",
+   "points": [
+    "第三者クラウド経由",
+    "システム侵入なし",
+    "身代金3BTC"
+   ],
+   "url": "https://www.taiwannews.com.tw/news/6475582",
+   "lines": [
+    {
+     "say": "続いてはセキュリティ。ティーエスエムシーは、現職と元従業員の個人情報が外部サイトに公開されたと認めました。",
+     "show": "続いてはセキュリティ。TSMCは、現職・元従業員の個人情報が外部サイトに公開されたと確認。"
+    },
+    {
+     "say": "社内システムへの侵入を示す証拠はなく、データは第三者クラウドの保存分と一致。顧客情報は含まないとしています。",
+     "show": "社内システムへの侵入証拠はなく、データは第三者クラウドの保存分と一致。顧客情報は含まないと説明。"
+    },
+    {
+     "say": "売り手は四万六千件、六点九ギガバイトと主張し、三ビットコインを要求。会社は件数も身代金も確認していません。",
+     "show": "売り手は4万6千件・6.9GBと主張し、3BTCを要求。TSMCは件数も身代金も未確認。"
+    }
+   ],
+   "details": [
+    "TSMCは11月12日の6-Kで、現職・元従業員のデータが外部サイトに無断で公開されたと確認しました。",
+    "TSMCのシステムが侵害された証拠はなく、データは第三者クラウドの保存分と一致。業務や顧客データとは無関係だとしています。",
+    "売り手は約4万6千件・6.9GBを主張し、3BTC（約22万ドル）を要求。TSMCは件数も贖金も確認しておらず、影響者への通知を進めています。"
+   ],
+   "link": {
+    "url": "https://www.taiwannews.com.tw/news/6475582",
+    "title": "TSMC reports leak of employee information | Taiwan News | Nov. 12, 2026 18:13",
+    "site": "www.taiwannews.com.tw",
+    "description": "Company says no sign its own systems were compromised | Nov. 12, 2026 18:13",
+    "image": "https://image.taiwannews.com.tw/2026%2F05%2F29%2F930849ccac614d2c855114cb6d7c20b2.jpg",
+    "icon": "https://www.taiwannews.com.tw/assets/favicon-TN3.png"
+   }
+  },
+  {
+   "label": ".NET 11正式リリース",
+   "points": [
+    "C# 15の共用型",
+    "JITとAOTを高速化",
+    "STSで2年支援"
+   ],
+   "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+   "lines": [
+    {
+     "say": "最後は開発ツール。ドットネットイレブンが正式にリリースされました。",
+     "show": "最後は開発ツール。.NET 11が正式リリース。"
+    },
+    {
+     "say": "シーシャープ十五では共用型を導入。スイッチが全ての型を網羅しているか、コンパイラが検査します。",
+     "show": "C# 15で共用型（union types）を導入。switchの網羅性をコンパイラが検査。"
+    },
+    {
+     "say": "ジェイアイティーとエーオーティーも高速化。ドットネットアップという新しい管理ツールも入り、サポートは二年間です。",
+     "show": "JITとAOTも高速化。新ツールdotnetupが加わり、サポートは2年間。"
+    }
+   ],
+   "details": [
+    ".NET 11は.NET Conf 2026で正式リリース。奇数番号のSTSで、サポートは2028年11月14日までです。",
+    "C# 15の共用型は、決まった型のどれか1つを保持し、switchの網羅性をコンパイラが検査します。",
+    "JITは配列境界とオーバーフローの検査を削減、AOTは複数インターフェース呼び出しを共有。CLIは既定でNative AOT、dotnetupも追加。"
+   ],
+   "link": {
+    "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "title": "Announcing .NET 11 - .NET Blog",
+    "site": ".NET Blog",
+    "description": ".NET 11 is here with C# 15, faster developer tools, runtime and library improvements, and new capabilities for web, mobile, desktop, and AI apps.",
+    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/announcing-dotnet-11-scaled.webp",
+    "icon": "https://devblogs.microsoft.com/dotnet/wp-content/themes/devblogs-evo/images/favicon/favicon.ico?ver=1789493481"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、ジェミニ フォー ハイドロジェン。コーディングエージェントの選択肢が、また一つ増えました。",
+   "show": "今日の注目は、Gemini 4 Hydrogen。コーディングエージェントの選択肢が、また一つ増えました。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上、蜜塔ラジオでした。また明日。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-14",
+ "lang": "ja",
+ "seconds": 125.17,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.79,
+   "show": "おはようございます、蜜塔ラジオです。11月14日、土曜日のコードニュース。",
+   "part": 0
+  },
+  {
+   "start": 8.04,
+   "end": 13.76,
+   "show": "今日は4本、Gemini 4 Hydrogenから、TSMCの情報流出まで。",
+   "part": 0
+  },
+  {
+   "start": 14.81,
+   "end": 22.3,
+   "show": "まずはGoogle。11月12日、新モデルGemini 4 Hydrogenを公開。",
+   "part": 1
+  },
+  {
+   "start": 22.55,
+   "end": 30.78,
+   "show": "コーディングとエージェント作業向け。Terminal-Bench 4.1は57%、3.8 Flashの3倍以上。",
+   "part": 1
+  },
+  {
+   "start": 31.03,
+   "end": 38.58,
+   "show": "Carbonと組むOrchestratorは、クォータ24%節約、平均19%高速化。",
+   "part": 1
+  },
+  {
+   "start": 39.63,
+   "end": 44.58,
+   "show": "次はGitHubトレンド。Alibabaのopen-code-reviewが1位。",
+   "part": 2
+  },
+  {
+   "start": 44.83,
+   "end": 52.27,
+   "show": "Go製CLIで、diffに行単位のコメント。スターは5万4千を突破。",
+   "part": 2
+  },
+  {
+   "start": 52.52,
+   "end": 60.26,
+   "show": "NPEやXSSなど定番の規則を内蔵。Claude CodeやCodexとも連携。",
+   "part": 2
+  },
+  {
+   "start": 61.31,
+   "end": 69.89,
+   "show": "続いてはセキュリティ。TSMCは、現職・元従業員の個人情報が外部サイトに公開されたと確認。",
+   "part": 3
+  },
+  {
+   "start": 70.14,
+   "end": 79.31,
+   "show": "社内システムへの侵入証拠はなく、データは第三者クラウドの保存分と一致。顧客情報は含まないと説明。",
+   "part": 3
+  },
+  {
+   "start": 79.56,
+   "end": 89.36,
+   "show": "売り手は4万6千件・6.9GBと主張し、3BTCを要求。TSMCは件数も身代金も未確認。",
+   "part": 3
+  },
+  {
+   "start": 90.41,
+   "end": 95.38,
+   "show": "最後は開発ツール。.NET 11が正式リリース。",
+   "part": 4
+  },
+  {
+   "start": 95.63,
+   "end": 104.15,
+   "show": "C# 15で共用型（union types）を導入。switchの網羅性をコンパイラが検査。",
+   "part": 4
+  },
+  {
+   "start": 104.4,
+   "end": 112.15,
+   "show": "JITとAOTも高速化。新ツールdotnetupが加わり、サポートは2年間。",
+   "part": 4
+  },
+  {
+   "start": 113.2,
+   "end": 120.62,
+   "show": "今日の注目は、Gemini 4 Hydrogen。コーディングエージェントの選択肢が、また一つ増えました。",
+   "part": 5
+  },
+  {
+   "start": 120.87,
+   "end": 124.17,
+   "show": "以上、蜜塔ラジオでした。また明日。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.81
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.81,
+   "end": 39.63
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 39.63,
+   "end": 61.31
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 61.31,
+   "end": 90.41
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 90.41,
+   "end": 113.2
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 113.2,
+   "end": 125.17
+  }
+ ],
+ "made_at": "2026-11-14T02:46:09"
+}

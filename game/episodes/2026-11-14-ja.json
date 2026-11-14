@@ -1,0 +1,321 @@
+{
+ "title": "Wolfenstein 3製作開始、GTA6で5連休",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十四日、土曜日のゲームニュースです。",
+   "show": "おはようございます、蜜塔ラジオです。11月14日、土曜日のゲームニュース。"
+  },
+  {
+   "say": "今日は五本、ウルフェンシュタイン スリーから、ジーティーエーシックスの休暇まで。",
+   "show": "今日は5本、Wolfenstein 3から、GTA6の休暇まで。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Wolfenstein 3製作開始",
+   "points": [
+    "MachineGamesが開発",
+    "10年ぶりの番号作",
+    "発売日は未定"
+   ],
+   "url": "https://game.watch.impress.co.jp/docs/news/2156152.html",
+   "lines": [
+    {
+     "say": "まずはエックスボックスです。二十五周年の発表で、ウルフェンシュタイン スリーの制作が明らかになりました。",
+     "show": "まずはXbox。25周年の発表で『Wolfenstein 3』の制作が明らかに。"
+    },
+    {
+     "say": "開発はマシーンゲームズ。二〇一七年の新秩序以来、約十年ぶりの番号作品です。発売日と機種は未定。",
+     "show": "開発はMachineGames。2017年『The New Colossus』以来約10年ぶりのナンバリング。発売日・機種は未定。"
+    }
+   ],
+   "details": [
+    "Xboxの25周年記念イベントで、Microsoft Gamingのアーシャ・シャルマCEOがXに投稿し、制作開始を明らかにしました。",
+    "MachineGamesは『Wolfenstein: The New Order』などを手がけたスタジオ。ブライアン・ブルームとデブラ・ウィルソンが出演します。",
+    "2017年の『The New Colossus』以来、約10年ぶりのナンバリング作品。発売日、対応機種、サブタイトルは未発表です。"
+   ],
+   "link": {
+    "url": "https://game.watch.impress.co.jp/docs/news/2156152.html",
+    "title": "「ウルフェンシュタイン」久々の新作「Wolfenstein 3」制作スタートが告知 ナンバリング作品としては10年ぶり。開発はMachineGames",
+    "site": "GAME Watch",
+    "description": "「Wolfenstein（ウルフェンシュタイン）」シリーズの新作となる「Wolfenstein 3」の制作が告知された。",
+    "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/152/1.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "Fairgame$が中止",
+   "points": [
+    "ソニーが開発中止",
+    "テストの継続率が未達",
+    "Havenは支援へ"
+   ],
+   "url": "https://www.escapistmagazine.com/sony-cancels-fairgame-after-playtest-misses-retention-goals-haven-stays-open-as-support-studio/",
+   "lines": [
+    {
+     "say": "次はソニー。協力型強盗シューター、フェアゲームズの開発を中止しました。",
+     "show": "次はSony。協力型強盗シューター『Fairgame$』の開発を中止。"
+    },
+    {
+     "say": "大規模テストの継続率が目標に届かず、開発元のヘイブンは支援スタジオへ。解雇はありません。",
+     "show": "大規模テストの継続率が目標未達。Havenは支援スタジオへ移行し、レイオフなし。"
+    }
+   ],
+   "details": [
+    "Bloombergのジェイソン・シュライアー記者が11月10日に報道。Sonyが同日、社内に中止を伝えました。",
+    "大規模プレイテストの反応と継続率が目標に届かず、PvPシューター市場の厳しさも理由に挙げられています。",
+    "Haven Studiosは閉鎖せず、他のPlayStation Studiosを支援する役割へ。レイオフは行いません。"
+   ],
+   "link": {
+    "url": "https://www.escapistmagazine.com/sony-cancels-fairgame-after-playtest-misses-retention-goals-haven-stays-open-as-support-studio/",
+    "title": "Sony cancels Fairgame$ after playtest misses retention goals, Haven stays open as support studio - The Escapist",
+    "site": "The Escapist",
+    "description": "Sony has cancelled Fairgame$, Haven Studios' PvP heist shooter, after a large playtest fell short on player retention. The Montreal studio avoids layoffs bu",
+    "image": "https://www.escapistmagazine.com/wp-content/uploads/2026/11/video-games-9.jpg",
+    "icon": "https://www.escapistmagazine.com/wp-content/themes/the-next-mag_child/assets/images/favicon/apple-touch-icon.png"
+   }
+  },
+  {
+   "label": "Pocketpairが5連休",
+   "points": [
+    "11月19日から5日",
+    "GTA6を遊ぶため",
+    "過去最長のゲーム休暇"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/20261113-479115/",
+   "lines": [
+    {
+     "say": "続いてはポケットペア。ジーティーエーシックスの発売に合わせ、十九日から五連休にすると発表しました。",
+     "show": "続いてはPocketpair。GTA6発売に合わせ、11月19日から5連休と発表。"
+    },
+    {
+     "say": "対象は全社員、ただしプレイする人に限る。社内で暴動が起きそうだから、という冗談まじりの告知です。",
+     "show": "対象は全社員、ただしGTA6をプレイする人に限る。社内暴動を防ぐため、という冗談まじりの告知。"
+    }
+   ],
+   "details": [
+    "Pocketpairは11月12日、11月19日から23日まで全社員を対象にした特別休暇を発表しました。",
+    "対象は『GTA6』をプレイする人に限る、車は現地調達、保釈金は経費外、という遊び心のある告知です。",
+    "2025年のモンハンワイルズで3連休、2022年のエルデンリングで4連休。今回は過去最長の5連休です。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/20261113-479115/",
+    "title": "『パルワールド』開発元ポケットペアが「11月19日」より連休宣言、今回は5連休で過去最長。社員が暴れかねないので - AUTOMATON",
+    "site": "AUTOMATON",
+    "description": "ポケットペアは11月12日、従業員に対して11月19日から23日まで特別休暇を与えることを発表した。社内で暴動が起きそうなためだという。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479115-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-32x32.png"
+   }
+  },
+  {
+   "label": "HaloにFirefight無料追加",
+   "points": [
+    "4人協力のPvE",
+    "今冬に無料追加",
+    "新しいマップ"
+   ],
+   "url": "https://www.4gamer.net/games/956/G095668/20261113059/",
+   "lines": [
+    {
+     "say": "次はヘイロー。キャンペーン エボルブドに、四人協力のファイアファイトが無料で追加されます。",
+     "show": "次はHalo。『Halo: Campaign Evolved』に4人協力Firefightが無料追加。"
+    },
+    {
+     "say": "時期は今冬。新しいマップで、押し寄せる敵の波を撃退します。詳細は十二月のヘイローフェストで。",
+     "show": "時期は今冬。新マップで敵の波を撃退。詳細は12月のHalo Festで。"
+    }
+   ],
+   "details": [
+    "『Halo: Campaign Evolved』に、4人協力のPvEモード「Firefight」が今冬無料で追加されます。",
+    "新しいマップで、次々に押し寄せる敵の波状攻撃を撃退するモードです。",
+    "詳細は12月12日〜13日にシアトルで開かれる「Halo Fest」で発表。本体価格は7,900円です。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/956/G095668/20261113059/",
+    "title": "「Halo: Campaign Evolved」，4人協力PvEモード「Firefight」を今冬無料追加。新たなマップで，次々に押し寄せる敵の波状攻撃を撃退",
+    "site": "4Gamer.net",
+    "description": "Halo Studiosは本日（2026年11月13日），FPS「Halo: Campaign Evolved」に4人協力PvE「Firefight」を今冬の無料アップデートで追加すると発表した。敵…",
+    "image": "https://www.4gamer.net/games/956/G095668/20261113059/SS/001.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "BOMBANANA! 家庭用版",
+   "points": [
+    "PS5とXboxで発売",
+    "Steam200万本",
+    "Roblox2000万回"
+   ],
+   "url": "https://www.4gamer.net/games/058/G105820/20261113024/",
+   "lines": [
+    {
+     "say": "最後はボムバナナ。プレステファイブとエックスボックス向けに、昨日発売されました。",
+     "show": "最後は『BOMBANANA!』。PS5とXbox向けに11月13日発売。"
+    },
+    {
+     "say": "スチーム版は二百万本、ロブロックス版は二千万回を突破。価格は千五百四十円です。",
+     "show": "Steam版は200万本、Roblox版は2,000万回突破。価格は1,540円。"
+    }
+   ],
+   "details": [
+    "『BOMBANANA!』の家庭用版が11月13日、PS5、Xbox Series X|S、Xbox Oneで発売されました。",
+    "Steam版は200万本、Roblox版は2,000万回のプレイを突破しています。",
+    "価格は1,540円（税込）です。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/058/G105820/20261113024/",
+    "title": "「BOMBANANA!」の家庭用ゲーム機版がPS5，XBOX Series X|S，XBOX Oneで本日発売。Steam版の販売本数は200万本を突破",
+    "site": "4Gamer.net",
+    "description": "TARK Gamesは2026年11月13日，「BOMBANANA!」の家庭用ゲーム機版（PS5 / XBOX Series X|S / XBOX One）を発売した。本作は，見えない・聞こえない・…",
+    "image": "https://www.4gamer.net/games/058/G105820/20261113024/SS/002.jpg",
+    "icon": null
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、ポケットペアの五連休。ゲームの発売日に休みを合わせる、太っ腹な会社です。",
+   "show": "今日の注目は、Pocketpairの5連休。ゲーム発売日に休みを合わせる太っ腹な会社です。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上、蜜塔ラジオでした。また明日。"
+  }
+ ],
+ "highlight": 2,
+ "format": "monoradio/news-1",
+ "date": "2026-11-14",
+ "lang": "ja",
+ "seconds": 110.02,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.07,
+   "show": "おはようございます、蜜塔ラジオです。11月14日、土曜日のゲームニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.32,
+   "end": 12.65,
+   "show": "今日は5本、Wolfenstein 3から、GTA6の休暇まで。",
+   "part": 0
+  },
+  {
+   "start": 13.7,
+   "end": 21.5,
+   "show": "まずはXbox。25周年の発表で『Wolfenstein 3』の制作が明らかに。",
+   "part": 1
+  },
+  {
+   "start": 21.75,
+   "end": 31.69,
+   "show": "開発はMachineGames。2017年『The New Colossus』以来約10年ぶりのナンバリング。発売日・機種は未定。",
+   "part": 1
+  },
+  {
+   "start": 32.74,
+   "end": 39.01,
+   "show": "次はSony。協力型強盗シューター『Fairgame$』の開発を中止。",
+   "part": 2
+  },
+  {
+   "start": 39.26,
+   "end": 46.76,
+   "show": "大規模テストの継続率が目標未達。Havenは支援スタジオへ移行し、レイオフなし。",
+   "part": 2
+  },
+  {
+   "start": 47.81,
+   "end": 55.25,
+   "show": "続いてはPocketpair。GTA6発売に合わせ、11月19日から5連休と発表。",
+   "part": 3
+  },
+  {
+   "start": 55.5,
+   "end": 64.31,
+   "show": "対象は全社員、ただしGTA6をプレイする人に限る。社内暴動を防ぐため、という冗談まじりの告知。",
+   "part": 3
+  },
+  {
+   "start": 65.36,
+   "end": 72.19,
+   "show": "次はHalo。『Halo: Campaign Evolved』に4人協力Firefightが無料追加。",
+   "part": 4
+  },
+  {
+   "start": 72.44,
+   "end": 81.64,
+   "show": "時期は今冬。新マップで敵の波を撃退。詳細は12月のHalo Festで。",
+   "part": 4
+  },
+  {
+   "start": 82.69,
+   "end": 89.12,
+   "show": "最後は『BOMBANANA!』。PS5とXbox向けに11月13日発売。",
+   "part": 5
+  },
+  {
+   "start": 89.37,
+   "end": 96.81,
+   "show": "Steam版は200万本、Roblox版は2,000万回突破。価格は1,540円。",
+   "part": 5
+  },
+  {
+   "start": 97.86,
+   "end": 105.47,
+   "show": "今日の注目は、Pocketpairの5連休。ゲーム発売日に休みを合わせる太っ腹な会社です。",
+   "part": 6
+  },
+  {
+   "start": 105.72,
+   "end": 109.02,
+   "show": "以上、蜜塔ラジオでした。また明日。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.7
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.7,
+   "end": 32.74
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 32.74,
+   "end": 47.81
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 47.81,
+   "end": 65.36
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 65.36,
+   "end": 82.69
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 82.69,
+   "end": 97.86
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 97.86,
+   "end": 110.02
+  }
+ ],
+ "made_at": "2026-11-14T04:03:56"
+}

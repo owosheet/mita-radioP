@@ -1,0 +1,311 @@
+{
+ "title": "OpenAI 斷供 Cursor，GitHub 爆 CI 機密竊取",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十三日、星期五的程式新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月13日、星期五的程式新聞。"
+  },
+  {
+   "say": "今天有四則：OpenAI 與 Cursor、Meta 的設計系統、GitHub 竊盜，還有 AWS 模擬器。",
+   "show": "今天有4則：OpenAI與Cursor的合約終止、Meta開源設計系統、GitHub機密竊取，還有AWS本機模擬器。"
+  }
+ ],
+ "news": [
+  {
+   "label": "OpenAI 斷供 Cursor",
+   "points": [
+    "11月12日正式生效",
+    "SpaceX 600億美元收購",
+    "Cursor：僅占5%流量"
+   ],
+   "url": "https://forkast.news/openais-cursor-termination-turns-model-supply-into-a-competitive-weapon/",
+   "lines": [
+    {
+     "say": "先來看 OpenAI 和 Cursor。模型供應在十一月十二日結束。",
+     "show": "先來看OpenAI和Cursor。OpenAI對Cursor的模型供應，在11月12日正式結束。"
+    },
+    {
+     "say": "SpaceX 以六百億美元收購 Cursor 母公司 Anysphere，觸發控制權變更條款。",
+     "show": "SpaceX以600億美元收購Cursor母公司Anysphere，觸發合約的控制權變更條款。"
+    },
+    {
+     "say": "Cursor 說 OpenAI 模型只占約百分之五流量，Anthropic 正加算力支援 Claude。",
+     "show": "Cursor說OpenAI模型只占約5%流量，Anthropic正在加算力支援Claude。"
+    }
+   ],
+   "details": [
+    "OpenAI在8月28日通知終止合約，11月12日是最後期限。",
+    "SpaceX以600億美元收購Anysphere，Cursor隨母公司一起易主。",
+    "Cursor執行長Michael Truell說，OpenAI模型約占總流量的5%。"
+   ],
+   "link": {
+    "url": "https://forkast.news/openais-cursor-termination-turns-model-supply-into-a-competitive-weapon/",
+    "title": "OpenAI’s Cursor Termination Turns Model Supply Into a Competitive Weapon",
+    "site": "Forkast",
+    "description": "Two weeks after SpaceX closed its $60B Cursor acquisition, OpenAI invoked a change-of-control clause to cut off model access — and Anthropic is already filling the gap.",
+    "image": "https://forkast.news/wp-content/uploads/2026/08/openai-cursor-model-supply-weaponized-1-1024x687.jpg",
+    "icon": "https://forkast.news/wp-content/uploads/2026/07/forkast-site-icon-dark-150x150.png"
+   }
+  },
+  {
+   "label": "Meta 開源 Astryx",
+   "points": [
+    "GitHub 趨勢第一",
+    "150+ React 元件",
+    "MIT 授權"
+   ],
+   "url": "https://github.com/meta/astryx",
+   "lines": [
+    {
+     "say": "Meta 開源了設計系統 Astryx，今天衝上 GitHub 趨勢第一。",
+     "show": "Meta開源了設計系統Astryx，今天衝上GitHub趨勢第一。"
+    },
+    {
+     "say": "提供一百五十多個無障礙 React 元件，用 StyleX 做樣式，人和 AI agent 都能用。",
+     "show": "提供150多個無障礙React元件，用StyleX做樣式，人和AI agent都能直接用。"
+    },
+    {
+     "say": "授權是 MIT，Meta 內部超過一萬三千個應用在用。",
+     "show": "授權是MIT，Meta內部已有超過13,000個應用程式在用。"
+    }
+   ],
+   "details": [
+    "Astryx以React 19以上版本和StyleX打造。",
+    "內含150多個無障礙元件、主題、深色模式與CLI工具。",
+    "MIT授權，Meta內部超過13,000個應用使用，今天登上GitHub趨勢第一。"
+   ],
+   "link": {
+    "url": "https://github.com/meta/astryx",
+    "title": "GitHub - meta/astryx: An open source design system that's fully customizable and agent ready",
+    "site": "GitHub",
+    "description": "An open source design system that's fully customizable and agent ready - meta/astryx",
+    "image": "https://opengraph.githubassets.com/421c22c8d56562aaa9e44d96186d9aaaf982851605254117a35b5f7569af89ed/meta/astryx",
+    "icon": "https://github.com/fluidicon.png"
+   }
+  },
+  {
+   "label": "GitHub CI 機密竊取",
+   "points": [
+    "4,837 個被盜帳號",
+    "61,764 個 repo 被探測",
+    "1,806+ repo 執行惡意碼"
+   ],
+   "url": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
+   "lines": [
+    {
+     "say": "再來是資安警訊。四千八百三十七個被盜 GitHub 帳號，對六萬一千七百六十四個儲存庫開探測 PR。",
+     "show": "再來是資安警訊。4,837個被盜的GitHub帳號，對61,764個repo開了探測PR。"
+    },
+    {
+     "say": "攻擊者用看似正常的依賴稽核標題測試權限，注入竊取腳本，一分鐘內撤回並刪紀錄。",
+     "show": "攻擊者用「docs: dependency audit notes」測試權限，注入竊取腳本，1分鐘內revert並刪log。"
+    },
+    {
+     "say": "CI 機密、雲端金鑰、SSH 金鑰都可能外洩。看到 wfx 開頭的可疑分支，趕快檢查。",
+     "show": "CI secrets、雲端金鑰、SSH金鑰都可能外洩。看到wfx-docs分支或可疑commit，趕快檢查。"
+    }
+   ],
+   "details": [
+    "11月10日至11日，4,837個被盜帳號對61,764個repo送出探測PR。",
+    "PR標題是「docs: dependency audit notes」，分支名為「wfx-docs」。執行後1分鐘內revert，並刪除workflow紀錄。",
+    "CI secrets、GITHUB_TOKEN、AWS／Azure／GCP金鑰、SSH金鑰都是目標。看到wfx-docs分支或「ci: refresh build cache」等commit，請輪換所有機密。"
+   ],
+   "link": {
+    "url": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
+    "title": "wfx-loot campaign pushes CI secret stealer to tens of thousands of repositories",
+    "site": "www.aikido.dev",
+    "description": "A wave of compromised accounts are pushing a CI secret stealer. See if you’re affected, what it steals, and what to rotate.",
+    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6af53277e55e46f45ff3cbee_GitHub_OG.jpg",
+    "icon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+   }
+  },
+  {
+   "label": "AWS 本機模擬器",
+   "points": [
+    "Rust 寫成、免費",
+    "127.0.0.1:9297",
+    "AI agent 自動維護"
+   ],
+   "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+   "lines": [
+    {
+     "say": "最後是開發工具。AWS 推出本機模擬器 AWS Emulator，用 Rust 寫的，不用上雲就能測試。",
+     "show": "最後是開發工具。AWS推出本機模擬器AWS Emulator，用Rust寫成，不用部署上雲就能測試。"
+    },
+    {
+     "say": "支援有 API model 的服務，預設監聽九二九七埠，而且免費。",
+     "show": "支援有API model的服務，預設監聽127.0.0.1:9297，不收額外費用。"
+    },
+    {
+     "say": "最特別的是，AWS 說這個專案由 AI agent 自動生成和維護。不過它不評估 IAM 政策，也不建議用來測安全性。",
+     "show": "最特別的是，AWS說這個專案由AI agent自動生成和維護。不過它不評估IAM政策，官方也不建議用來測安全性。"
+    }
+   ],
+   "details": [
+    "AWS Emulator是Rust製成的本機服務，AWS CLI、SDK與coding agent都能連上。",
+    "支援有API model的服務，預設127.0.0.1:9297，帳號固定為000000000000，金鑰以EMULATOR開頭。",
+    "由AI agent從AWS API model生成與維護。不評估IAM政策、不支援跨帳號或跨區域，官方不建議用於安全測試。"
+   ],
+   "link": {
+    "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+    "title": "Test your applications against AWS locally with AWS Emulator | Amazon Web Services",
+    "site": "Amazon Web Services",
+    "description": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior.",
+    "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/11/11/Header-A-dark-gradient-1-1260x630.png",
+    "icon": "https://a0.awsstatic.com/main/images/site/fav/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點，是 GitHub 的 CI 機密竊取。有疑慮的 repo，趕快輪換 secrets。",
+   "show": "今天的重點，是GitHub的CI機密竊取。有疑慮的repo，趕快輪換secrets。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 2,
+ "format": "monoradio/news-1",
+ "date": "2026-11-13",
+ "lang": "zh",
+ "seconds": 116.48,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.44,
+   "show": "早安，這裡是蜜塔 radio。11月13日、星期五的程式新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.69,
+   "end": 13.62,
+   "show": "今天有4則：OpenAI與Cursor的合約終止、Meta開源設計系統、GitHub機密竊取，還有AWS本機模擬器。",
+   "part": 0
+  },
+  {
+   "start": 14.67,
+   "end": 19.36,
+   "show": "先來看OpenAI和Cursor。OpenAI對Cursor的模型供應，在11月12日正式結束。",
+   "part": 1
+  },
+  {
+   "start": 19.61,
+   "end": 25.98,
+   "show": "SpaceX以600億美元收購Cursor母公司Anysphere，觸發合約的控制權變更條款。",
+   "part": 1
+  },
+  {
+   "start": 26.23,
+   "end": 32.91,
+   "show": "Cursor說OpenAI模型只占約5%流量，Anthropic正在加算力支援Claude。",
+   "part": 1
+  },
+  {
+   "start": 33.96,
+   "end": 39.06,
+   "show": "Meta開源了設計系統Astryx，今天衝上GitHub趨勢第一。",
+   "part": 2
+  },
+  {
+   "start": 39.31,
+   "end": 46.7,
+   "show": "提供150多個無障礙React元件，用StyleX做樣式，人和AI agent都能直接用。",
+   "part": 2
+  },
+  {
+   "start": 46.95,
+   "end": 51.37,
+   "show": "授權是MIT，Meta內部已有超過13,000個應用程式在用。",
+   "part": 2
+  },
+  {
+   "start": 52.42,
+   "end": 61.09,
+   "show": "再來是資安警訊。4,837個被盜的GitHub帳號，對61,764個repo開了探測PR。",
+   "part": 3
+  },
+  {
+   "start": 61.34,
+   "end": 69.02,
+   "show": "攻擊者用「docs: dependency audit notes」測試權限，注入竊取腳本，1分鐘內revert並刪log。",
+   "part": 3
+  },
+  {
+   "start": 69.27,
+   "end": 78.59,
+   "show": "CI secrets、雲端金鑰、SSH金鑰都可能外洩。看到wfx-docs分支或可疑commit，趕快檢查。",
+   "part": 3
+  },
+  {
+   "start": 79.64,
+   "end": 89.48,
+   "show": "最後是開發工具。AWS推出本機模擬器AWS Emulator，用Rust寫成，不用部署上雲就能測試。",
+   "part": 4
+  },
+  {
+   "start": 89.73,
+   "end": 95.01,
+   "show": "支援有API model的服務，預設監聽127.0.0.1:9297，不收額外費用。",
+   "part": 4
+  },
+  {
+   "start": 95.26,
+   "end": 104.75,
+   "show": "最特別的是，AWS說這個專案由AI agent自動生成和維護。不過它不評估IAM政策，官方也不建議用來測安全性。",
+   "part": 4
+  },
+  {
+   "start": 105.8,
+   "end": 112.52,
+   "show": "今天的重點，是GitHub的CI機密竊取。有疑慮的repo，趕快輪換secrets。",
+   "part": 5
+  },
+  {
+   "start": 112.77,
+   "end": 115.48,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.67
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.67,
+   "end": 33.96
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 33.96,
+   "end": 52.42
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 52.42,
+   "end": 79.64
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 79.64,
+   "end": 105.8
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 105.8,
+   "end": 116.48
+  }
+ ],
+ "made_at": "2026-11-14T01:25:07"
+}

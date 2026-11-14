@@ -1,0 +1,321 @@
+{
+ "title": "德軍總部3製作啟動，GTA6 休假五天",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十四日、星期六的遊戲新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月14日、星期六的遊戲新聞。"
+  },
+  {
+   "say": "今天有五則：Wolfenstein 3、Fairgame、Pocketpair 放假，還有 Halo 和 BOMBANANA。",
+   "show": "今天有5則：Wolfenstein 3、Fairgame$、Pocketpair放假，還有Halo和BOMBANANA!。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Wolfenstein 3 製作啟動",
+   "points": [
+    "MachineGames 開發",
+    "10 年來首款編號作",
+    "發售日未定"
+   ],
+   "url": "https://game.watch.impress.co.jp/docs/news/2156152.html",
+   "lines": [
+    {
+     "say": "先來看 Xbox。二十五週年發表會上，確認 Wolfenstein 3 正在製作中。",
+     "show": "先來看Xbox。25週年發表會上，確認Wolfenstein 3正在製作中。"
+    },
+    {
+     "say": "由 MachineGames 開發，是 2017 年以來約十年首款編號作品。發售日和平台都還沒定。",
+     "show": "由MachineGames開發，是2017年以來約10年首款編號作品。發售日與平台未定。"
+    }
+   ],
+   "details": [
+    "Xbox 25週年活動上，Microsoft Gaming執行長Asha Sharma在X發文，確認製作開始。",
+    "MachineGames曾開發《Wolfenstein: The New Order》等作品，Brian Bloom與Debra Wilson將參與演出。",
+    "這是2017年《The New Colossus》以來約10年的首款編號作品，發售日、平台與副標都尚未發表。"
+   ],
+   "link": {
+    "url": "https://game.watch.impress.co.jp/docs/news/2156152.html",
+    "title": "「ウルフェンシュタイン」久々の新作「Wolfenstein 3」制作スタートが告知 ナンバリング作品としては10年ぶり。開発はMachineGames",
+    "site": "GAME Watch",
+    "description": "「Wolfenstein（ウルフェンシュタイン）」シリーズの新作となる「Wolfenstein 3」の制作が告知された。",
+    "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/152/1.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "Fairgame$ 開發中止",
+   "points": [
+    "Sony 宣布中止",
+    "測試留存未達標",
+    "Haven 轉支援"
+   ],
+   "url": "https://www.escapistmagazine.com/sony-cancels-fairgame-after-playtest-misses-retention-goals-haven-stays-open-as-support-studio/",
+   "lines": [
+    {
+     "say": "再來看 Sony。合作搶劫射擊遊戲 Fairgame 確定中止開發。",
+     "show": "再來看Sony。合作搶劫射擊遊戲Fairgame$確定中止開發。"
+    },
+    {
+     "say": "大規模測試的留存率沒達標，Haven 會轉為支援工作室，沒有裁員。",
+     "show": "大規模測試留存率未達標。Haven轉為支援工作室，沒有裁員。"
+    }
+   ],
+   "details": [
+    "Bloomberg記者Jason Schreier在11月10日報導，Sony同日向社內傳達中止決定。",
+    "大規模測試的反應與留存率未達目標，PvP射擊市場環境嚴峻也是理由。",
+    "Haven Studios不會關閉，將轉為支援其他PlayStation Studios的角色，且不會裁員。"
+   ],
+   "link": {
+    "url": "https://www.escapistmagazine.com/sony-cancels-fairgame-after-playtest-misses-retention-goals-haven-stays-open-as-support-studio/",
+    "title": "Sony cancels Fairgame$ after playtest misses retention goals, Haven stays open as support studio - The Escapist",
+    "site": "The Escapist",
+    "description": "Sony has cancelled Fairgame$, Haven Studios' PvP heist shooter, after a large playtest fell short on player retention. The Montreal studio avoids layoffs bu",
+    "image": "https://www.escapistmagazine.com/wp-content/uploads/2026/11/video-games-9.jpg",
+    "icon": "https://www.escapistmagazine.com/wp-content/themes/the-next-mag_child/assets/images/favicon/apple-touch-icon.png"
+   }
+  },
+  {
+   "label": "Pocketpair 放五天假",
+   "points": [
+    "11月19日起",
+    "為了玩 GTA6",
+    "史上最長遊戲假"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/20261113-479115/",
+   "lines": [
+    {
+     "say": "接著是 Pocketpair。配合 GTA6 發售，宣布十一月十九日起放五天假。",
+     "show": "接著是Pocketpair。配合GTA6發售，宣布11月19日起放5天假。"
+    },
+    {
+     "say": "對象是全體員工，但限定要玩 GTA6 的人。理由是怕公司內暴動，半開玩笑的公告。",
+     "show": "對象是全體員工，但限定要玩GTA6的人。理由是怕公司內暴動，半開玩笑的公告。"
+    }
+   ],
+   "details": [
+    "Pocketpair在11月12日宣布，11月19日至23日全體員工放特別假。",
+    "條件是「要玩GTA6的人」，還註明車子請當地調度、保釋金不能報公帳，充滿玩心。",
+    "2025年魔物獵人荒野放3天、2022年艾爾登法環放4天，這次是歷來最長的5天。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/20261113-479115/",
+    "title": "『パルワールド』開発元ポケットペアが「11月19日」より連休宣言、今回は5連休で過去最長。社員が暴れかねないので - AUTOMATON",
+    "site": "AUTOMATON",
+    "description": "ポケットペアは11月12日、従業員に対して11月19日から23日まで特別休暇を与えることを発表した。社内で暴動が起きそうなためだという。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479115-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-32x32.png"
+   }
+  },
+  {
+   "label": "Halo 免費加 Firefight",
+   "points": [
+    "4 人合作 PvE",
+    "今年冬天免費",
+    "新地圖登場"
+   ],
+   "url": "https://www.4gamer.net/games/956/G095668/20261113059/",
+   "lines": [
+    {
+     "say": "再來是 Halo。Campaign Evolved 會免費加入四人合作的 Firefight 模式。",
+     "show": "再來是Halo。Campaign Evolved免費加入4人合作Firefight模式。"
+    },
+    {
+     "say": "時間是今年冬天，會追加新地圖。詳細資訊留到十二月的 Halo Fest 公布。",
+     "show": "時間是今年冬天，追加新地圖。詳細資訊留到12月的Halo Fest公布。"
+    }
+   ],
+   "details": [
+    "《Halo: Campaign Evolved》將在今冬免費追加4人合作PvE模式「Firefight」。",
+    "新模式會加入新地圖，讓玩家擊退一波波湧上的敵人。",
+    "詳細資訊將在12月12日至13日於西雅圖舉行的Halo Fest公布。遊戲本體售價7,900日圓。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/956/G095668/20261113059/",
+    "title": "「Halo: Campaign Evolved」，4人協力PvEモード「Firefight」を今冬無料追加。新たなマップで，次々に押し寄せる敵の波状攻撃を撃退",
+    "site": "4Gamer.net",
+    "description": "Halo Studiosは本日（2026年11月13日），FPS「Halo: Campaign Evolved」に4人協力PvE「Firefight」を今冬の無料アップデートで追加すると発表した。敵…",
+    "image": "https://www.4gamer.net/games/956/G095668/20261113059/SS/001.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "BOMBANANA! 家機版",
+   "points": [
+    "PS5／Xbox 推出",
+    "Steam 200 萬套",
+    "Roblox 2,000 萬次"
+   ],
+   "url": "https://www.4gamer.net/games/058/G105820/20261113024/",
+   "lines": [
+    {
+     "say": "最後是 BOMBANANA。PS5 和 Xbox 版在十一月十三日推出。",
+     "show": "最後是《BOMBANANA!》。PS5與Xbox版在11月13日推出。"
+    },
+    {
+     "say": "Steam 版突破兩百萬套，Roblox 版突破兩千萬次遊玩，售價一千五百四十日圓。",
+     "show": "Steam版突破200萬套，Roblox版突破2,000萬次遊玩，售價1,540日圓。"
+    }
+   ],
+   "details": [
+    "《BOMBANANA!》家機版在11月13日於PS5、Xbox Series X|S、Xbox One推出。",
+    "Steam版銷量突破200萬套，Roblox版累計遊玩次數突破2,000萬次。",
+    "售價為1,540日圓（含稅）。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/058/G105820/20261113024/",
+    "title": "「BOMBANANA!」の家庭用ゲーム機版がPS5，XBOX Series X|S，XBOX Oneで本日発売。Steam版の販売本数は200万本を突破",
+    "site": "4Gamer.net",
+    "description": "TARK Gamesは2026年11月13日，「BOMBANANA!」の家庭用ゲーム機版（PS5 / XBOX Series X|S / XBOX One）を発売した。本作は，見えない・聞こえない・…",
+    "image": "https://www.4gamer.net/games/058/G105820/20261113024/SS/002.jpg",
+    "icon": null
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天最值得記住的是 Pocketpair 的五天假。把假期排在遊戲發售日，真是大方。",
+   "show": "今天最值得記住的是Pocketpair的5天假。把假期排在遊戲發售日，真是大方。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 2,
+ "format": "monoradio/news-1",
+ "date": "2026-11-14",
+ "lang": "zh",
+ "seconds": 96.89,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.24,
+   "show": "早安，這裡是蜜塔 radio。11月14日、星期六的遊戲新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.49,
+   "end": 13.97,
+   "show": "今天有5則：Wolfenstein 3、Fairgame$、Pocketpair放假，還有Halo和BOMBANANA!。",
+   "part": 0
+  },
+  {
+   "start": 15.02,
+   "end": 20.52,
+   "show": "先來看Xbox。25週年發表會上，確認Wolfenstein 3正在製作中。",
+   "part": 1
+  },
+  {
+   "start": 20.77,
+   "end": 28.43,
+   "show": "由MachineGames開發，是2017年以來約10年首款編號作品。發售日與平台未定。",
+   "part": 1
+  },
+  {
+   "start": 29.48,
+   "end": 34.62,
+   "show": "再來看Sony。合作搶劫射擊遊戲Fairgame$確定中止開發。",
+   "part": 2
+  },
+  {
+   "start": 34.87,
+   "end": 40.32,
+   "show": "大規模測試留存率未達標。Haven轉為支援工作室，沒有裁員。",
+   "part": 2
+  },
+  {
+   "start": 41.37,
+   "end": 48.2,
+   "show": "接著是Pocketpair。配合GTA6發售，宣布11月19日起放5天假。",
+   "part": 3
+  },
+  {
+   "start": 48.45,
+   "end": 55.96,
+   "show": "對象是全體員工，但限定要玩GTA6的人。理由是怕公司內暴動，半開玩笑的公告。",
+   "part": 3
+  },
+  {
+   "start": 57.01,
+   "end": 63.41,
+   "show": "再來是Halo。Campaign Evolved免費加入4人合作Firefight模式。",
+   "part": 4
+  },
+  {
+   "start": 63.66,
+   "end": 70.04,
+   "show": "時間是今年冬天，追加新地圖。詳細資訊留到12月的Halo Fest公布。",
+   "part": 4
+  },
+  {
+   "start": 71.09,
+   "end": 77.48,
+   "show": "最後是《BOMBANANA!》。PS5與Xbox版在11月13日推出。",
+   "part": 5
+  },
+  {
+   "start": 77.73,
+   "end": 84.81,
+   "show": "Steam版突破200萬套，Roblox版突破2,000萬次遊玩，售價1,540日圓。",
+   "part": 5
+  },
+  {
+   "start": 85.86,
+   "end": 92.85,
+   "show": "今天最值得記住的是Pocketpair的5天假。把假期排在遊戲發售日，真是大方。",
+   "part": 6
+  },
+  {
+   "start": 93.1,
+   "end": 95.89,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 15.02
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 15.02,
+   "end": 29.48
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 29.48,
+   "end": 41.37
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 41.37,
+   "end": 57.01
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 57.01,
+   "end": 71.09
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 71.09,
+   "end": 85.86
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 85.86,
+   "end": 96.89
+  }
+ ],
+ "made_at": "2026-11-14T16:32:42"
+}

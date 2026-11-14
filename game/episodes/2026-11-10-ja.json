@@ -1,0 +1,321 @@
+{
+ "title": "GTA6事前DL開始、BLGがT1を撃破",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十日、火曜日の朝のニュースです。",
+   "show": "おはようございます、蜜塔ラジオです。11月10日、火曜日の朝のニュース。"
+  },
+  {
+   "say": "今日は五本、ジーティーエーシックスからドラクエ新作、世界大会までお届けします。",
+   "show": "今日は5本、GTA6からドラクエ新作、世界大会まで。"
+  }
+ ],
+ "news": [
+  {
+   "label": "GTA6 事前DL開始",
+   "points": [
+    "11月10日開始",
+    "11月19日発売",
+    "最大212GB"
+   ],
+   "url": "https://news.denfaminicogamer.jp/news/261110z",
+   "lines": [
+    {
+     "say": "まずはジーティーエーシックス。十一月十日から、事前ダウンロードが始まりました。",
+     "show": "まずはGTA6。11月10日から事前ダウンロードが開始。"
+    },
+    {
+     "say": "プレステファイブは午前零時、エックスボックスは午前九時から。発売は十一月十九日、容量は最大二百十二ギガです。",
+     "show": "PS5は0時、Xboxは9時から。発売は11月19日、最大212GB。"
+    }
+   ],
+   "details": [
+    "PS5は11月10日0時（日本時間）、Xboxは9時から開始。",
+    "事前ダウンロードは当初の11月12日から前倒しされました。",
+    "パッケージ版はダウンロードコード封入で、11月12日から販売予定です。"
+   ],
+   "link": {
+    "url": "https://news.denfaminicogamer.jp/news/261110z",
+    "title": "『GTA6』事前ダウンロードが本日11月10日よりスタート。PS5版は0時、Xbox版は日本時間9時から開始予定、最大で“212GB”の容量が必要に",
+    "site": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+    "description": "PS5版は0時、Xbox版は日本時間9時から開始予定。DLしておけば11月19日の発売後すぐにプレイできる",
+    "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HVm-3Q7a8AEvFuL.png",
+    "icon": "https://news.denfaminicogamer.jp/wp-content/uploads/2016/12/apple-touch-icon.png"
+   }
+  },
+  {
+   "label": "LoL 世界大会四強",
+   "points": [
+    "BLG 3-1 T1",
+    "T1の13連勝止まる",
+    "15日決勝GEN戦"
+   ],
+   "url": "https://fistbump-news.jp/article/2026/11/09/3169.html",
+   "lines": [
+    {
+     "say": "続いてはリーグ・オブ・レジェンズ。世界大会の準決勝で、ビーエルジーがティーワンを三対一で破りました。",
+     "show": "続いてはLoL。世界大会準決勝でBLGがT1を3-1で撃破。"
+    },
+    {
+     "say": "ティーワンの、エルピーエル相手の連勝記録は十三で止まり、四連覇も途絶えました。決勝は十五日、ジーイーエヌと戦います。",
+     "show": "T1のLPL相手の連勝は13で止まり、四連覇も途絶える。決勝は15日、GEN戦。"
+    }
+   ],
+   "details": [
+    "BLGは世界大会のBO5でT1を破った初めてのLPLチームです。",
+    "T1は2013年から続いたLPL相手のBO5連勝記録を止められました。",
+    "決勝は11月15日、ニューヨークのバークレイズ・センターで行われます。"
+   ],
+   "link": {
+    "url": "https://fistbump-news.jp/article/2026/11/09/3169.html",
+    "title": "T1・Faker「多くの心残りがある1年」―BLGに敗北、4連覇を逃した王者が語った2026年【Worlds 2026】 | FISTBUMP（フィストバンプ）",
+    "site": "FISTBUMP（フィストバンプ）",
+    "description": "「Worlds 2026」の準決勝でBLGに1-3で敗れ、4連覇を逃したT1。試合後のインタビューでFaker選手は「個人的には、多くの心残りがある1年でした」と2026年を振り返りました。",
+    "image": "https://fistbump-news.jp/imgs/ogp_f/18131.jpg",
+    "icon": "https://fistbump-news.jp/base/images/touch-icon-76.png?__=2026020506"
+   }
+  },
+  {
+   "label": "ドラクエ新作発表",
+   "points": [
+    "11月9日電撃発表",
+    "スマホ向けコマンドRPG",
+    "今夜8時トレーラー"
+   ],
+   "url": "https://www.4gamer.net/games/056/G105640/20261109004/",
+   "lines": [
+    {
+     "say": "次はドラクエです。スクウェア・エニックスが、スマホ向けの新作、ドラゴンクエストアールピージー、まかいじゅとみちびかれしまを電撃発表しました。",
+     "show": "次はドラクエ。SQEXがスマホ新作『ドラゴンクエストRPG 魔界樹と導かれし島』を電撃発表。"
+    },
+    {
+     "say": "ジャンルはコマンドアールピージー。今夜八時に、発表トレーラーが公開されます。発売日はまだ未定です。",
+     "show": "ジャンルはコマンドRPG。今夜8時に発表トレーラー公開。発売日は未定。"
+    }
+   ],
+   "details": [
+    "対応はiOSとAndroid。発売日と価格は未定です。",
+    "トレーラーは約2分で、スクウェア・エニックス公式YouTubeで今夜8時に公開。",
+    "公式Xアカウント「@DQRPG_JP」も開設されました。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/056/G105640/20261109004/",
+    "title": "スマホ向け新作「ドラゴンクエストRPG 魔界樹と導かれし島」サプライズ発表。11月10日20：00にアナウンストレイラー公開を予告",
+    "site": "4Gamer.net",
+    "description": "スクウェア・エニックスは本日（2026年11月9日），スマホ向け新作「ドラゴンクエストRPG 魔界樹と導かれし島」をサプライズ発表した。アナウンストレイラーを11月10日20：00にYouTubeで…",
+    "image": "https://www.4gamer.net/games/056/G105640/20261109004/SS/002.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "WoW 世界初60レベル",
+   "points": [
+    "配信3日で達成",
+    "JokerDの5人隊",
+    "12月9日レイド"
+   ],
+   "url": "https://za.ign.com/world-of-warcraft-forever/245006/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+   "lines": [
+    {
+     "say": "ワールド・オブ・ウォークラフト、フォーエバーでは、配信から三日で世界初のレベル六十が誕生しました。",
+     "show": "WoW: Foreverで、配信から3日で世界初のレベル60が誕生。"
+    },
+    {
+     "say": "配信者のジョーカーディー率いる五人パーティが、約五十二時間で達成。最初のレイドは十二月九日です。",
+     "show": "配信者JokerD率いる5人パーティが約52時間で達成。最初のレイドは12月9日。"
+    }
+   ],
+   "details": [
+    "編成はメイジ3人、パラディン1人、シャーマン1人。4人がアンデッド、1人がトロールです。",
+    "調整されたアンデッドの「人食い」でマナを回復し、休憩時間をほぼなくしました。",
+    "最初のレイドはバローディープ、ハイジャル・サミット、オニキシアの巣です。"
+   ],
+   "link": {
+    "url": "https://za.ign.com/world-of-warcraft-forever/245006/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+    "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+    "site": "IGN Africa",
+    "description": "Now, that's a marathon.",
+    "image": "https://sm.ign.com/t/ign_za/news/w/world-of-w/world-of-warcraft-forever-world-first-level-60-character-hit_fkgk.1200.jpg",
+    "icon": "https://za.ign.com/s/ign/favicon.ico"
+   }
+  },
+  {
+   "label": "HoYoverse G-STAR",
+   "points": [
+    "4年ぶり復帰",
+    "Petit Planet 12/4",
+    "Nexus Anima 11/25"
+   ],
+   "url": "https://www.digitaltoday.co.kr/jp/view/122747/hoyoverse-unveils-two-new-titles-from-ai-social-to-strategy-combat",
+   "lines": [
+    {
+     "say": "最後はホヨバース。四年ぶりにジースターに戻り、新作二本を韓国で初公開します。",
+     "show": "最後はHoYoverse。4年ぶりにG-STARへ戻り、新作2本を韓国初公開。"
+    },
+    {
+     "say": "ぷちぷらねっとは十二月四日に世界配信。ほうかい、ネクサスアニマは十一月二十五日に最終テストです。",
+     "show": "『プチプラネット』は12月4日世界配信。『崩壊：ネクサスアニマ』は11月25日最終テスト。"
+    }
+   ],
+   "details": [
+    "G-STAR 2026は11月19日から22日まで、釜山のBEXCOで開催されます。",
+    "HoYoverseは約100ブースで出展し、4年ぶりの復帰になります。",
+    "『崩壊：ネクサスアニマ』の正式リリースは2027年春を予定しています。"
+   ],
+   "link": {
+    "url": "https://www.digitaltoday.co.kr/jp/view/122747/hoyoverse-unveils-two-new-titles-from-ai-social-to-strategy-combat",
+    "title": "HoYoverse、新作2タイトル発表 「Petit Planet」は12月4日配信、「崩壊：Nexus Anima」は27年春予定",
+    "site": "DigitalToday",
+    "description": "HoYoverse Koreaは11月6日、新作「Petit Planet」と「崩壊：Nexus Anima」を発表した。「Petit Planet」は12月4日に配信開始する。「崩壊：Nexus Anima」は2027年春の正式リリースを目指し、G-STAR 2026で初の試遊機会を設ける。",
+    "image": "https://cdn.digitaltoday.co.kr/news/photo/202611/713432_660840_3146.jpg",
+    "icon": "https://cdn.digitaltoday.co.kr/image/logo/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、やはりジーティーエーシックス。発売まであと九日、事前ダウンロードで準備は万全ですね。",
+   "show": "今日の注目はGTA6。発売まであと9日、事前ダウンロードで準備万端。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上、蜜塔ラジオでした。また明日。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-10",
+ "lang": "ja",
+ "seconds": 120.37,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.95,
+   "show": "おはようございます、蜜塔ラジオです。11月10日、火曜日の朝のニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.2,
+   "end": 13.37,
+   "show": "今日は5本、GTA6からドラクエ新作、世界大会まで。",
+   "part": 0
+  },
+  {
+   "start": 14.42,
+   "end": 21.15,
+   "show": "まずはGTA6。11月10日から事前ダウンロードが開始。",
+   "part": 1
+  },
+  {
+   "start": 21.4,
+   "end": 31.2,
+   "show": "PS5は0時、Xboxは9時から。発売は11月19日、最大212GB。",
+   "part": 1
+  },
+  {
+   "start": 32.25,
+   "end": 40.09,
+   "show": "続いてはLoL。世界大会準決勝でBLGがT1を3-1で撃破。",
+   "part": 2
+  },
+  {
+   "start": 40.34,
+   "end": 50.84,
+   "show": "T1のLPL相手の連勝は13で止まり、四連覇も途絶える。決勝は15日、GEN戦。",
+   "part": 2
+  },
+  {
+   "start": 51.89,
+   "end": 62.6,
+   "show": "次はドラクエ。SQEXがスマホ新作『ドラゴンクエストRPG 魔界樹と導かれし島』を電撃発表。",
+   "part": 3
+  },
+  {
+   "start": 62.85,
+   "end": 72.08,
+   "show": "ジャンルはコマンドRPG。今夜8時に発表トレーラー公開。発売日は未定。",
+   "part": 3
+  },
+  {
+   "start": 73.13,
+   "end": 80.4,
+   "show": "WoW: Foreverで、配信から3日で世界初のレベル60が誕生。",
+   "part": 4
+  },
+  {
+   "start": 80.65,
+   "end": 88.91,
+   "show": "配信者JokerD率いる5人パーティが約52時間で達成。最初のレイドは12月9日。",
+   "part": 4
+  },
+  {
+   "start": 89.96,
+   "end": 97.37,
+   "show": "最後はHoYoverse。4年ぶりにG-STARへ戻り、新作2本を韓国初公開。",
+   "part": 5
+  },
+  {
+   "start": 97.62,
+   "end": 106.69,
+   "show": "『プチプラネット』は12月4日世界配信。『崩壊：ネクサスアニマ』は11月25日最終テスト。",
+   "part": 5
+  },
+  {
+   "start": 107.74,
+   "end": 115.71,
+   "show": "今日の注目はGTA6。発売まであと9日、事前ダウンロードで準備万端。",
+   "part": 6
+  },
+  {
+   "start": 115.96,
+   "end": 119.37,
+   "show": "以上、蜜塔ラジオでした。また明日。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.42
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.42,
+   "end": 32.25
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 32.25,
+   "end": 51.89
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 51.89,
+   "end": 73.13
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 73.13,
+   "end": 89.96
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 89.96,
+   "end": 107.74
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 107.74,
+   "end": 120.37
+  }
+ ],
+ "made_at": "2026-11-10T07:15:05"
+}

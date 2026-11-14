@@ -1,0 +1,321 @@
+{
+ "title": "減稅、安保、彈劾 三線齊動",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔電台。十一月十日，星期二的政治新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月10日，星期二的政治新聞。"
+  },
+  {
+   "say": "今天有五則：日本的減稅與安保、台灣的憲政、美國的彈劾，還有烏克蘭局勢。",
+   "show": "今天有 5 則：日本的減稅與安保、台灣的憲政、美國的彈劾、烏克蘭局勢。"
+  }
+ ],
+ "news": [
+  {
+   "label": "消費稅減稅 參院審議",
+   "points": [
+    "11日進入審議",
+    "高市首相出席",
+    "食品為對象"
+   ],
+   "url": "https://news.web.nhk/newsweb/na/nd-20261110de73298",
+   "lines": [
+    {
+     "say": "先看日本消費稅。食品減稅法案將在十一月十一日於參議院進入審議。",
+     "show": "先看日本消費稅。食品減稅法案11月11日在參議院進入審議。"
+    },
+    {
+     "say": "十號執政與在野黨在議院運營委員會達成協議，高市首相將出席答詢。",
+     "show": "10日執政與在野黨在議運委達成協議，高市首相出席答詢。"
+    }
+   ],
+   "details": [
+    "執政與在野黨在十日的參議院議院運營委員會理事會正式達成協議。",
+    "法案針對食品的消費稅減稅。",
+    "十一日參議院本會議進入審議，高市首相出席質詢。"
+   ],
+   "link": {
+    "url": "https://news.web.nhk/newsweb/na/nd-20261110de73298",
+    "title": "消費税減税法案 参院であす審議入り 与野党が議運委で正式合意 | NHKニュース",
+    "site": "NHKニュース",
+    "description": "【NHK】食料品の消費税減税関連法案の審議日程をめぐり、参議院議院運営委員会が理事会を開き、11日に参議院本会議で審議入りするとともに、高市総理大臣に出席を求めて質疑を行うことで与野党が正式に合意しました。",
+    "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73298/20261110de73298_E0000158201_1_l.jpg",
+    "icon": "https://news.web.nhk/favicon.png"
+   }
+  },
+  {
+   "label": "安保三文件 實務協商",
+   "points": [
+    "年內修訂",
+    "自民、維新首次會商",
+    "國會內舉行"
+   ],
+   "url": "https://ehime-np.co.jp/article/ky2026111001000952",
+   "lines": [
+    {
+     "say": "接著是日本安保。自民黨與日本維新會十日在國會內，就安保三文件修訂展開實務協商。",
+     "show": "接著是日本安保。自民與維新10日在國會內展開安保3文件實務協商。"
+    },
+    {
+     "say": "目標是在年內修訂國家安全保障戰略等三份文件。",
+     "show": "目標是年內修訂國家安全保障戰略等3份文件。"
+    }
+   ],
+   "details": [
+    "協商在國會內舉行。",
+    "對象是國家安全保障戰略等安保三文件。",
+    "政府目標是在年內完成修訂。"
+   ],
+   "link": {
+    "url": "https://ehime-np.co.jp/article/ky2026111001000952",
+    "title": "安保３文書改定へ与党実務者協議開催",
+    "site": "愛媛新聞社",
+    "description": "自民党と日本維新の会は１０日、国家安全保障戦略など安保関連３文書の年内改定に向けた実務者協議を国会内で開いた。",
+    "image": "https://www.ehime-np.co.jp/media/images/img/logo_ogp.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "台灣 老福法不副署",
+   "points": [
+    "65歲以上健保",
+    "行政院不副署",
+    "選前掀波"
+   ],
+   "url": "https://udn.com/news/story/6656/9868275",
+   "lines": [
+    {
+     "say": "台灣方面，立法院通過《老人福利法》修法，行政院決定不副署。",
+     "show": "台灣方面，立法院通過《老人福利法》修法，行政院不副署。"
+    },
+    {
+     "say": "卓榮泰十日說，選情確實緊繃，但憲政秩序與財政紀律必須優先。",
+     "show": "卓榮泰10日表示選情緊繃，但憲政秩序與財政紀律應優先。"
+    }
+   ],
+   "details": [
+    "修法內容是中央有條件補助六十五歲以上長者的健保費。",
+    "行政院決定不副署。",
+    "地方選舉將近，在野黨持續以此議題進攻。"
+   ],
+   "link": {
+    "url": "https://udn.com/news/story/6656/9868275",
+    "title": "老福法不副署恐衝擊選情？ 卓榮泰：憲政秩序、財政紀律應優先 | 聯合新聞網",
+    "site": "聯合新聞網",
+    "description": "距離地方選舉僅剩十多天，《老人福利法》修法不副署議題持續延燒，藍營頻頻以此追問綠營縣市長候選人。行政院長卓榮泰10日表示，選情確實緊繃，但政府思考必須將維護憲政秩序與財政紀律放在最優先，任何政黨都不應透過破壞憲政秩序、財政紀律來獲取選舉利益，否則將引起人民最大反感。",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35501679.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
+    "icon": "https://udn.com/static/img/icons/icon-128x128.png"
+   }
+  },
+  {
+   "label": "美國 防長彈劾案",
+   "points": [
+    "共和黨議員提案",
+    "伊朗動武成爭點",
+    "眾院最快11日表決"
+   ],
+   "url": "https://www.swissinfo.ch/chi/%E7%BE%8E%E5%9B%BD%E5%85%B1%E5%92%8C%E5%85%9A%E8%AE%AE%E5%91%98%E6%8F%90%E6%A1%88%E5%BC%B9%E5%8A%BE%E6%88%98%E4%BA%89%E9%83%A8%E9%95%BF-%E4%BC%97%E9%99%A2%E6%9C%80%E5%BF%AB11%E6%97%A5%E8%A1%A8%E5%86%B3/92354981",
+   "lines": [
+    {
+     "say": "美國方面，共和黨籍眾議員馬西提出彈劾國防部長赫格塞斯的議案。",
+     "show": "美國方面，共和黨眾議員馬西提出彈劾國防部長赫格塞斯的議案。"
+    },
+    {
+     "say": "理由包括未經授權對伊朗動武等，眾院最快十一日表決，川普總統則力挺赫格塞斯。",
+     "show": "理由包括未經授權對伊朗動武等。眾院最快11日表決，川普總統力挺。"
+    }
+   ],
+   "details": [
+    "提案人是肯塔基州選出的馬西。",
+    "彈劾理由包括未經授權對伊朗開戰與濫用職權。",
+    "眾院最快十一日表決；參議院定罪需要三分之二多數。"
+   ],
+   "link": {
+    "url": "https://www.swissinfo.ch/chi/%E7%BE%8E%E5%9B%BD%E5%85%B1%E5%92%8C%E5%85%9A%E8%AE%AE%E5%91%98%E6%8F%90%E6%A1%88%E5%BC%B9%E5%8A%BE%E6%88%98%E4%BA%89%E9%83%A8%E9%95%BF-%E4%BC%97%E9%99%A2%E6%9C%80%E5%BF%AB11%E6%97%A5%E8%A1%A8%E5%86%B3/92354981",
+    "title": "美国共和党议员提案弹劾战争部长 众院最快11日表决",
+    "site": "SWI swissinfo.ch",
+    "description": "（法新社华盛顿9日电） 美国共和党籍联邦众议员马西（Thomas Massie）今天提案弹劾战争部长赫格塞斯（Pete Hegseth），指控他未经国会授权发动伊朗战争、滥用职权。美国总统川普公开表示支持赫格塞斯。",
+    "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/null-92354968.jpg?ver=644d2d3d",
+    "icon": "https://www.swissinfo.ch/chi/wp-content/client-mu-plugins/swissinfo-wp-customizations/resources/svg/swi-site-icon.svg?ver=1790698608"
+   }
+  },
+  {
+   "label": "俄烏美 阿布達比會談",
+   "points": [
+    "睽違9個月重啟",
+    "首日約4小時",
+    "11日續談"
+   ],
+   "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18",
+   "lines": [
+    {
+     "say": "最後是烏克蘭。在美國斡旋下，俄羅斯與烏克蘭在阿布達比重啟會談。",
+     "show": "最後是烏克蘭。美國斡旋下，俄羅斯與烏克蘭在阿布達比重啟會談。"
+    },
+    {
+     "say": "首日談了約四小時，十一日繼續，議題包括停戰後的安全保障。",
+     "show": "首日約4小時，11日繼續，議題包括停戰後的安全保障。"
+    }
+   ],
+   "details": [
+    "這是睽違九個月的重啟，也是第四輪會談。",
+    "美方由威特科夫與庫許納參與。",
+    "首日約四小時，十一日上午繼續。"
+   ],
+   "link": {
+    "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18",
+    "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+    "site": "AP News",
+    "description": "Russia, Ukraine, and the United States have started three-way talks in the United Arab Emirates to address the ongoing conflict. The discussions on Tuesday mark the first meeting since February.",
+    "image": "https://dims.apnews.com/dims4/default/df826da/2147483647/strip/true/crop/7854x5236+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F14%2Fc8c9979ced9d730eede3d28c2521%2Feee8df224adf4a0facafd41669da06c4",
+    "icon": "https://apnews.com/apple-touch-icon.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天最值得關注的是食品消費稅減稅。它直接影響生活，參議院審議將是焦點。",
+   "show": "今天最值得關注的是食品消費稅減稅。直接影響生活，參院審議是焦點。"
+  },
+  {
+   "say": "以上，蜜塔電台。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-10",
+ "lang": "zh",
+ "seconds": 95.68,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.52,
+   "show": "早安，這裡是蜜塔 radio。11月10日，星期二的政治新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.77,
+   "end": 13.93,
+   "show": "今天有 5 則：日本的減稅與安保、台灣的憲政、美國的彈劾、烏克蘭局勢。",
+   "part": 0
+  },
+  {
+   "start": 14.98,
+   "end": 21.53,
+   "show": "先看日本消費稅。食品減稅法案11月11日在參議院進入審議。",
+   "part": 1
+  },
+  {
+   "start": 21.78,
+   "end": 28.73,
+   "show": "10日執政與在野黨在議運委達成協議，高市首相出席答詢。",
+   "part": 1
+  },
+  {
+   "start": 29.78,
+   "end": 37.59,
+   "show": "接著是日本安保。自民與維新10日在國會內展開安保3文件實務協商。",
+   "part": 2
+  },
+  {
+   "start": 37.84,
+   "end": 41.86,
+   "show": "目標是年內修訂國家安全保障戰略等3份文件。",
+   "part": 2
+  },
+  {
+   "start": 42.91,
+   "end": 48.41,
+   "show": "台灣方面，立法院通過《老人福利法》修法，行政院不副署。",
+   "part": 3
+  },
+  {
+   "start": 48.66,
+   "end": 55.28,
+   "show": "卓榮泰10日表示選情緊繃，但憲政秩序與財政紀律應優先。",
+   "part": 3
+  },
+  {
+   "start": 56.33,
+   "end": 62.29,
+   "show": "美國方面，共和黨眾議員馬西提出彈劾國防部長赫格塞斯的議案。",
+   "part": 4
+  },
+  {
+   "start": 62.54,
+   "end": 69.99,
+   "show": "理由包括未經授權對伊朗動武等。眾院最快11日表決，川普總統力挺。",
+   "part": 4
+  },
+  {
+   "start": 71.04,
+   "end": 76.98,
+   "show": "最後是烏克蘭。美國斡旋下，俄羅斯與烏克蘭在阿布達比重啟會談。",
+   "part": 5
+  },
+  {
+   "start": 77.23,
+   "end": 83.41,
+   "show": "首日約4小時，11日繼續，議題包括停戰後的安全保障。",
+   "part": 5
+  },
+  {
+   "start": 84.46,
+   "end": 91.72,
+   "show": "今天最值得關注的是食品消費稅減稅。直接影響生活，參院審議是焦點。",
+   "part": 6
+  },
+  {
+   "start": 91.97,
+   "end": 94.68,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.98
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.98,
+   "end": 29.78
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 29.78,
+   "end": 42.91
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 42.91,
+   "end": 56.33
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 56.33,
+   "end": 71.04
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 71.04,
+   "end": 84.46
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 84.46,
+   "end": 95.68
+  }
+ ],
+ "made_at": "2026-11-11T01:41:39"
+}

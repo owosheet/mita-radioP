@@ -1,0 +1,321 @@
+{
+ "title": "MAPPA獲CyberAgent出資，2027新作連發",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔電台。十一月十二日，星期四的動漫新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月12日，星期四的動漫新聞。"
+  },
+  {
+   "say": "今天有五則，從 MAPPA 的提攜，到新作動畫發表。",
+   "show": "今天有5則，從MAPPA的提攜到新作動畫發表。"
+  }
+ ],
+ "news": [
+  {
+   "label": "CyberAgent 出資 MAPPA",
+   "points": [
+    "簽資本業務提攜",
+    "取得MHD部分股份",
+    "製作、配信、遊戲合作"
+   ],
+   "url": "https://gamebiz.jp/news/435392",
+   "lines": [
+    {
+     "say": "首先是大型合作。CyberAgent 與製作《咒術迴戰》《鏈鋸人》的 MAPPA，簽訂資本業務提攜。",
+     "show": "CyberAgent與製作《咒術迴戰》《鏈鋸人》的MAPPA簽資本業務提攜。"
+    },
+    {
+     "say": "取得母公司部分股份。結合製作力與配信、遊戲力量，也會推進海外發展。",
+     "show": "取得母公司MHD部分股份。結合製作力與配信、遊戲力量，推進海外發展。"
+    }
+   ],
+   "details": [
+    "出資比例與金額不公開。MAPPA 維持獨立工作室的經營體制。",
+    "從企劃製作到播出、遊戲、周邊、活動，都會廣泛合作。",
+    "CyberAgent 把 2027 年 4 月播出的《神樂鉢》當作 IP 發展的軸心。"
+   ],
+   "link": {
+    "url": "https://gamebiz.jp/news/435392",
+    "title": "サイバーエージェント、世界的に著名なアニメスタジオMAPPAと資本業務提携 アニメ制作体制を強化、企画から海外展開まで連携 | gamebiz",
+    "site": "gamebiz【ゲームビズ】",
+    "description": "サイバーエージェント<4751>は、本日11月11日、世界的に著名なアニメーションスタジオのMAPPAと業務提携契約を締結するとともに、MAPPAの親会社であるMHDの株式の一部を取得したと発表した。出資比率や取得額については公開していない。業務提携を通じては、MAPPAの持つアニメーション制作力と、サイバーエージェントグループがメディア運営やゲーム事業、広告事業で培ってきた知見を掛け合わせてい…",
+    "image": "https://i3.gamebiz.jp/media/befded05-5077-46e9-bf1d-42381ccb2c88.jpg",
+    "icon": "https://gamebiz.jp/favicon.ico?1793002622"
+   }
+  },
+  {
+   "label": "《七つ屋》2027動畫化",
+   "points": [
+    "2027年播出",
+    "監督今千秋",
+    "J.C.STAFF製作"
+   ],
+   "url": "https://anime.eiga.com/news/127855/",
+   "lines": [
+    {
+     "say": "《交響情人夢》作者二之宮知子的漫畫《七屋 志乃布的寶石匣》，2027 年改編電視動畫。",
+     "show": "《交響情人夢》二之宮知子原作《七つ屋 志のぶの宝石匣》2027年TV動畫化。"
+    },
+    {
+     "say": "監督是今千秋，製作是 J.C.STAFF。故事圍繞寶石與當鋪。",
+     "show": "監督今千秋，製作J.C.STAFF。寶石與當鋪的故事。"
+    }
+   ],
+   "details": [
+    "發表在十一月十一日寶石之日，前導視覺與 PV 也公開了。",
+    "系列構成水上清資，角色設計古木舞。",
+    "原作在講談社《Kiss》連載中，單行本第 28 集十一月十三日發售。"
+   ],
+   "link": {
+    "url": "https://anime.eiga.com/news/127855/",
+    "title": "「のだめ」二ノ宮知子の漫画「七つ屋 志のぶの宝石匣」27年にTVアニメ化 監督は今千秋、アニメーション制作はJ.C.STAFF",
+    "site": "アニメハック",
+    "description": "「のだめカンタービレ」で知られる二ノ宮知子氏の漫画「七つ屋 志のぶの宝石匣」が、2027年にテレビアニメ化されることが決定した。メインスタッフ、ティザービジュアル、ティザーPV（https://youtu.be/91yBQCHHjZ8...",
+    "image": "https://media.eiga.com/images/anime/news/127855/photo/b160c3a944014e2b/640.jpg",
+    "icon": "https://media.eiga.com/anime/images/common/favicon.ico"
+   }
+  },
+  {
+   "label": "《アオハル》2027年1月",
+   "points": [
+    "2027年1月 東京電視",
+    "海渡翼、浦和希主演",
+    "前導PV公開"
+   ],
+   "url": "https://www.animatetimes.com/news/details.php?id=1794358789",
+   "lines": [
+    {
+     "say": "宮田トヲル的青春 BL《再一次的青春》，2027 年 1 月起在東京電視台播出。",
+     "show": "宮田トヲル原作《アオハル・ワンスモア》2027年1月起東京電視台播出。"
+    },
+    {
+     "say": "主角小林隼人由海渡翼飾演，大西律由浦和希飾演。前導影片也公開了。",
+     "show": "海渡翼、浦和希主演。前導PV公開。"
+    }
+   ],
+   "details": [
+    "以輕動畫形式製作，是 BALLOON 企劃第三彈。",
+    "監督町田莉果子，動畫製作為 Imagica Infos 與 Imageworks Studio。",
+    "十二月二十二日在池袋 Animate Theater 舉辦先行上映與聲優座談。"
+   ],
+   "link": {
+    "url": "https://www.animatetimes.com/news/details.php?id=1794358789",
+    "title": "『アオハル・ワンスモア』2027年1月放送開始｜声優に海渡翼、浦和希 | アニメイトタイムズ",
+    "site": "アニメイトタイムズ",
+    "description": "【アニメイトタイムズ】TVアニメ『アオハル・ワンスモア』が2027年1月よりテレ東にて放送されることが決定しました！ 発表にあわせて、メインキャストに海渡翼さん、浦和希さんが決定し、お二人よりコメントが到着しています。さらに、キャスト登壇イベントの開催情報も解禁されました...",
+    "image": "https://img2.animatetimes.com/2026/11/c27fd0b07b4e5116ebc05473b186ef9d6af3be2fc12560_92995442_c7649d97586a4c4ae31f4d2b4807e05cbe5fe304.jpg",
+    "icon": "https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/favicon.ico"
+   }
+  },
+  {
+   "label": "《33歲單身女騎士隊長》動畫化",
+   "points": [
+    "連載10週年動畫化",
+    "作者天原",
+    "公開記念MV"
+   ],
+   "url": "https://eiga.com/news/20261111/19/",
+   "lines": [
+    {
+     "say": "迎接連載十年的漫畫《33歲單身女騎士隊長。》，決定改編動畫。",
+     "show": "《33歲單身女騎士隊長。》連載10週年動畫化。"
+    },
+    {
+     "say": "作者是天原。記念 MV 與主角梅露的設計也公開了。",
+     "show": "作者天原。記念MV與主角梅露設計公開。"
+    }
+   ],
+   "details": [
+    "故事描寫三十三歲的單身女騎士隊長梅露與夥伴們。",
+    "天原也是《異種族風俗娘評鑑指南》《平穩世代的韋駄天們》的作者。",
+    "播出時間、製作公司、聲優陣容尚未公布。"
+   ],
+   "link": {
+    "url": "https://eiga.com/news/20261111/19/",
+    "title": "オトナ向けファンタジーコメディ漫画「33歳独身女騎士隊長。」アニメ化決定 記念MVが公開 : 映画ニュース - 映画.com",
+    "site": "映画.com",
+    "description": "「異種族レビュアーズ」「平穏世代の韋駄天達」などで知られる天原氏の漫画「33歳独身女騎士隊長。」の連載10周年を記念して、アニメ化が決定した。あわせて、アニメ化記念ミュージックビデオ(https://youtu.be/Q0xH9eQ_d9Q",
+    "image": "https://media.eiga.com/images/buzz/130425/b0008a35f6d0dbbd.jpg",
+    "icon": "https://media.eiga.com/favicon.ico"
+   }
+  },
+  {
+   "label": "《ネコのクラちゃん》停播",
+   "points": [
+    "TOKYO MX 播出結束",
+    "理由僅稱諸般事情",
+    "最終新作9月2日"
+   ],
+   "url": "https://mediadogs.jp/2026/11/10/nekono-kurachan-season2-tokyomx/",
+   "lines": [
+    {
+     "say": "最後是《貓咪庫拉》。第二季宣布結束在 TOKYO MX 的電視播出。",
+     "show": "《ネコのクラちゃん》第2季在TOKYO MX播出結束。"
+    },
+    {
+     "say": "理由只說是諸般事情，沒有詳細說明。九月二日的第十六集是最後的新作。",
+     "show": "理由僅稱「諸般事情」。9月2日第16集是最後新作。"
+    }
+   ],
+   "details": [
+    "官方網站在十一月十日刊登「關於電視播出結束」的公告。",
+    "第二季從四月一日開播，每週三傍晚六點半播出。",
+    "九月十六日起連續播出總集篇，社群上出現擔心被腰斬的聲音。"
+   ],
+   "link": {
+    "url": "https://mediadogs.jp/2026/11/10/nekono-kurachan-season2-tokyomx/",
+    "title": "『ネコのクラちゃん』2期がTOKYO MXで放送終了、詳細な理由は明かされず 新作は9月の第16話まで、打ち切りと受け止める声も",
+    "site": "MediaDogs",
+    "description": "アニメ『ネコのクラちゃん』2期の公式サイトが11月10日、TOKYO MXでの放送を諸事情により終了すると発表した。詳細な理由は明かされていない。新作は9月2日の第16話が最後で、総集編と休止が続いた流れ、台湾発の作品の成り立ちと声優陣をまとめた。",
+    "image": "https://mediadogs.jp/wp-content/uploads/2026/11/eyecatch-245.webp",
+    "icon": "https://mediadogs.jp/wp-content/uploads/2025/07/cropped-IMG_2707as-removebg-preview-32x32.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是 CyberAgent 與 MAPPA 的提攜。製作與配信的優勢結合，值得期待。",
+   "show": "今天的重點是CyberAgent與MAPPA提攜。製作與配信的優勢結合，值得期待。"
+  },
+  {
+   "say": "以上，蜜塔電台。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-12",
+ "lang": "zh",
+ "seconds": 95.06,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.58,
+   "show": "早安，這裡是蜜塔 radio。11月12日，星期四的動漫新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.83,
+   "end": 11.15,
+   "show": "今天有5則，從MAPPA的提攜到新作動畫發表。",
+   "part": 0
+  },
+  {
+   "start": 12.2,
+   "end": 20.66,
+   "show": "CyberAgent與製作《咒術迴戰》《鏈鋸人》的MAPPA簽資本業務提攜。",
+   "part": 1
+  },
+  {
+   "start": 20.91,
+   "end": 27.38,
+   "show": "取得母公司MHD部分股份。結合製作力與配信、遊戲力量，推進海外發展。",
+   "part": 1
+  },
+  {
+   "start": 28.43,
+   "end": 36.17,
+   "show": "《交響情人夢》二之宮知子原作《七つ屋 志のぶの宝石匣》2027年TV動畫化。",
+   "part": 2
+  },
+  {
+   "start": 36.42,
+   "end": 43.18,
+   "show": "監督今千秋，製作J.C.STAFF。寶石與當鋪的故事。",
+   "part": 2
+  },
+  {
+   "start": 44.23,
+   "end": 50.84,
+   "show": "宮田トヲル原作《アオハル・ワンスモア》2027年1月起東京電視台播出。",
+   "part": 3
+  },
+  {
+   "start": 51.09,
+   "end": 57.64,
+   "show": "海渡翼、浦和希主演。前導PV公開。",
+   "part": 3
+  },
+  {
+   "start": 58.69,
+   "end": 64.27,
+   "show": "《33歲單身女騎士隊長。》連載10週年動畫化。",
+   "part": 4
+  },
+  {
+   "start": 64.52,
+   "end": 69.2,
+   "show": "作者天原。記念MV與主角梅露設計公開。",
+   "part": 4
+  },
+  {
+   "start": 70.25,
+   "end": 75.67,
+   "show": "《ネコのクラちゃん》第2季在TOKYO MX播出結束。",
+   "part": 5
+  },
+  {
+   "start": 75.92,
+   "end": 83.34,
+   "show": "理由僅稱「諸般事情」。9月2日第16集是最後新作。",
+   "part": 5
+  },
+  {
+   "start": 84.39,
+   "end": 91.21,
+   "show": "今天的重點是CyberAgent與MAPPA提攜。製作與配信的優勢結合，值得期待。",
+   "part": 6
+  },
+  {
+   "start": 91.46,
+   "end": 94.06,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.2
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.2,
+   "end": 28.43
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 28.43,
+   "end": 44.23
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 44.23,
+   "end": 58.69
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 58.69,
+   "end": 70.25
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 70.25,
+   "end": 84.39
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 84.39,
+   "end": 95.06
+  }
+ ],
+ "made_at": "2026-11-12T11:23:38"
+}
