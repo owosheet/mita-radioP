@@ -1,0 +1,331 @@
+{
+ "title": "《鑽石的功罪》動畫化，《幻想水滸傳》上線",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十七日、星期二的動漫新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月17日、星期二的動漫新聞。"
+  },
+  {
+   "say": "今天四則：鑽石的功罪動畫化、角川的亞洲合資，還有幻想水滸傳上線。",
+   "show": "今天4則：《鑽石的功罪》動畫化、角川的亞洲合資，還有《幻想水滸傳》上線。"
+  }
+ ],
+ "news": [
+  {
+   "label": "鑽石的功罪動畫化",
+   "points": [
+    "Lapin Track 製作",
+    "Young Jump 連載",
+    "累計200萬部"
+   ],
+   "url": "https://times.abema.tv/articles/-/10289503",
+   "lines": [
+    {
+     "say": "棒球漫畫，鑽石的功罪，確定改編電視動畫。",
+     "show": "棒球漫畫《ダイヤモンドの功罪》確定改編電視動畫。"
+    },
+    {
+     "say": "製作公司是 Lapin Track，也公開了前導視覺與原作者紀念插圖。",
+     "show": "由ラパントラック製作，同步公開前導視覺與原作者紀念插圖。"
+    },
+    {
+     "say": "原作在週刊 Young Jump 連載中，單行本十卷累計突破兩百萬部。",
+     "show": "原作在週刊Young Jump連載中，單行本10卷累計突破200萬部。"
+    },
+    {
+     "say": "這是平井大橋原作的棒球成長故事。",
+     "show": "這是平井大橋原作的棒球成長故事。"
+    }
+   ],
+   "details": [
+    "平井大橋原作，2023年2月起在週刊Young Jump連載。",
+    "單行本10卷累計突破200萬部，曾獲「這本漫畫真厲害！2024」男性篇第1名。",
+    "描寫天才投手少年的苦惱與成長的棒球漫畫。"
+   ],
+   "link": {
+    "url": "https://times.abema.tv/articles/-/10289503",
+    "title": "『ダイヤモンドの功罪』TVアニメ化が決定！制作はラパントラック アニメ化決定ビジュアル＆原作者記念イラスト公開 | アニメニュース | アニメフリークス",
+    "site": "ANIME FREAKS",
+    "description": "人気漫画『ダイヤモンドの功罪』のTVアニメ化が決定した。あわせて、アニメ化決定ビジュアルおよび原作者によるアニメ化記念イラストが公開されたほか、メインスタッフ情報と意気込みコメントが到着した。 本作は「週刊ヤングジャンプ」（集英社）にて2023…",
+    "image": "https://times-abema.ismcdn.jp/mwimgs/3/9/1200w/img_39b6d129ab3439549db7c0639abe2c02341504.jpg",
+    "icon": "https://times-abema.ismcdn.jp/common/images/animefreaks/favicon.ico"
+   }
+  },
+  {
+   "label": "角川亞洲合資",
+   "points": [
+    "香港與泰國",
+    "亞洲發行",
+    "麵包小偷"
+   ],
+   "url": "https://www.kadokawa.co.jp/topics/18415/",
+   "lines": [
+    {
+     "say": "角川與香港的羚邦集團，將在香港與泰國成立合資公司。",
+     "show": "KADOKAWA 與香港羚邦集團，將在香港與泰國成立合資公司。"
+    },
+    {
+     "say": "擴大動畫發行與周邊業務，第一個作品是麵包小偷。",
+     "show": "擴大動畫發行與周邊業務，首個作品是《麵包小偷》。"
+    },
+    {
+     "say": "香港公司已經在十一月六日設立。",
+     "show": "香港公司已於11月6日設立。"
+    },
+    {
+     "say": "泰國公司預定十二月設立。",
+     "show": "泰國公司預定12月設立。"
+    }
+   ],
+   "details": [
+    "香港公司KMH已於11月6日設立，持有日本與韓國以外亞洲的發行與周邊主授權。",
+    "泰國公司KMT預定12月設立，將在曼谷大型商場開體驗型快閃店。",
+    "兩家皆為角川過半數的出資子公司；羚邦取得香港公司40%股權。"
+   ],
+   "link": {
+    "url": "https://www.kadokawa.co.jp/topics/18415/",
+    "title": "KADOKAWAとMedialink、香港・タイにおける合弁会社設立で合意 | KADOKAWA",
+    "site": "KADOKAWAオフィシャルサイト",
+    "description": "KADOKAWAとMedialink、香港・タイにおける合弁会社設立で合意",
+    "image": "https://static.kadokawa.co.jp/assets/img/ogp.png",
+    "icon": "https://static.kadokawa.co.jp/common/img/favicon.ico"
+   }
+  },
+  {
+   "label": "幻想水滸傳上線",
+   "points": [
+    "17日起",
+    "7話一次上架",
+    "每週二更新"
+   ],
+   "url": "https://ovicio.com.br/suikoden-saiba-quando-o-anime-baseado-no-jogo-estreia-na-crunchyroll/",
+   "lines": [
+    {
+     "say": "幻想水滸傳的動畫，從十一月十七日起在 Crunchyroll 上線。",
+     "show": "《幻想水滸伝》動畫自11月17日起，在Crunchyroll上線。"
+    },
+    {
+     "say": "最初七話一次上架，第八話起每週二更新。",
+     "show": "最初7話一次上架，第8話起每週二更新。"
+    },
+    {
+     "say": "十月起已在 YouTube 以英文字幕先行播出。",
+     "show": "10月起已在YouTube以英文字幕先行播出。"
+    }
+   ],
+   "details": [
+    "KONAMI animation製作，監督為YUZO，改編自《幻想水滸伝II》。",
+    "10月6日起已在YouTube以英文字幕先行播出。",
+    "11月17日起一次上架7話，之後每週二追加新集。"
+   ],
+   "link": {
+    "url": "https://ovicio.com.br/suikoden-saiba-quando-o-anime-baseado-no-jogo-estreia-na-crunchyroll/",
+    "title": "Suikoden: Saiba quando o anime baseado no jogo estreia na Crunchyroll",
+    "site": "O Vício",
+    "description": "A Crunchyroll anunciou que exibirá Suikoden: The Anime, baseado no jogo Suikoden II. Os 7 primeiros episódios estão chegando ao catálogo.",
+    "image": "https://ovicio.com.br/wp-content/uploads/2026/11/20261111-suikoden-the-anime-poster-ovicio.webp",
+    "icon": "https://ovicio.com.br/wp-content/uploads/2026/07/20260702-ovicio-96x96.png"
+   }
+  },
+  {
+   "label": "オロチ前導影片",
+   "points": [
+    "なかむらたかし執導",
+    "BLUE RIGHTS",
+    "上映未定"
+   ],
+   "url": "https://anime.eiga.com/news/127871/",
+   "lines": [
+    {
+     "say": "原創長片大蛇，公開了前導影片。",
+     "show": "なかむらたかし執導的原創長片《オロチ -Seventh Echoes-》，公開前導影片。"
+    },
+    {
+     "say": "故事以聲音支撐的國度為舞台，少年面對沉睡千年後甦醒的災厄。",
+     "show": "故事以聲音支撐的國度為舞台，少年面對沉睡千年後甦醒的災厄。"
+    },
+    {
+     "say": "上映時期還沒確定，前導影片約兩分鐘。",
+     "show": "上映時期還沒確定，前導影片約2分鐘。"
+    }
+   ],
+   "details": [
+    "約2分鐘的前導影片，主題曲為neNna的「Zankyo」。",
+    "角色設計松竹徳幸，美術監督橋本和行。",
+    "動畫製作為2024年設立的BLUE RIGHTS，上映時期未定。"
+   ],
+   "link": {
+    "url": "https://anime.eiga.com/news/127871/",
+    "title": "なかむらたかし監督のオリジナル長編アニメ「オロチ -Seventh Echoes-」パイロットフィルム公開",
+    "site": "アニメハック",
+    "description": "なかむらたかし監督のオリジナル長編アニメーション映画「オロチ -Seventh Echoes-」のパイロットフィルム（https://www.youtube.com/watch?v=p4TQLRaQZH4）が公開された。 同作は、音の...",
+    "image": "https://media.eiga.com/images/anime/news/127871/photo/136389d4acd99113/640.jpg",
+    "icon": "https://media.eiga.com/anime/images/common/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是鑽石的功罪。棒球漫畫的新動畫開始動起來了。",
+   "show": "今天的重點是《鑽石的功罪》。棒球漫畫的新動畫開始動起來了。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-17",
+ "lang": "zh",
+ "seconds": 86.54,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.34,
+   "show": "早安，這裡是蜜塔 radio。11月17日、星期二的動漫新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.59,
+   "end": 13.28,
+   "show": "今天4則：《鑽石的功罪》動畫化、角川的亞洲合資，還有《幻想水滸傳》上線。",
+   "part": 0
+  },
+  {
+   "start": 14.33,
+   "end": 18.51,
+   "show": "棒球漫畫《ダイヤモンドの功罪》確定改編電視動畫。",
+   "part": 1
+  },
+  {
+   "start": 18.76,
+   "end": 24.28,
+   "show": "由ラパントラック製作，同步公開前導視覺與原作者紀念插圖。",
+   "part": 1
+  },
+  {
+   "start": 24.53,
+   "end": 29.9,
+   "show": "原作在週刊Young Jump連載中，單行本10卷累計突破200萬部。",
+   "part": 1
+  },
+  {
+   "start": 30.15,
+   "end": 33.01,
+   "show": "這是平井大橋原作的棒球成長故事。",
+   "part": 1
+  },
+  {
+   "start": 34.06,
+   "end": 38.91,
+   "show": "KADOKAWA 與香港羚邦集團，將在香港與泰國成立合資公司。",
+   "part": 2
+  },
+  {
+   "start": 39.16,
+   "end": 43.27,
+   "show": "擴大動畫發行與周邊業務，首個作品是《麵包小偷》。",
+   "part": 2
+  },
+  {
+   "start": 43.52,
+   "end": 46.25,
+   "show": "香港公司已於11月6日設立。",
+   "part": 2
+  },
+  {
+   "start": 46.5,
+   "end": 48.61,
+   "show": "泰國公司預定12月設立。",
+   "part": 2
+  },
+  {
+   "start": 49.66,
+   "end": 54.7,
+   "show": "《幻想水滸伝》動畫自11月17日起，在Crunchyroll上線。",
+   "part": 3
+  },
+  {
+   "start": 54.95,
+   "end": 58.61,
+   "show": "最初7話一次上架，第8話起每週二更新。",
+   "part": 3
+  },
+  {
+   "start": 58.86,
+   "end": 62.16,
+   "show": "10月起已在YouTube以英文字幕先行播出。",
+   "part": 3
+  },
+  {
+   "start": 63.21,
+   "end": 66.34,
+   "show": "なかむらたかし執導的原創長片《オロチ -Seventh Echoes-》，公開前導影片。",
+   "part": 4
+  },
+  {
+   "start": 66.59,
+   "end": 72.37,
+   "show": "故事以聲音支撐的國度為舞台，少年面對沉睡千年後甦醒的災厄。",
+   "part": 4
+  },
+  {
+   "start": 72.62,
+   "end": 76.42,
+   "show": "上映時期還沒確定，前導影片約2分鐘。",
+   "part": 4
+  },
+  {
+   "start": 77.47,
+   "end": 82.78,
+   "show": "今天的重點是《鑽石的功罪》。棒球漫畫的新動畫開始動起來了。",
+   "part": 5
+  },
+  {
+   "start": 83.03,
+   "end": 85.54,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.33
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.33,
+   "end": 34.06
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 34.06,
+   "end": 49.66
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 49.66,
+   "end": 63.21
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 63.21,
+   "end": 77.47
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 77.47,
+   "end": 86.54
+  }
+ ],
+ "made_at": "2026-11-17T12:45:05"
+}

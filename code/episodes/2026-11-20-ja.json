@@ -1,0 +1,361 @@
+{
+ "title": "PostgreSQL 19、PHP 8.6、nginx緊急修正",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月二十日、金曜日のコードニュースです。",
+   "show": "おはようございます、蜜塔 radio です。11月20日、金曜日のコードニュース。"
+  },
+  {
+   "say": "今日は五本。大型リリースと、緊急のセキュリティ修正です。",
+   "show": "今天5則：大型版本更新，還有緊急的資安修補。"
+  }
+ ],
+ "news": [
+  {
+   "label": "PostgreSQL 19",
+   "points": [
+    "19日リリース",
+    "REPACKが登場",
+    "JITは既定オフ"
+   ],
+   "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+   "lines": [
+    {
+     "say": "ポストグレスキューエルの十九が、十九日にリリースされました。",
+     "show": "PostgreSQL 19 在19日正式發布。"
+    },
+    {
+     "say": "テーブルを止めずに整理するリパックが新しく入っています。",
+     "show": "新版加入不必停表的 REPACK，能線上整理資料表。"
+    },
+    {
+     "say": "実行計画を安定させる機能や、待機系の読み取りも強化されました。",
+     "show": "執行計畫穩定工具與待命讀取也強化了。"
+    }
+   ],
+   "details": [
+    "2026/11/19 GA，支援至 2031 年後半。",
+    "REPACK／REPACK (CONCURRENTLY) 取代 VACUUM FULL、CLUSTER。",
+    "pg_plan_advice、WAIT FOR LSN，JIT 預設關閉。"
+   ],
+   "link": {
+    "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+    "title": "PostgreSQL 19 Released!",
+    "site": "PostgreSQL News",
+    "description": "November 19, 2026 - The [PostgreSQL Global Development Group](https://www.postgresql.org) today announced the release of [PostgreSQL 19](https://www.postgresql.org/docs/19/release-19.html), the latest version of …",
+    "image": "https://www.postgresql.org/media/img/about/press/elephant.png",
+    "icon": "https://www.postgresql.org/favicon.ico"
+   }
+  },
+  {
+   "label": "PHP 8.6",
+   "points": [
+    "19日リリース",
+    "部分適用が導入",
+    "Durationクラス"
+   ],
+   "url": "https://www.php.net/releases/8.6/en.php",
+   "lines": [
+    {
+     "say": "ピーエイチピーの八点六が、同じ日にリリースされました。",
+     "show": "PHP 8.6 也在同一天發布。"
+    },
+    {
+     "say": "引数の一部を固定して、残りを後から渡せるようになります。",
+     "show": "現在可以把部分參數先固定，剩下的事後再傳。"
+    },
+    {
+     "say": "時間を扱う新しいクラスや、ポーリングのエーピーアイも追加されました。",
+     "show": "還加入時間類別與新的輪詢 API。"
+    }
+   ],
+   "details": [
+    "2026/11/19 リリース。",
+    "Partial Function Application、clamp()、SortDirection。",
+    "Time Duration、Io Poll API、readonly プロパティの既定値。"
+   ],
+   "link": {
+    "url": "https://www.php.net/releases/8.6/en.php",
+    "title": "PHP 8.6 Released",
+    "site": "www.php.net",
+    "description": "PHP 8.6 is a major update of the PHP language, with new features including Partial Function Application, a new Duration class, a Polling API, and a new clamp() function",
+    "image": "https://www.php.net/images/php8/php_8_6_released.png",
+    "icon": "https://www.php.net/favicon.svg?v=2"
+   }
+  },
+  {
+   "label": "nginxに10件の脆弱性",
+   "points": [
+    "1.31.9と1.30.7",
+    "HTTP2と3に欠陥",
+    "再起動が必要"
+   ],
+   "url": "https://nginx.org/en/security_advisories.html",
+   "lines": [
+    {
+     "say": "エンジンエックスの新しい版で、十件の脆弱性が修正されました。",
+     "show": "nginx 新版修補了10項漏洞。"
+    },
+    {
+     "say": "エイチティーティーピーのツーとスリーのメモリ破壊が含まれ、深刻度は高いです。",
+     "show": "其中包含 HTTP/2 與 HTTP/3 的記憶體破壞，嚴重度高。"
+    },
+    {
+     "say": "更新後は、リロードではなく再起動が必要です。",
+     "show": "更新後必須重新啟動，而不是只重新載入。"
+    }
+   ],
+   "details": [
+    "1.31.9（mainline）與 1.30.7（stable）於 11/18 發布。",
+    "CVE-2026-123007 等 5 件 CVSS 9.2 重大。",
+    "修正需 restart，reload 不足。"
+   ],
+   "link": {
+    "url": "https://nginx.org/en/security_advisories.html",
+    "title": "nginx security advisories",
+    "site": "nginx.org",
+    "description": "",
+    "image": null,
+    "icon": null
+   }
+  },
+  {
+   "label": "gh event listen",
+   "points": [
+    "CLI 2.105.0",
+    "PRイベント待機",
+    "ポーリング不要"
+   ],
+   "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli/",
+   "lines": [
+    {
+     "say": "ギットハブのコマンドライン、二点百五で新しい命令が入りました。",
+     "show": "GitHub CLI 2.105.0 加入新指令。"
+    },
+    {
+     "say": "プルリクエストのレビューや状態変更を、待って受け取れます。",
+     "show": "可以等待並接收 PR 的審查與狀態變更。"
+    },
+    {
+     "say": "まだプレビューで、利用には順番待ちの登録が必要です。",
+     "show": "目前還是預覽，使用前要登記候補。"
+    }
+   ],
+   "details": [
+    "GitHub CLI v2.105.0，gh event listen 預覽。",
+    "支援 review submitted、state/head changed、merge conflict、check suite。",
+    "Event Streams 需 waitlist，錯過事件不重播。"
+   ],
+   "link": {
+    "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli/",
+    "title": "Wait for pull request events with GitHub CLI - GitHub Changelog",
+    "site": "The GitHub Blog",
+    "description": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it…",
+    "image": "https://github.blog/wp-content/uploads/2026/11/Changelog_NewRelease_Unfurl_Centered_PullRequestEvents.jpg",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  },
+  {
+   "label": "CopilotにGemini 4 Neon",
+   "points": [
+    "一般提供",
+    "使用量課金",
+    "順次展開"
+   ],
+   "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+   "lines": [
+    {
+     "say": "コパイロットで、ジェミニフォーネオンが一般提供になりました。",
+     "show": "Copilot 正式提供 Gemini 4 Neon。"
+    },
+    {
+     "say": "使用量に応じた課金で、順次各クライアントに展開されます。",
+     "show": "依使用量計費，會陸續推送到各客戶端。"
+    }
+   ],
+   "details": [
+    "2026/11/18 GA，Pro+／Max／Business／Enterprise。",
+    "VS Code、Visual Studio、CLI、JetBrains、Xcode 等陸續推出。",
+    "以供應商定價按用量計費。"
+   ],
+   "link": {
+    "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+    "title": "Gemini 4 Neon in GitHub Copilot - GitHub Changelog",
+    "site": "The GitHub Blog",
+    "description": "Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work. According to Google, Gemini 4 Neon delivers quality…",
+    "image": "https://github.blog/wp-content/uploads/2026/11/710810976-7eb80d08-78b7-4fbe-b584-0995e1de504f.png",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、エンジンエックスの修正です。公開サーバーは、早めの再起動を。",
+   "show": "今天的重點是 nginx 的修補。對外服務記得早點重啟。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 2,
+ "format": "monoradio/news-1",
+ "date": "2026-11-20",
+ "lang": "ja",
+ "seconds": 94.58,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.29,
+   "show": "おはようございます、蜜塔 radio です。11月20日、金曜日のコードニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.54,
+   "end": 12.77,
+   "show": "今天5則：大型版本更新，還有緊急的資安修補。",
+   "part": 0
+  },
+  {
+   "start": 13.82,
+   "end": 18.25,
+   "show": "PostgreSQL 19 在19日正式發布。",
+   "part": 1
+  },
+  {
+   "start": 18.5,
+   "end": 22.47,
+   "show": "新版加入不必停表的 REPACK，能線上整理資料表。",
+   "part": 1
+  },
+  {
+   "start": 22.72,
+   "end": 27.63,
+   "show": "執行計畫穩定工具與待命讀取也強化了。",
+   "part": 1
+  },
+  {
+   "start": 28.68,
+   "end": 32.7,
+   "show": "PHP 8.6 也在同一天發布。",
+   "part": 2
+  },
+  {
+   "start": 32.95,
+   "end": 37.64,
+   "show": "現在可以把部分參數先固定，剩下的事後再傳。",
+   "part": 2
+  },
+  {
+   "start": 37.89,
+   "end": 42.51,
+   "show": "還加入時間類別與新的輪詢 API。",
+   "part": 2
+  },
+  {
+   "start": 43.56,
+   "end": 48.36,
+   "show": "nginx 新版修補了10項漏洞。",
+   "part": 3
+  },
+  {
+   "start": 48.61,
+   "end": 53.85,
+   "show": "其中包含 HTTP/2 與 HTTP/3 的記憶體破壞，嚴重度高。",
+   "part": 3
+  },
+  {
+   "start": 54.1,
+   "end": 57.73,
+   "show": "更新後必須重新啟動，而不是只重新載入。",
+   "part": 3
+  },
+  {
+   "start": 58.78,
+   "end": 64.03,
+   "show": "GitHub CLI 2.105.0 加入新指令。",
+   "part": 4
+  },
+  {
+   "start": 64.28,
+   "end": 68.16,
+   "show": "可以等待並接收 PR 的審查與狀態變更。",
+   "part": 4
+  },
+  {
+   "start": 68.41,
+   "end": 72.69,
+   "show": "目前還是預覽，使用前要登記候補。",
+   "part": 4
+  },
+  {
+   "start": 73.74,
+   "end": 77.59,
+   "show": "Copilot 正式提供 Gemini 4 Neon。",
+   "part": 5
+  },
+  {
+   "start": 77.84,
+   "end": 82.28,
+   "show": "依使用量計費，會陸續推送到各客戶端。",
+   "part": 5
+  },
+  {
+   "start": 83.33,
+   "end": 90.37,
+   "show": "今天的重點是 nginx 的修補。對外服務記得早點重啟。",
+   "part": 6
+  },
+  {
+   "start": 90.62,
+   "end": 93.58,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.82
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.82,
+   "end": 28.68
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 28.68,
+   "end": 43.56
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 43.56,
+   "end": 58.78
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 58.78,
+   "end": 73.74
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 73.74,
+   "end": 83.33
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 83.33,
+   "end": 94.58
+  }
+ ],
+ "made_at": "2026-11-20T15:38:14"
+}

@@ -1,0 +1,381 @@
+{
+ "title": "GTA6 首日 23.6 億美元，PSN 一度斷線",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月二十日、星期五的遊戲新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月20日、星期五的遊戲新聞。"
+  },
+  {
+   "say": "今天五則：《GTA6》的紀錄，還有伴隨而來的故障。",
+   "show": "今天5則：《GTA6》的紀錄，還有伴隨而來的故障。"
+  }
+ ],
+ "news": [
+  {
+   "label": "GTA6 首日 23.6 億",
+   "points": [
+    "估2459萬套",
+    "約前作3倍",
+    "PS5佔75%"
+   ],
+   "url": "https://malaysia.news.yahoo.com/gta-vi-sales-surge-over-002912965.html",
+   "lines": [
+    {
+     "say": "《GTA6》發售首日，估計賣出兩千四百五十九萬套。",
+     "show": "《GTA6》發售首日，估計賣出2459萬套。"
+    },
+    {
+     "say": "銷售額二十三點六億美元，遠遠超過《GTA5》首日。",
+     "show": "銷售額23.6億美元，遠超《GTA5》首日。"
+    },
+    {
+     "say": "這是調查公司的估算，並非官方公布的數字。",
+     "show": "這是調查公司的估算，並非官方公布的數字。"
+    }
+   ],
+   "details": [
+    "Sensor Tower 推定首日 2459 萬套、約 23.6 億美元。",
+    "PS5 佔 75%、Xbox 佔 25%。",
+    "約為《GTA5》首日 8 億美元的三倍。"
+   ],
+   "link": {
+    "url": "https://malaysia.news.yahoo.com/gta-vi-sales-surge-over-002912965.html",
+    "title": "‘GTA VI’ Sales Surge Past $2 Billion On Launch Day As Vice City Mania Takes Over",
+    "site": "Yahoo News Malaysia",
+    "description": "The long-awaited and twice-delayed launch of Grand Theft Auto VI has made a killing and taken over the zeitgeist. By killing, we don’t just mean the mayhem of Vice City. We mean cold hard cash, digita...",
+    "image": "https://s.yimg.com/lo/mysterio/api/eeaf27236895c31904e87a1bcec63a510c739367a9bb0a3f037496a1b90b8876/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F8ace508d5267eaa58eb8ef5c9d6d30c5.png",
+    "icon": "https://malaysia.news.yahoo.com/favicon.ico?b0867f93a36b360e"
+   }
+  },
+  {
+   "label": "PSN 發售日故障",
+   "points": [
+    "18日下午起",
+    "19日恢復",
+    "登入錯誤頻傳"
+   ],
+   "url": "https://tek.sapo.pt/multimedia/artigos/gta-vi-em-estreia-com-numeros-historicos-e-relatos-de-problemas-na-playstation-network/",
+   "lines": [
+    {
+     "say": "發售前，PlayStation Network 發生故障。",
+     "show": "發售前，PlayStation Network 發生故障。"
+    },
+    {
+     "say": "登入與下載受影響，十九日下午才恢復。",
+     "show": "登入與下載受影響，19日下午才恢復。"
+    },
+    {
+     "say": "Sony 沒有說明原因，外界仍在觀察是否再發。",
+     "show": "Sony 沒有說明原因，外界仍在觀察是否再發。"
+    },
+    {
+     "say": "索尼表示會盡快修復。",
+     "show": "索尼表示會盡快修復。"
+    }
+   ],
+   "details": [
+    "18日下午起回報增加，19日凌晨索尼承認。",
+    "錯誤碼 WS-116449-5 等，PS5 遊戲與社交功能受影響。",
+    "19日下午 12:57（美東）恢復全服務。"
+   ],
+   "link": {
+    "url": "https://tek.sapo.pt/multimedia/artigos/gta-vi-em-estreia-com-numeros-historicos-e-relatos-de-problemas-na-playstation-network/",
+    "title": "GTA VI em estreia com números históricos e relatos de problemas na PlayStation Network",
+    "site": "Tek Notícias",
+    "description": "Depois de anos de antecipação, Grand Theft Auto VI chegou ao mercado apoiado por mais de 17 milhões de pré-reservas estimadas pela Sensor Tower e por uma procura tão intensa que coincidiu com milhares de queixas reportadas por utilizadores da PlayStation Network.",
+    "image": "https://cdn.teknoticias.pt/uploads/fab245f6cbe07e26cf0e7c28205e811f3406b1ca.jpg",
+    "icon": "https://cdn.teknoticias.pt/uploads/./cropped-favicon-1-150x150.png"
+   }
+  },
+  {
+   "label": "信長之野望取消Switch版",
+   "points": [
+    "Switch版取消",
+    "改PS5與Switch2",
+    "25日直播"
+   ],
+   "url": "https://www.4gamer.net/games/015/G101576/20261119009/",
+   "lines": [
+    {
+     "say": "光榮特庫摩宣布，《信長之野望・飛翔》取消 Switch 版。",
+     "show": "光榮特庫摩宣布，《信長之野望・飛翔》取消 Switch 版。"
+    },
+    {
+     "say": "平台改為 PS5、Switch 2 與 PC 三種。",
+     "show": "平台改為 PS5、Switch 2 與 PC 三種。"
+    },
+    {
+     "say": "官方未說明理由，發售日將在二十五日直播公布。",
+     "show": "官方未說明理由，發售日將在25日直播公布。"
+    },
+    {
+     "say": "官方也為造成的不便致歉。",
+     "show": "官方也為造成的不便致歉。"
+    }
+   ],
+   "details": [
+    "11月18日發表，實體版與下載版都取消 Switch 版。",
+    "原定四平台改為 PC（Steam）／Switch 2／PS5。",
+    "11月25日20時官方直播將公布新發售日。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/015/G101576/20261119009/",
+    "title": "「信長の野望・飛翔」，Switch版の発売を中止。対応機種をPC（Steam） / Switch2 / PS5の3つに変更",
+    "site": "4Gamer.net",
+    "description": "コーエーテクモゲームスは，歴史シミュレーションゲーム「信長の野望・飛翔」の対応機種を変更すると発表した。当初の予定からSwitch版が除外され，PC（Steam） / Switch2 / PS5の3…",
+    "image": "https://www.4gamer.net/games/015/G101576/20261119009/SS/002.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "角落小夥伴Switch2",
+   "points": [
+    "19日發售",
+    "6380日圓",
+    "系列首次"
+   ],
+   "url": "https://www.jiji.com/jc/article?k=000005207.000019470&g=prt",
+   "lines": [
+    {
+     "say": "《角落小夥伴》最新作今天在 Switch 2 發售。",
+     "show": "《角落小夥伴》最新作今天在 Switch 2 發售。"
+    },
+    {
+     "say": "這是經營溫泉旅館的遊戲，也是系列首次登上 Switch 2。",
+     "show": "這是經營溫泉旅館的遊戲，也是系列首次登上 Switch 2。"
+    }
+   ],
+   "details": [
+    "2026年11月19日發售，6,380 日圓。",
+    "日本哥倫比亞發行，CERO A。",
+    "對應日文、英文、韓文、繁體與簡體中文。"
+   ],
+   "link": {
+    "url": "https://www.jiji.com/jc/article?k=000005207.000019470&g=prt",
+    "title": "大人気キャラクター『すみっコぐらし(TM)』のゲームシリーズ最新作！Nintendo Switch 2 ゲームソフト『すみっコぐらし ぽかぽか温泉にようこそ』本日2026年11月19日(木)発売のお知らせ：時事ドットコム",
+    "site": "時事ドットコム",
+    "description": "［日本コロムビア株式会社］日本コロムビア株式会社（本社：東京都渋谷区、代表取締役社長 土門義隆）は、Nintendo Switch 2 用ゲームソフト『すみっコぐらし ぽかぽか温泉にようこそ』を本日2026年11月19日（木）に発売いたしましたので、お知らせいたします。本作は、2014年にニンテンドー3DSソフトとして誕生した「すみっコミュニケーション」シリーズの最新作であり、シリーズ初のNintendo Switch 2 向けタイトルです。『すみっコぐらし ぽかぽか温泉にようこそ』では、温泉旅…",
+    "image": "https://prcdn.freetls.fastly.net/release_image/19470/5207/19470-5207-b0511ec2c3b950edf9d859179b097389-1280x800.png",
+    "icon": "https://www.jiji.com/favicon.ico"
+   }
+  },
+  {
+   "label": "NIKKE 新版本",
+   "points": [
+    "19日上線",
+    "新SSR Sky",
+    "熱氣球故事"
+   ],
+   "url": "https://game-news.tokyo/news/1014053",
+   "lines": [
+    {
+     "say": "《勝利女神：NIKKE》新版本「SKY ON THE ROCK」上線。",
+     "show": "《勝利女神：NIKKE》新版本「SKY ON THE ROCK」上線。"
+    },
+    {
+     "say": "新角色 Sky 隸屬飛行部隊。",
+     "show": "新角色 Sky 隸屬飛行部隊。"
+    },
+    {
+     "say": "描寫想搭熱氣球少女的活動也同步開跑。",
+     "show": "描寫想搭熱氣球少女的活動也同步開跑。"
+    }
+   ],
+   "details": [
+    "11月19日實裝，新 SSR「Sky」，CV 根本優奈。",
+    "所屬「Over the Horizon」部隊。",
+    "活動故事圍繞想搭熱氣球的少女。"
+   ],
+   "link": {
+    "url": "https://game-news.tokyo/news/1014053",
+    "title": "Level Infinite、『勝利の女神：NIKKE』にて最新バージョン「SKY ON THE ROCK」を11月19日に実装 - ゲーム情報・速報",
+    "site": "げーむにゅーす東京",
+    "description": "Level Infiniteは、ゲーム開発会社SHIFT",
+    "image": "https://game-news.tokyo/data/wp-content/uploads/2026/05/cover2k.png",
+    "icon": "https://game-news.tokyo/data/wp-content/themes/game-news-tokyo/favicon.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是《GTA6》首日紀錄。十三年的等待，終於化為數字。",
+   "show": "今天的重點是《GTA6》首日紀錄。13年的等待，終於化為數字。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-20",
+ "lang": "zh",
+ "seconds": 90.92,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.08,
+   "show": "早安，這裡是蜜塔 radio。11月20日、星期五的遊戲新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.33,
+   "end": 10.45,
+   "show": "今天5則：《GTA6》的紀錄，還有伴隨而來的故障。",
+   "part": 0
+  },
+  {
+   "start": 11.5,
+   "end": 16.2,
+   "show": "《GTA6》發售首日，估計賣出2459萬套。",
+   "part": 1
+  },
+  {
+   "start": 16.45,
+   "end": 20.95,
+   "show": "銷售額23.6億美元，遠超《GTA5》首日。",
+   "part": 1
+  },
+  {
+   "start": 21.2,
+   "end": 24.89,
+   "show": "這是調查公司的估算，並非官方公布的數字。",
+   "part": 1
+  },
+  {
+   "start": 25.94,
+   "end": 29.19,
+   "show": "發售前，PlayStation Network 發生故障。",
+   "part": 2
+  },
+  {
+   "start": 29.44,
+   "end": 33.29,
+   "show": "登入與下載受影響，19日下午才恢復。",
+   "part": 2
+  },
+  {
+   "start": 33.54,
+   "end": 37.55,
+   "show": "Sony 沒有說明原因，外界仍在觀察是否再發。",
+   "part": 2
+  },
+  {
+   "start": 37.8,
+   "end": 39.77,
+   "show": "索尼表示會盡快修復。",
+   "part": 2
+  },
+  {
+   "start": 40.82,
+   "end": 46.11,
+   "show": "光榮特庫摩宣布，《信長之野望・飛翔》取消 Switch 版。",
+   "part": 3
+  },
+  {
+   "start": 46.36,
+   "end": 49.72,
+   "show": "平台改為 PS5、Switch 2 與 PC 三種。",
+   "part": 3
+  },
+  {
+   "start": 49.97,
+   "end": 54.06,
+   "show": "官方未說明理由，發售日將在25日直播公布。",
+   "part": 3
+  },
+  {
+   "start": 54.31,
+   "end": 56.6,
+   "show": "官方也為造成的不便致歉。",
+   "part": 3
+  },
+  {
+   "start": 57.65,
+   "end": 60.94,
+   "show": "《角落小夥伴》最新作今天在 Switch 2 發售。",
+   "part": 4
+  },
+  {
+   "start": 61.19,
+   "end": 65.84,
+   "show": "這是經營溫泉旅館的遊戲，也是系列首次登上 Switch 2。",
+   "part": 4
+  },
+  {
+   "start": 66.89,
+   "end": 72.77,
+   "show": "《勝利女神：NIKKE》新版本「SKY ON THE ROCK」上線。",
+   "part": 5
+  },
+  {
+   "start": 73.02,
+   "end": 75.63,
+   "show": "新角色 Sky 隸屬飛行部隊。",
+   "part": 5
+  },
+  {
+   "start": 75.88,
+   "end": 79.26,
+   "show": "描寫想搭熱氣球少女的活動也同步開跑。",
+   "part": 5
+  },
+  {
+   "start": 80.31,
+   "end": 86.83,
+   "show": "今天的重點是《GTA6》首日紀錄。13年的等待，終於化為數字。",
+   "part": 6
+  },
+  {
+   "start": 87.08,
+   "end": 89.92,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 11.5
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.5,
+   "end": 25.94
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 25.94,
+   "end": 40.82
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 40.82,
+   "end": 57.65
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 57.65,
+   "end": 66.89
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 66.89,
+   "end": 80.31
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 80.31,
+   "end": 90.92
+  }
+ ],
+ "made_at": "2026-11-20T15:40:45"
+}

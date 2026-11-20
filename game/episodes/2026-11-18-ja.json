@@ -1,0 +1,351 @@
+{
+ "title": "GTA6前夜、TGA提名発表",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十八日、水曜日のゲームニュースです。",
+   "show": "おはようございます、蜜塔 radio です。11月18日、水曜日のゲームニュース。"
+  },
+  {
+   "say": "今日は五本。ジーティーエーシックスの発売前夜と、ゲームアワードの提名です。",
+   "show": "今天5則。《GTA6》發售前夜，還有 The Game Awards 的入圍名單。"
+  }
+ ],
+ "news": [
+  {
+   "label": "GTA6、今夜解禁へ",
+   "points": [
+    "19日発売",
+    "米国は18日夜",
+    "事前DL212GB"
+   ],
+   "url": "https://economictimes.indiatimes.com/news/international/world-news/gta-6-release-time-in-us-when-can-players-unlock-the-game-in-every-time-zone-on-november-19-1-5-million-workers-may-skip-work-risking-1-billion-loss/articleshow/135885305.cms",
+   "lines": [
+    {
+     "say": "グランドセフトオートシックスが、明日十一月十九日に発売されます。",
+     "show": "《GTA6》將於明天 11月19日發售。"
+    },
+    {
+     "say": "アメリカでは時差の関係で、今日の夜には遊べる地域が出ます。",
+     "show": "美國因時區關係，部分地區今天晚上就能開玩。"
+    },
+    {
+     "say": "事前ダウンロードは二百十二ギガバイトに達し、休暇を取る人も話題です。",
+     "show": "預載容量達212GB，為此請假的人也成了話題。"
+    }
+   ],
+   "details": [
+    "PS5／Xbox Series X|S 版11月19日發售，美國以東岸時間午夜解鎖。",
+    "預載自11月10日開始，容量最大約212GB。",
+    "外媒估計最多150萬人請假，經濟損失上看10億美元。"
+   ],
+   "link": {
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/gta-6-release-time-in-us-when-can-players-unlock-the-game-in-every-time-zone-on-november-19-1-5-million-workers-may-skip-work-risking-1-billion-loss/articleshow/135885305.cms",
+    "title": "GTA 6 release time in US: When can players unlock the game in every time zone on November 19? 1.5 million workers may skip work, risking $1 billion loss",
+    "site": "The Economic Times",
+    "description": "Grand Theft Auto VI is officially launching on November 19, and eager players can already pre-load the game. As the clock strikes midnight in their local time zones, gamers can dive into the action. Physical copies will hit stores on November 12. Financial projections suggest the game will rake in impressive revenue rapidly. Surprisingly, around 1.5 million workers in the U.S. are predicted to take the day off to play.",
+    "image": "https://img.etimg.com/thumb/msid-135885305,width-1200,height-900,imgsize-178596,overlay-economictimes/articleshow.jpg",
+    "icon": "https://economictimes.indiatimes.com/icons/etfavicon.ico"
+   }
+  },
+  {
+   "label": "TGA提名が発表",
+   "points": [
+    "GOTYにGTA6",
+    "時オカも候補",
+    "授賞式12月11日"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/20261118-479707/",
+   "lines": [
+    {
+     "say": "ゲームアワードの年間最優秀作品、ゲームオブザイヤーの提名が発表されました。",
+     "show": "The Game Awards 的年度遊戲入圍名單公布了。"
+    },
+    {
+     "say": "ジーティーエーシックス、バイオハザードレクイエム、ゼルダの伝説 時のオカリナなど六本です。",
+     "show": "《GTA6》《惡靈古堡 安魂曲》《薩爾達傳說 時之笛》等6款入圍。"
+    },
+    {
+     "say": "授賞式は十二月十一日、日本時間の午前九時半からです。",
+     "show": "頒獎典禮在12月11日，日本時間上午9點30分開始。"
+    }
+   ],
+   "details": [
+    "GOTY入圍：007 First Light、CONTROL Resonant、GTA6、Phantom Blade Zero、Resident Evil Requiem、Zelda: Ocarina of Time。",
+    "最佳遊戲執導、敍事、美術等主要獎項，也多由這幾款角逐。",
+    "典禮在洛杉磯舉行，日本時間12月11日上午9點30分開播。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/20261118-479707/",
+    "title": "年末GOTYが決まる「The Game Awards 2026」ノミネート作品発表。『GTA6』が8部門で最多、『バイオレクイエム』『ゼルダの伝説 時のオカリナ』など話題作ずらり - AUTOMATON",
+    "site": "AUTOMATON",
+    "description": "来月、日本時間12月11日にアメリカ・ロサンゼルスで開催される「The Game Awards 2026」。そのノミネート作品が本日11月18日に発表された。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261118-479707-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-32x32.png"
+   }
+  },
+  {
+   "label": "ネコパラ Steam版",
+   "points": [
+    "本日配信",
+    "審査遅れ解消",
+    "Steam版"
+   ],
+   "url": "https://automaton-media.com/en/news/nekopara-sekai-connect-steam-version-to-finally-launch-on-november-18-following-platform-review-delays/",
+   "lines": [
+    {
+     "say": "ネコパラ セカイコネクトのスチーム版が、今日配信されます。",
+     "show": "《貓娘樂園 世界連結》Steam 版今天上架。"
+    },
+    {
+     "say": "ストアの審査が長引き、当初の予定から遅れていました。",
+     "show": "因為平台審查拖延，比原定時間晚了。"
+    }
+   ],
+   "details": [
+    "Steam 版因平台審查延後，今日正式上架。",
+    "系列最新作終於登陸 Steam。",
+    "上架後，海外玩家也能直接購買。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/en/news/nekopara-sekai-connect-steam-version-to-finally-launch-on-november-18-following-platform-review-delays/",
+    "title": "Nekopara Sekai Connect Steam version to finally launch on November 18 following platform review delays - AUTOMATON WEST",
+    "site": "AUTOMATON WEST",
+    "description": "The game was originally slated for a September 28 release.",
+    "image": "https://automaton-media.com/en/wp-content/uploads/2026/11/20261117-75297-header.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "スプラ3にデュオ",
+   "points": [
+    "本日10時配信",
+    "Xマッチで試験",
+    "XP増減は小さめ"
+   ],
+   "url": "https://search.yahoo.co.jp/realtime/search/matome/21d80cd17ef645f88f2ef0a29a571e2b-1794879000",
+   "lines": [
+    {
+     "say": "スプラトゥーン三のアップデート、バージョン十二が今日の午前十時に配信されます。",
+     "show": "《斯普拉遁3》12.0.0 更新，今天上午10點上線。"
+    },
+    {
+     "say": "エックスマッチに、フレンドと二人で潜るデュオが試験導入されます。",
+     "show": "X 對戰將試驗導入雙人組隊。"
+    },
+    {
+     "say": "レートの増減はソロより小さく、武器の調整も入ります。",
+     "show": "積分增減比單人小，也有一批武器調整。"
+    }
+   ],
+   "details": [
+    "Ver.12.0.0 於11月18日10時配信，X 對戰雙人組隊自「2026冬 Chill Season」開始試驗。",
+    "兩隊的組隊人數會對齊，雙人組隊的 X Power 增減比單人小。",
+    "同時調整武器與場地，例如多飛彈、魷魚衝刺強化。"
+   ],
+   "link": {
+    "url": "https://search.yahoo.co.jp/realtime/search/matome/21d80cd17ef645f88f2ef0a29a571e2b-1794879000",
+    "title": "スプラトゥーン3 Xマッチにデュオモード実装、フレンドと2人で潜れる新展開にユーザー歓喜(2026/11/17)｜SNSのバズまとめ - Yahoo!リアルタイム検索",
+    "site": "search.yahoo.co.jp",
+    "description": "【「Xマッチ」のSNSまとめ】スプラトゥーン3のXマッチに、フレンドと2人で組んで挑めるデュオモードが追加されたとユーザーが次々に報告している。新機能に対して「2人で潜れるのアツすぎる」や「フレンドとできるのマジか」などの声が上がっている。",
+    "image": "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-ksysgZwGtkHuhrXSKqYfYq_6kBacITOFUzyBYQnSnxW1K9Qc3YLuOAqhpyeHdSuDhfJg8P-GO65GWES2dByP92HVhNIfgB4QVhqPC-KZaZuFSfHo_By4bkYl5bn1lfqcGTnUVhmlbCx5aC-Os9X3Hw==",
+    "icon": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico"
+   }
+  },
+  {
+   "label": "SNK世界大会へ",
+   "points": [
+    "27日開幕",
+    "ストックホルム",
+    "賞金6億6千万円"
+   ],
+   "url": "https://www.oricon.co.jp/article/3439990/",
+   "lines": [
+    {
+     "say": "エスエヌケーの格闘ゲームの世界大会、ファイナルズが二十七日から開幕します。",
+     "show": "SNK 格鬥遊戲世界大賽總決賽，27日開幕。"
+    },
+    {
+     "say": "舞台はストックホルム、賞金総額は六億六千万円です。",
+     "show": "地點在斯德哥爾摩，獎金總額6億6千萬日圓。"
+    }
+   ],
+   "details": [
+    "SNK World Championship 2026 Finals，11月27日至29日於瑞典斯德哥爾摩舉行。",
+    "獎金總額6億6千萬日圓。",
+    "比賽項目以 SNK 旗下格鬥遊戲為主。"
+   ],
+   "link": {
+    "url": "https://www.oricon.co.jp/article/3439990/",
+    "title": "賞金総額6億6千万円！SNK格闘ゲームの世界大会「SNK World Championship 2026 Finals」が11月27日よりストックホルムで開幕",
+    "site": "オリコンニュース（ORICON NEWS）",
+    "description": "賞金総額6億6千万円！SNK格闘ゲームの世界大会「SNK World Championship 2026 Finals」が11月27日よりストックホルムで開幕｜SNKは、11月27日から29日にスウェーデン・ストックホルムで開催される「SNK World Ch...",
+    "image": "https://contents.oricon.co.jp/upimg/article/3/3439/3439990/thumb/img660/9769021a6257c4510f7224cb8dd29dfac6a333edd7695c9745d8515dfe395a9b.jpg",
+    "icon": "https://contents.oricon.co.jp/pc/img/_parts/common/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、ジーティーエーシックスの発売前夜です。久々の新作が、いよいよ動き出します。",
+   "show": "今天的重點是《GTA6》發售前夜。久違的新作，終於要開始了。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-18",
+ "lang": "ja",
+ "seconds": 99.68,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.59,
+   "show": "おはようございます、蜜塔 radio です。11月18日、水曜日のゲームニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.84,
+   "end": 13.93,
+   "show": "今天5則。《GTA6》發售前夜，還有 The Game Awards 的入圍名單。",
+   "part": 0
+  },
+  {
+   "start": 14.98,
+   "end": 20.05,
+   "show": "《GTA6》將於明天 11月19日發售。",
+   "part": 1
+  },
+  {
+   "start": 20.3,
+   "end": 25.11,
+   "show": "美國因時區關係，部分地區今天晚上就能開玩。",
+   "part": 1
+  },
+  {
+   "start": 25.36,
+   "end": 30.88,
+   "show": "預載容量達212GB，為此請假的人也成了話題。",
+   "part": 1
+  },
+  {
+   "start": 31.93,
+   "end": 37.6,
+   "show": "The Game Awards 的年度遊戲入圍名單公布了。",
+   "part": 2
+  },
+  {
+   "start": 37.85,
+   "end": 44.41,
+   "show": "《GTA6》《惡靈古堡 安魂曲》《薩爾達傳說 時之笛》等6款入圍。",
+   "part": 2
+  },
+  {
+   "start": 44.66,
+   "end": 49.65,
+   "show": "頒獎典禮在12月11日，日本時間上午9點30分開始。",
+   "part": 2
+  },
+  {
+   "start": 50.7,
+   "end": 54.63,
+   "show": "《貓娘樂園 世界連結》Steam 版今天上架。",
+   "part": 3
+  },
+  {
+   "start": 54.88,
+   "end": 59.32,
+   "show": "因為平台審查拖延，比原定時間晚了。",
+   "part": 3
+  },
+  {
+   "start": 60.37,
+   "end": 65.58,
+   "show": "《斯普拉遁3》12.0.0 更新，今天上午10點上線。",
+   "part": 4
+  },
+  {
+   "start": 65.83,
+   "end": 70.16,
+   "show": "X 對戰將試驗導入雙人組隊。",
+   "part": 4
+  },
+  {
+   "start": 70.41,
+   "end": 75.09,
+   "show": "積分增減比單人小，也有一批武器調整。",
+   "part": 4
+  },
+  {
+   "start": 76.14,
+   "end": 82.04,
+   "show": "SNK 格鬥遊戲世界大賽總決賽，27日開幕。",
+   "part": 5
+  },
+  {
+   "start": 82.29,
+   "end": 86.77,
+   "show": "地點在斯德哥爾摩，獎金總額6億6千萬日圓。",
+   "part": 5
+  },
+  {
+   "start": 87.82,
+   "end": 95.15,
+   "show": "今天的重點是《GTA6》發售前夜。久違的新作，終於要開始了。",
+   "part": 6
+  },
+  {
+   "start": 95.4,
+   "end": 98.68,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.98
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.98,
+   "end": 31.93
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 31.93,
+   "end": 50.7
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 50.7,
+   "end": 60.37
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 60.37,
+   "end": 76.14
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 76.14,
+   "end": 87.82
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 87.82,
+   "end": 99.68
+  }
+ ],
+ "made_at": "2026-11-18T05:58:04"
+}

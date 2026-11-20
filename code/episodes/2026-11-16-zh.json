@@ -1,0 +1,311 @@
+{
+ "title": "LangChain 募三億美元，美團開源 LongCat",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十六日、星期一的程式新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月16日、星期一的程式新聞。"
+  },
+  {
+   "say": "今天四則：LangChain 融資、LongCat 開源，還有 OpenCode 跟 Vercel。",
+   "show": "今天4則：LangChain融資、LongCat開源，還有OpenCode跟Vercel。"
+  }
+ ],
+ "news": [
+  {
+   "label": "LangChain 再融資",
+   "points": [
+    "C 輪三億美元",
+    "估值三十億美元",
+    "七千間公司在用"
+   ],
+   "url": "https://www.langchain.com/blog/series-c",
+   "lines": [
+    {
+     "say": "LangChain 完成 C 輪，募得三億美元，估值三十億美元。",
+     "show": "LangChain完成C輪，募得3億美元，估值30億美元。"
+    },
+    {
+     "say": "由 CapitalG 領投。代理管理工具 LangSmith 超過七千間公司在用。",
+     "show": "由CapitalG領投。代理管理工具LangSmith超過7,000間公司在用。"
+    },
+    {
+     "say": "新投資人還有新加坡主權基金與迪艾弗傑成長。",
+     "show": "新投資人還有GIC與DFJ Growth。"
+    }
+   ],
+   "details": [
+    "官方部落格11月13日。Series C 3億美元、估值30億美元，CapitalG領投。",
+    "新投資人GIC與DFJ Growth，既有IVP與Sapphire Ventures也跟投。",
+    "LangSmith超過7,000個組織。點名NVIDIA、Toyota、Salesforce、Workday等。"
+   ],
+   "link": {
+    "url": "https://www.langchain.com/blog/series-c",
+    "title": "LangChain Raises $300M Series C at $3B Valuation",
+    "site": "www.langchain.com",
+    "description": "LangChain raises $300M Series C at a $3B valuation, led by CapitalG, to help every company own its intelligence with LangSmith, the agent engineering platform.",
+    "image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6af52a0047907d0f9587a24f_Social%20Announcement.png",
+    "icon": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69a17e4a429d54e956e2a763_favicon.png"
+   }
+  },
+  {
+   "label": "LongCat 權重公開",
+   "points": [
+    "一點六兆參數",
+    "MIT 授權",
+    "全用國產加速卡"
+   ],
+   "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+   "lines": [
+    {
+     "say": "美團把 LongCat 二點五的權重，用 MIT 授權公開。",
+     "show": "美團把LongCat-2.5的權重，用MIT授權公開。"
+    },
+    {
+     "say": "總參數一點六兆。報導寫，訓練沒用到輝達的卡。",
+     "show": "總參數1.6兆。報導寫，訓練沒用到NVIDIA的卡。"
+    },
+    {
+     "say": "自家終端評測兩點一版，報導寫八十八點四。",
+     "show": "自家Terminal Bench v2.1，報導寫88.4。"
+    }
+   ],
+   "details": [
+    "The Decoder 11月15日。MoE總參數1.6兆，每token約480億激活。",
+    "MIT授權。API相容OpenAI／Anthropic，文章寫可從Claude Code、Codex呼叫。",
+    "自家Terminal Bench v2.1為88.4。自架範例是華為昇騰，沒提供NVIDIA步驟。"
+   ],
+   "link": {
+    "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+    "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+    "site": "The Decoder",
+    "description": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs.",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/11/meituan-logo-wall-chatgpt-5.6.jpg",
+    "icon": "https://the-decoder.com/resources/favicons/apple-touch-icon-60x60.png?v=3"
+   }
+  },
+  {
+   "label": "OpenCode 改背景跑",
+   "points": [
+    "子代理預設背景",
+    "立刻把識別碼還來",
+    "父工作可繼續"
+   ],
+   "url": "https://github.com/anomalyco/opencode/releases/tag/v2.3.0",
+   "lines": [
+    {
+     "say": "OpenCode 二點三起，子代理預設在背景跑。",
+     "show": "OpenCode v2.3.0起，子代理預設在背景跑。"
+    },
+    {
+     "say": "先交回工作階段編號，做完再回報。父工作可以接著幹別的。",
+     "show": "先交回session ID，做完再回報。父工作可以接著幹別的。"
+    },
+    {
+     "say": "介面預設改成低詳細，少顯示一堆工具紀錄。",
+     "show": "介面預設改成低詳細，少顯示一堆工具紀錄。"
+    }
+   ],
+   "details": [
+    "GitHub Release v2.3.0（11月13日）。子代理立刻返回，背景繼續，閒置時向父工作回報。",
+    "可同時跑多個子代理，父工作階段不必停。",
+    "TUI轉錄預設改低詳細。桌面版加了跳到訊息。"
+   ],
+   "link": {
+    "url": "https://github.com/anomalyco/opencode/releases/tag/v2.3.0",
+    "title": "Release v2.3.0 · anomalyco/opencode",
+    "site": "GitHub",
+    "description": "Highlights Background Subagents by Default: Subagents now return immediately, continue in the background, and report back whenever they become idle. You can keep working in the parent session whil...",
+    "image": "https://opengraph.githubassets.com/9f70c00f4052d6447195bbe8e718a5caae605eab61226a8c4353eb2af199f7ca/anomalyco/opencode/releases/tag/v2.3.0",
+    "icon": "https://github.com/fluidicon.png"
+   }
+  },
+  {
+   "label": "Vercel 額度加大",
+   "points": [
+    "月費三十美元沒漲",
+    "額度一百五十美元",
+    "給開源權重用"
+   ],
+   "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
+   "lines": [
+    {
+     "say": "Vercel 的 Token Pass 月費三十美元沒漲，每月額度加到一百五十美元。",
+     "show": "Vercel的Token Pass月費30美元沒漲，每月額度加到150美元。"
+    },
+    {
+     "say": "對象是閘道上的開源權重，像 Kimi 跟 GLM。不能累積到下個月。",
+     "show": "對象是Gateway上的開源權重，像Kimi跟GLM。不能累積到下個月。"
+    },
+    {
+     "say": "額度隨帳期歸零，不能留到下個月。",
+     "show": "額度隨帳期歸零，不能留到下個月。"
+    }
+   ],
+   "details": [
+    "Vercel Changelog 11月13日。Token Pass每團隊每月30美元不變，額度從80美元等值升到150美元等值。",
+    "涵蓋Kimi K3、Kimi K3.1 Pro、GLM 5.3、GLM 5.3 Flash、DeepSeek V4.1 Flash。",
+    "額度隨帳期重置，不能滾入下期。"
+   ],
+   "link": {
+    "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
+    "title": "Token Pass now includes $150 in tokens for $30/month - Vercel",
+    "site": "Vercel",
+    "description": "Vercel Token Pass now includes $150 in monthly tokens, up from $80, for the same $30 per team per month. Credit covers featured open-weight models through AI Gateway.",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6pGmq99fGbiLaw1QHMkFv9/1f27d46d6acbaa9b5cd4798c198e44fd/doc-b485e47e-01da-40de-beef-3c91841c07f9-1794604053576.png",
+    "icon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天焦點是 LongCat。權重公開，才能自己上手試。",
+   "show": "今天焦點是LongCat。權重公開，才能自己上手試。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 1,
+ "format": "monoradio/news-1",
+ "date": "2026-11-16",
+ "lang": "zh",
+ "seconds": 81.83,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.29,
+   "show": "早安，這裡是蜜塔 radio。11月16日、星期一的程式新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.54,
+   "end": 12.34,
+   "show": "今天4則：LangChain融資、LongCat開源，還有OpenCode跟Vercel。",
+   "part": 0
+  },
+  {
+   "start": 13.39,
+   "end": 18.03,
+   "show": "LangChain完成C輪，募得3億美元，估值30億美元。",
+   "part": 1
+  },
+  {
+   "start": 18.28,
+   "end": 23.32,
+   "show": "由CapitalG領投。代理管理工具LangSmith超過7,000間公司在用。",
+   "part": 1
+  },
+  {
+   "start": 23.57,
+   "end": 27.36,
+   "show": "新投資人還有GIC與DFJ Growth。",
+   "part": 1
+  },
+  {
+   "start": 28.41,
+   "end": 32.89,
+   "show": "美團把LongCat-2.5的權重，用MIT授權公開。",
+   "part": 2
+  },
+  {
+   "start": 33.14,
+   "end": 38.1,
+   "show": "總參數1.6兆。報導寫，訓練沒用到NVIDIA的卡。",
+   "part": 2
+  },
+  {
+   "start": 38.35,
+   "end": 42.46,
+   "show": "自家Terminal Bench v2.1，報導寫88.4。",
+   "part": 2
+  },
+  {
+   "start": 43.51,
+   "end": 46.73,
+   "show": "OpenCode v2.3.0起，子代理預設在背景跑。",
+   "part": 3
+  },
+  {
+   "start": 46.98,
+   "end": 52.58,
+   "show": "先交回session ID，做完再回報。父工作可以接著幹別的。",
+   "part": 3
+  },
+  {
+   "start": 52.83,
+   "end": 56.67,
+   "show": "介面預設改成低詳細，少顯示一堆工具紀錄。",
+   "part": 3
+  },
+  {
+   "start": 57.72,
+   "end": 63.29,
+   "show": "Vercel的Token Pass月費30美元沒漲，每月額度加到150美元。",
+   "part": 4
+  },
+  {
+   "start": 63.54,
+   "end": 69.04,
+   "show": "對象是Gateway上的開源權重，像Kimi跟GLM。不能累積到下個月。",
+   "part": 4
+  },
+  {
+   "start": 69.29,
+   "end": 72.35,
+   "show": "額度隨帳期歸零，不能留到下個月。",
+   "part": 4
+  },
+  {
+   "start": 73.4,
+   "end": 78.19,
+   "show": "今天焦點是LongCat。權重公開，才能自己上手試。",
+   "part": 5
+  },
+  {
+   "start": 78.44,
+   "end": 80.83,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.39
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.39,
+   "end": 28.41
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 28.41,
+   "end": 43.51
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 43.51,
+   "end": 57.72
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 57.72,
+   "end": 73.4
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 73.4,
+   "end": 81.83
+  }
+ ],
+ "made_at": "2026-11-16T08:25:41"
+}

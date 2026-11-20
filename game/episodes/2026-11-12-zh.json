@@ -1,0 +1,321 @@
+{
+ "title": "《惡靈古堡 安魂曲》奪GOTY，薩爾達4天520萬",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔電台。十一月十二日，星期四的遊戲新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月12日，星期四的遊戲新聞。"
+  },
+  {
+   "say": "今天有五則，從金搖桿獎的結果，到薩爾達的大紀錄。",
+   "show": "今天有5則，從金搖桿獎的結果到薩爾達的大紀錄。"
+  }
+ ],
+ "news": [
+  {
+   "label": "《惡靈古堡 安魂曲》奪GOTY",
+   "points": [
+    "年度最佳是安魂曲",
+    "一口氣拿下4獎",
+    "卡普空獲年度工作室"
+   ],
+   "url": "https://www.gamespark.jp/article/2026/11/12/174777.html",
+   "lines": [
+    {
+     "say": "首先是金搖桿獎。第四十四屆的年度最佳遊戲，由《惡靈古堡 安魂曲》拿下。",
+     "show": "首先是Golden Joystick Awards。第44屆年度最佳遊戲是《惡靈古堡 安魂曲》。"
+    },
+    {
+     "say": "這款同時拿下四個獎項。卡普空則獲選年度工作室。",
+     "show": "同作拿下4個獎項。Capcom獲選Studio of the Year。"
+    }
+   ],
+   "details": [
+    "《惡靈古堡 安魂曲》除了年度最佳遊戲，還拿到主機遊戲、主演演員、遊戲預告三個獎項。",
+    "《MECCHA CHAMELEON》也拿下四獎：多人、獨立、實況主、開發者選擇。",
+    "頒獎典禮在當地時間十一月十一日於倫敦舉行，日本在十二日早上公布結果。"
+   ],
+   "link": {
+    "url": "https://www.gamespark.jp/article/2026/11/12/174777.html",
+    "title": "GOTYは『バイオハザード レクイエム』！『めっちゃカメレオン』も4部門を制す―歴史的ゲームアワード「Golden Joystick Awards」2026年受賞作品が発表 | Game*Spark - 国内・海外ゲーム情報サイト",
+    "site": "Game*Spark - 国内・海外ゲーム情報サイト",
+    "description": "カプコンは「Studio of the Year」も受賞！",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1218416.jpg",
+    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "薩爾達時之笛 520萬",
+   "points": [
+    "4天全球520萬套",
+    "日本國內81萬套",
+    "Switch 2最高開局"
+   ],
+   "url": "https://www.nintendo.co.jp/corporate/release/2026/261111.html",
+   "lines": [
+    {
+     "say": "任天堂宣布，《薩爾達傳說 時之笛》重製版發售四天，全球銷量突破五百二十萬套。",
+     "show": "任天堂宣布《薩爾達傳說 時之笛》重製版4天全球突破520萬套。"
+    },
+    {
+     "say": "日本國內八十一萬套。這是任天堂發行的 Switch 2 遊戲中，最高的四日開局。",
+     "show": "日本國內81萬套。任天堂發行的Switch 2遊戲中最高四日開局。"
+    }
+   ],
+   "details": [
+    "發售日是十一月五日，全球同步。統計到九日為止的四天。",
+    "這是任天堂發行的 Switch 2 遊戲，四日銷量的最高紀錄。",
+    "原作是 N64 的名作，這次在 Switch 2 上完整重製。"
+   ],
+   "link": {
+    "url": "https://www.nintendo.co.jp/corporate/release/2026/261111.html",
+    "title": "任天堂株式会社 ニュースリリース: 2026年11月11日 - Nintendo Switch 2 ソフト『ゼルダの伝説 時のオカリナ』の世界累計販売本数が発売後4日間で520万本を突破｜任天堂",
+    "site": "任天堂ホームページ",
+    "description": "任天堂株式会社のニュースリリースです。",
+    "image": "https://www.nintendo.co.jp/img/og_nintendo.png",
+    "icon": null
+   }
+  },
+  {
+   "label": "勇者鬥惡龍 手機新作",
+   "points": [
+    "手機向指令RPG",
+    "2027 全球同步",
+    "12/8 起封測"
+   ],
+   "url": "https://www.appbank.net/2026/11/12/game/3160703.php",
+   "lines": [
+    {
+     "say": "Square Enix 發表手機新作《勇者鬥惡龍RPG 魔界樹與引導之島》。",
+     "show": "Square Enix發表手機新作《勇者鬥惡龍RPG 魔界樹與引導之島》。"
+    },
+    {
+     "say": "預計二〇二七年全球同步推出，十二月八日起展開封測。",
+     "show": "預計2027年全球同步推出，12月8日起展開封測。"
+    }
+   ],
+   "details": [
+    "基本遊玩免費，採道具課金。對應 iOS 與 Android。",
+    "總監是堀井雄二，角色設計鳥山明，音樂椙山浩一。",
+    "開發由 WFS 負責。封測十二月八日到十五日，招募兩萬五千人，報名到二十三日。"
+   ],
+   "link": {
+    "url": "https://www.appbank.net/2026/11/12/game/3160703.php",
+    "title": "『ドラゴンクエストRPG 魔界樹と導かれし島』発表！ クローズドβテストの参加者募集を開始 | AppBank",
+    "site": "AppBank",
+    "description": "株式会社スクウェア・エニックスは11月10日、「ドラゴンクエスト」シリーズ新作として、スマートフォン向けコマンドRPG『ドラゴンクエストRPG 魔界樹と導かれし島』を発表しました。2027年のグローバル同時リリースが予定されています（一部地",
+    "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1c52add3e9-img008-key-visual-dqrpg_kv-5abeaaaab7.webp",
+    "icon": "https://www.appbank.net/wp-content/uploads/2021/03/cropped-appbank-logo-2021-0321-32x32.jpeg"
+   }
+  },
+  {
+   "label": "Horizon 發售時間近了",
+   "points": [
+    "發售時間近期公布",
+    "與Sony最後協調",
+    "手機、PC的MMORPG"
+   ],
+   "url": "https://www.gamemeca.com/view.php?gid=1783347",
+   "lines": [
+    {
+     "say": "接著是 NCSOFT。《Horizon Steel Frontiers》的發售時間，很快就會公布。",
+     "show": "接著是NCSOFT。《Horizon Steel Frontiers》發售時間很快就會公布。"
+    },
+    {
+     "say": "遊戲接近完成，正與 Sony 做最後協調。這是手機與 PC 的 MMORPG。",
+     "show": "遊戲接近完成，正與Sony最後協調。手機與PC的MMORPG。"
+    }
+   ],
+   "details": [
+    "NCSOFT 在十一月十一日的第三季財報說明會上，由朴炳武代表說明。",
+    "本作改編自 Sony 的 IP，是跨平台的 MMORPG。",
+    "去年在 G-Star 首次公開。"
+   ],
+   "link": {
+    "url": "https://www.gamemeca.com/view.php?gid=1783347",
+    "title": "엔씨 ‘호라이즌 신작’ 출시 시기 조율 중, 조만간 발표",
+    "site": "www.gamemeca.com",
+    "description": "엔씨가 개발 중인 호라이즌 IP 기반 신작 출시 시기가 조만간 발표될 예정이다. 크로스 플랫폼 타이틀인 호라이즌 스틸 프론티어스는 MMORPG에 맞춘 전투 시스템을 갖추고 있다. 소니와 출시 시기를 논의 중이며 12월 더 게임 어워드에서 공개될 가능성이 높다",
+    "image": "https://cdn.gamemeca.com/gmdata/0001/783/347/gm501368_261111-risell-tt11.webp",
+    "icon": "https://cdn.gamemeca.com/g17/images/icon/gamemeca_16x16.ico"
+   }
+  },
+  {
+   "label": "萬代南夢宮 清算工作室",
+   "points": [
+    "清算加拿大子公司",
+    "約35億日圓損失",
+    "《Unknown 9》不振"
+   ],
+   "url": "https://gamebiz.jp/news/435302",
+   "lines": [
+    {
+     "say": "最後是萬代南夢宮。他們決定解散並清算加拿大的子公司 Reflector Entertainment。",
+     "show": "最後是Bandai Namco。決定解散並清算加拿大子公司Reflector Entertainment。"
+    },
+    {
+     "say": "工作室開發的《Unknown 9: Awakening》表現不佳，將認列約三十五億日圓特別損失。",
+     "show": "《Unknown 9: Awakening》表現不佳，將認列約35億日圓特別損失。"
+    }
+   ],
+   "details": [
+    "董事會於十一月十日決議。清算時間未定，將依加拿大法律進行。",
+    "Reflector 在二〇二〇年成為全資子公司，高峰時超過一百四十人。",
+    "《Unknown 9》在二〇二四年十月發售，隔月就裁員百分之十八。"
+   ],
+   "link": {
+    "url": "https://gamebiz.jp/news/435302",
+    "title": "バンダイナムコHD、カナダのゲーム開発子会社Reflector Entertainmentを解散・清算へ 35億円の特別損失を計上 | gamebiz",
+    "site": "gamebiz【ゲームビズ】",
+    "description": "バンダイナムコホールディングス<7832>は11月10日、連結子会社のReflector Entertainment Ltd.(カナダ・モントリオール)を解散・清算すると発表した。今後の事業計画や必要となる追加投資、収益性、事業継続の可能性などを総合的に検討した結果、事業を終了することを決定した。今回の解散・清算に伴い、2027年3月期第3四半期以降の連結決算で約21百万ユーロ(約35億円)の特…",
+    "image": "https://i3.gamebiz.jp/media/1887fe27-a951-404e-9310-e59c6ac923eb.jpg",
+    "icon": "https://gamebiz.jp/favicon.ico?1793002622"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點，是《惡靈古堡 安魂曲》拿下年度最佳遊戲。四個獎項，實至名歸。",
+   "show": "今天的重點是《惡靈古堡 安魂曲》拿下GOTY。4個獎項，實至名歸。"
+  },
+  {
+   "say": "以上，蜜塔電台。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-12",
+ "lang": "zh",
+ "seconds": 93.62,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.45,
+   "show": "早安，這裡是蜜塔 radio。11月12日，星期四的遊戲新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.7,
+   "end": 11.25,
+   "show": "今天有5則，從金搖桿獎的結果到薩爾達的大紀錄。",
+   "part": 0
+  },
+  {
+   "start": 12.3,
+   "end": 18.84,
+   "show": "首先是Golden Joystick Awards。第44屆年度最佳遊戲是《惡靈古堡 安魂曲》。",
+   "part": 1
+  },
+  {
+   "start": 19.09,
+   "end": 23.81,
+   "show": "同作拿下4個獎項。Capcom獲選Studio of the Year。",
+   "part": 1
+  },
+  {
+   "start": 24.86,
+   "end": 32.35,
+   "show": "任天堂宣布《薩爾達傳說 時之笛》重製版4天全球突破520萬套。",
+   "part": 2
+  },
+  {
+   "start": 32.6,
+   "end": 39.72,
+   "show": "日本國內81萬套。任天堂發行的Switch 2遊戲中最高四日開局。",
+   "part": 2
+  },
+  {
+   "start": 40.77,
+   "end": 46.5,
+   "show": "Square Enix發表手機新作《勇者鬥惡龍RPG 魔界樹與引導之島》。",
+   "part": 3
+  },
+  {
+   "start": 46.75,
+   "end": 51.7,
+   "show": "預計2027年全球同步推出，12月8日起展開封測。",
+   "part": 3
+  },
+  {
+   "start": 52.75,
+   "end": 59.62,
+   "show": "接著是NCSOFT。《Horizon Steel Frontiers》發售時間很快就會公布。",
+   "part": 4
+  },
+  {
+   "start": 59.87,
+   "end": 66.69,
+   "show": "遊戲接近完成，正與Sony最後協調。手機與PC的MMORPG。",
+   "part": 4
+  },
+  {
+   "start": 67.74,
+   "end": 74.5,
+   "show": "最後是Bandai Namco。決定解散並清算加拿大子公司Reflector Entertainment。",
+   "part": 5
+  },
+  {
+   "start": 74.75,
+   "end": 81.68,
+   "show": "《Unknown 9: Awakening》表現不佳，將認列約35億日圓特別損失。",
+   "part": 5
+  },
+  {
+   "start": 82.73,
+   "end": 89.77,
+   "show": "今天的重點是《惡靈古堡 安魂曲》拿下GOTY。4個獎項，實至名歸。",
+   "part": 6
+  },
+  {
+   "start": 90.02,
+   "end": 92.62,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.3
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.3,
+   "end": 24.86
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 24.86,
+   "end": 40.77
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 40.77,
+   "end": 52.75
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 52.75,
+   "end": 67.74
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 67.74,
+   "end": 82.73
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 82.73,
+   "end": 93.62
+  }
+ ],
+ "made_at": "2026-11-12T11:03:40"
+}

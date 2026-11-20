@@ -1,0 +1,39 @@
+{
+  "format": "myradio/station-1",
+  "id": "miwu",
+  "name": "蜜塔 radio",
+  "description": "ミホヨの各ゲームと第五人格について、SNSで話題の投稿と議論を、毎朝90秒から2分で。",
+  "tagline": "米五のSNS話題",
+  "logo": "logo.png",
+  "url": "https://mita.bee.moe/miwu/",
+  "repo": "https://github.com/owosheet/mita-radioP",
+  "language": "ja",
+  "languages": ["ja", "zh"],
+  "schedule": { "every": "day", "time": "06:10", "timezone": "Asia/Tokyo" },
+  "episodes": "episodes.json",
+  "character": {
+    "pack": "character/character.json",
+    "thumbnail": "character/base.png",
+    "note": "AIで生成したキャラクターです"
+  },
+  "credits": ["声：蜜塔（この声の二次利用は禁止です）"],
+  "caster": "声：蜜塔",
+  "audio": { "dir": "audio", "keep_days": 30 },
+  "weather": true,
+  "i18n": {
+    "en": {
+      "name": "Mita Radio",
+      "tagline": "Miwu's SNS buzz",
+      "description": "The miHoYo games and Identity V posts and discussions trending on social media, every morning in 90 seconds to 2 minutes.",
+      "credits": ["Voice: Mita (this voice may not be reused)"],
+      "caster": "Voice: Mita"
+    },
+    "zh": {
+      "name": "蜜塔 radio",
+      "tagline": "米五的 SNS 話題",
+      "description": "每天早上用 90 秒到 2 分鐘，聊聊米哈遊旗下遊戲與《第五人格》在 SNS 上的熱門貼文與討論。",
+      "credits": ["聲音：蜜塔（禁止二次使用本聲音）"],
+      "caster": "聲音：蜜塔"
+    }
+  }
+}

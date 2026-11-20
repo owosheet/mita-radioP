@@ -1,0 +1,55 @@
+{
+ "format": "myradio/station-1",
+ "id": "code",
+ "name": "蜜塔 radio",
+ "description": "プログラマー向けのテックニュース、GitHubトレンド、セキュリティ、開発ツールを、毎朝90秒から2分で。",
+ "tagline": "蜜塔のコードニュース",
+ "logo": "logo.png",
+ "url": "https://mita.bee.moe/code/",
+ "repo": "https://github.com/owosheet/mita-radioP",
+ "language": "ja",
+ "languages": [
+  "ja",
+  "zh"
+ ],
+ "schedule": {
+  "every": "day",
+  "time": "06:10",
+  "timezone": "Asia/Tokyo"
+ },
+ "episodes": "episodes.json",
+ "character": {
+  "pack": "character/character.json",
+  "thumbnail": "character/base.png",
+  "note": "AIで生成したキャラクターです"
+ },
+ "credits": [
+  "声：蜜塔（この声の二次利用は禁止です）"
+ ],
+ "caster": "声：蜜塔",
+ "audio": {
+  "dir": "audio",
+  "keep_days": 30
+ },
+ "weather": false,
+ "i18n": {
+  "en": {
+   "name": "Mita Radio",
+   "tagline": "Mita's code news",
+   "description": "Tech news, GitHub trends, security and developer tools for programmers, every morning in 90 seconds to 2 minutes.",
+   "credits": [
+    "Voice: Mita (this voice may not be reused)"
+   ],
+   "caster": "Voice: Mita"
+  },
+  "zh": {
+   "name": "蜜塔 radio",
+   "tagline": "蜜塔的程式新聞",
+   "description": "給程式設計師的科技熱點、GitHub 熱門項目、資安與開發工具新聞，每天早上 90 秒到 2 分鐘。",
+   "credits": [
+    "聲音：蜜塔（禁止二次使用本聲音）"
+   ],
+   "caster": "聲音：蜜塔"
+  }
+ }
+}

@@ -1,0 +1,301 @@
+{
+ "title": "Ignite開幕、Copilotモデル交代",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十七日、火曜日のコードニュースです。",
+   "show": "おはようございます、蜜塔 radio です。11月17日、火曜日のコードニュース。"
+  },
+  {
+   "say": "今日は四本。イグナイト開幕から、ワーカードの新リリースまで。",
+   "show": "今日は4本。Ignite 開幕から、workerd 新版本まで。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Ignite開幕",
+   "points": [
+    "17日から20日",
+    "サンフランシスコ",
+    "AIエージェント"
+   ],
+   "url": "https://uctoday.com/microsoft-ignite-2026-will-copilot-prove-its-value",
+   "lines": [
+    {
+     "say": "マイクロソフトの開発者会議、イグナイトが今日からサンフランシスコで開かれます。",
+     "show": "微軟開發者大會 Ignite，今天起在舊金山舉行。"
+    },
+    {
+     "say": "今回は機能より、コパイロットの価格と利用実績が焦点になっています。",
+     "show": "這次的焦點不是新功能，而是 Copilot 的價格與實際用量。"
+    },
+    {
+     "say": "基調講演は日本時間の明日未明に行われます。",
+     "show": "開幕主題演講在日本時間明天凌晨舉行。"
+    }
+   ],
+   "details": [
+    "11月17日至20日，於舊金山Moscone Center舉行；開幕主題演講由Satya Nadella與Judson Althoff登台。",
+    "設有Agent 365與Copilot治理的Secure AI議程。",
+    "授權走向座位加計量制：Microsoft 365 E7為99美元，Copilot Credits每人每月預設4,000點。"
+   ],
+   "link": {
+    "url": "https://uctoday.com/microsoft-ignite-2026-will-copilot-prove-its-value",
+    "title": "Microsoft Ignite 2026: Will Copilot Prove Its Value?",
+    "site": "uctoday.com",
+    "description": "Microsoft stopped publishing its paid Copilot seat count, so Ignite 2026 is the value test. Buyers want pricing, Teams and agent control, not a feature parade",
+    "image": "https://media.uctoday.com/article-images/1793979758145-microsoft-ignite.jpg",
+    "icon": "https://uctoday.com/favicon.ico?v=2"
+   }
+  },
+  {
+   "label": "Copilot三モデル終了",
+   "points": [
+    "Opus 4.8終了",
+    "Opus 5も終了",
+    "GPT-5.6 Terra"
+   ],
+   "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026/",
+   "lines": [
+    {
+     "say": "ギットハブは十六日、コパイロットで使えるモデルを三つ終了しました。",
+     "show": "GitHub 在11月16日，終止了 Copilot 的三個模型。"
+    },
+    {
+     "say": "クロード・オーパス四点八と五点は五点五へ、ジーピーティー五点六テラは六点一ソルか六ルナへ移ります。",
+     "show": "Claude Opus 4.8 與 Opus 5 換成 Opus 5.5；GPT-5.6 Terra 換成 GPT-6.1 Sol 或 GPT-6 Luna。"
+    },
+    {
+     "say": "次の入れ替えは十二月十四日です。",
+     "show": "下一批退役排在12月14日。"
+    }
+   ],
+   "details": [
+    "對話、行內編輯、代理模式與程式補全等主要體驗都受影響。",
+    "年次方案的个人契約者，仍可繼續使用Opus 4.8。",
+    "Business與Enterprise會自動啟用替代模型；下一批退役排在12月14日。"
+   ],
+   "link": {
+    "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026/",
+    "title": "GitHub Copilot models deprecated on November 16, 2026 - GitHub Changelog",
+    "site": "The GitHub Blog",
+    "description": "As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note…",
+    "image": "https://github.blog/wp-content/uploads/2026/11/708090845-dba83c99-f90a-44f8-b5dc-ea4d634a8dee.jpg",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  },
+  {
+   "label": "エージェントSkillsが熱い",
+   "points": [
+    "Univer +1878",
+    "BugHunter +1057",
+    "スキル検査 +953"
+   ],
+   "url": "https://repowatch.top/reports/daily/2026-11-17",
+   "lines": [
+    {
+     "say": "今日のギットハブトレンドは、エージェント向けのスキル集が上位を占めています。",
+     "show": "今天的 GitHub Trending，前段被代理用技能集占據。"
+    },
+    {
+     "say": "表計算のユニバーが千八百七十八、脆弱性調査のクロードバグハンターが千五十七の星を増やしました。",
+     "show": "試算表專案 Univer 增加1,878星，資安調查的 Claude-BugHunter 增加1,057星。"
+    }
+   ],
+   "details": [
+    "11月17日的日榜中，15個專案合計增加9,808星。",
+    "NVIDIA/SkillEvaluator增加953星，檢查技能的結構、安全性、重複與實際效果。",
+    "ag-ui增加790星、plannotator增加689星，都是把代理接到介面與流程上的工具。"
+   ],
+   "link": {
+    "url": "https://repowatch.top/reports/daily/2026-11-17",
+    "title": "GitHub 趋势日报 · 2026-11-17｜RepoWatch",
+    "site": "repowatch.top",
+    "description": "AG-UI 升至榜首，Plannotator 从第 4 升至第 2，榜单前两位分别面向智能体的界面交互和人工审阅。",
+    "image": null,
+    "icon": "https://repowatch.top/favicon.svg"
+   }
+  },
+  {
+   "label": "workerd新リリース",
+   "points": [
+    "静的アセット",
+    "D1内蔵",
+    "WebSocket改善"
+   ],
+   "url": "https://newreleases.io/project/github/cloudflare/workerd/release/v1.20261117.1",
+   "lines": [
+    {
+     "say": "クラウドフレアのワーカードが、十七日付のリリースを出しました。",
+     "show": "Cloudflare 的 workerd，發布11月17日版本。"
+    },
+    {
+     "say": "スタンドアロンで静的アセットを扱えるようになり、ディーワンデータベースも内蔵されました。",
+     "show": "獨立執行時可處理靜態資源，也內建了 D1 資料庫。"
+    },
+    {
+     "say": "今回の版は、安全面の修正も多く含んでいます。",
+     "show": "這次版本也包含多項安全修正。"
+    }
+   ],
+   "details": [
+    "v1.20261117.1：新增WebSocket.bufferedAmount。",
+    "新增standalone workerd的靜態資源支援、內建D1資料庫。",
+    "修正多項Rust/JSG與C++橋接的安全問題，並拒絕以CONNECT建立新的Request。"
+   ],
+   "link": {
+    "url": "https://newreleases.io/project/github/cloudflare/workerd/release/v1.20261117.1",
+    "title": "cloudflare/workerd v1.20261117.1 on GitHub",
+    "site": "newreleases.io",
+    "description": "New release cloudflare/workerd version v1.20261117.1 on GitHub.",
+    "image": "https://newreleases.io/logo-og.png",
+    "icon": "https://newreleases.io/assets/favicon.76b996.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、イグナイト。コパイロットが、機能より数字で語られる年になりました。",
+   "show": "今天的重點是 Ignite。Copilot 今年比的不是功能，而是數字。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-17",
+ "lang": "ja",
+ "seconds": 89.56,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.02,
+   "show": "おはようございます、蜜塔 radio です。11月17日、火曜日のコードニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.27,
+   "end": 12.72,
+   "show": "今日は4本。Ignite 開幕から、workerd 新版本まで。",
+   "part": 0
+  },
+  {
+   "start": 13.77,
+   "end": 19.52,
+   "show": "微軟開發者大會 Ignite，今天起在舊金山舉行。",
+   "part": 1
+  },
+  {
+   "start": 19.77,
+   "end": 25.03,
+   "show": "這次的焦點不是新功能，而是 Copilot 的價格與實際用量。",
+   "part": 1
+  },
+  {
+   "start": 25.28,
+   "end": 29.32,
+   "show": "開幕主題演講在日本時間明天凌晨舉行。",
+   "part": 1
+  },
+  {
+   "start": 30.37,
+   "end": 35.22,
+   "show": "GitHub 在11月16日，終止了 Copilot 的三個模型。",
+   "part": 2
+  },
+  {
+   "start": 35.47,
+   "end": 42.89,
+   "show": "Claude Opus 4.8 與 Opus 5 換成 Opus 5.5；GPT-5.6 Terra 換成 GPT-6.1 Sol 或 GPT-6 Luna。",
+   "part": 2
+  },
+  {
+   "start": 43.14,
+   "end": 45.9,
+   "show": "下一批退役排在12月14日。",
+   "part": 2
+  },
+  {
+   "start": 46.95,
+   "end": 52.06,
+   "show": "今天的 GitHub Trending，前段被代理用技能集占據。",
+   "part": 3
+  },
+  {
+   "start": 52.31,
+   "end": 61.47,
+   "show": "試算表專案 Univer 增加1,878星，資安調查的 Claude-BugHunter 增加1,057星。",
+   "part": 3
+  },
+  {
+   "start": 62.52,
+   "end": 67.17,
+   "show": "Cloudflare 的 workerd，發布11月17日版本。",
+   "part": 4
+  },
+  {
+   "start": 67.42,
+   "end": 73.33,
+   "show": "獨立執行時可處理靜態資源，也內建了 D1 資料庫。",
+   "part": 4
+  },
+  {
+   "start": 73.58,
+   "end": 77.19,
+   "show": "這次版本也包含多項安全修正。",
+   "part": 4
+  },
+  {
+   "start": 78.24,
+   "end": 84.97,
+   "show": "今天的重點是 Ignite。Copilot 今年比的不是功能，而是數字。",
+   "part": 5
+  },
+  {
+   "start": 85.22,
+   "end": 88.56,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.77
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.77,
+   "end": 30.37
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 30.37,
+   "end": 46.95
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 46.95,
+   "end": 62.52
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 62.52,
+   "end": 78.24
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 78.24,
+   "end": 89.56
+  }
+ ],
+ "made_at": "2026-11-17T12:36:38"
+}

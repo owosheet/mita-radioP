@@ -1,0 +1,311 @@
+{
+ "title": "Gemini 4 Hydrogen 登場，台積電 4.6 萬筆員工資料外洩",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十四日、星期六的程式新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月14日、星期六的程式新聞。"
+  },
+  {
+   "say": "今天有四則：Gemini 4 Hydrogen、阿里巴巴的開源工具、台積電資料外洩，還有 .NET 11。",
+   "show": "今天有4則：Gemini 4 Hydrogen、Alibaba開源工具、TSMC資料外洩，還有.NET 11。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Gemini 4 Hydrogen 登場",
+   "points": [
+    "11月12日推出",
+    "Terminal-Bench 57%",
+    "Pro／Ultra 先用"
+   ],
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "lines": [
+    {
+     "say": "先來看 Google。十一月十二日，推出新模型 Gemini 4 Hydrogen。",
+     "show": "先來看Google。11月12日推出新模型Gemini 4 Hydrogen。"
+    },
+    {
+     "say": "主打日常 coding 和 agent 工作，Terminal-Bench 4.1 拿到百分之五十七，是 3.8 Flash 的三倍以上。",
+     "show": "主打日常coding與agent工作，Terminal-Bench 4.1拿下57%，是3.8 Flash的三倍以上。"
+    },
+    {
+     "say": "搭配 Carbon 的 Orchestrator，配額省下百分之二十四，平均快百分之十九。Pro 和 Ultra 訂閱者先能用。",
+     "show": "搭配Carbon的Orchestrator，配額省24%、平均快19%。Pro與Ultra訂閱者優先。"
+    }
+   ],
+   "details": [
+    "Gemini 4 Hydrogen 在11月12日推出，定位是日常coding與agent工作。",
+    "Terminal-Bench 4.1拿下57%，3.8 Flash只有18.2%；Artificial Analysis指數51，xhigh模式54。",
+    "Orchestrator會和Carbon雙向接手，成功率接近Carbon，配額少24%、平均快19%。Pro／Ultra與企業版可用。"
+   ],
+   "link": {
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "title": "Gemini 4 Hydrogen and Orchestrator | Google Antigravity Blog",
+    "site": "Google Antigravity",
+    "description": "Today, we're rolling out Gemini 4 Hydrogen inside Google Antigravity alongside a new model dropdown option called Orchestrator, which pairs Hydrogen with…",
+    "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
+    "icon": "https://antigravity.google/favicon.svg"
+   }
+  },
+  {
+   "label": "Alibaba 開源 code review",
+   "points": [
+    "GitHub 趨勢第一",
+    "5.4 萬星",
+    "Apache-2.0"
+   ],
+   "url": "https://github.com/alibaba/open-code-review",
+   "lines": [
+    {
+     "say": "再來看 GitHub 趨勢。阿里巴巴的 open-code-review 衝上第一。",
+     "show": "再來看GitHub趨勢。Alibaba的open-code-review衝上第一。"
+    },
+    {
+     "say": "這是 Go 寫的 CLI，直接對 diff 給出行級評論，星星已經超過五萬四千顆。",
+     "show": "這是Go寫的CLI，直接對diff給出行級評論，星星已超過5.4萬顆。"
+    },
+    {
+     "say": "內建 NPE、執行緒安全、XSS、SQL injection 規則，也能接上 Claude Code、Codex 和 CI。",
+     "show": "內建NPE、執行緒安全、XSS、SQL injection規則，也能接上Claude Code、Codex和CI。"
+    }
+   ],
+   "details": [
+    "open-code-review 是阿里巴巴把內部審查助手開源，Go撰寫、Apache-2.0授權。",
+    "不只看diff，也能掃整個檔案；內建NPE、執行緒安全、XSS、SQL injection等規則。",
+    "支援OpenAI／Anthropic相容模型，可接Claude Code、Codex、Cursor與CI。今天GitHub趨勢第一，5.4萬星。"
+   ],
+   "link": {
+    "url": "https://github.com/alibaba/open-code-review",
+    "title": "GitHub - alibaba/open-code-review: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "site": "GitHub",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language rulese...",
+    "image": "https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d",
+    "icon": "https://github.com/fluidicon.png"
+   }
+  },
+  {
+   "label": "台積電 4.6 萬筆資料外洩",
+   "points": [
+    "第三方雲端出事",
+    "無系統入侵證據",
+    "駭客索 3 BTC"
+   ],
+   "url": "https://www.taiwannews.com.tw/news/6475582",
+   "lines": [
+    {
+     "say": "接著是資安。台積電確認，部分現職和前任員工的個資，未經授權出現在外部網站。",
+     "show": "接著是資安。台積電確認，部分現職與前任員工的個資，未經授權出現在外部網站。"
+    },
+    {
+     "say": "公司說沒有系統被入侵的證據，資料和第三方雲端供應商一致，也不含客戶資料。",
+     "show": "公司說沒有系統被入侵的證據，資料與第三方雲端供應商一致，也不含客戶資料。"
+    },
+    {
+     "say": "賣方聲稱有四萬六千筆、六點九 GB，要價三顆比特幣。台積電說數量與贖金都還沒確認。",
+     "show": "賣方聲稱有4.6萬筆、6.9GB，要價3顆比特幣。台積電說數量與贖金都還沒確認。"
+    }
+   ],
+   "details": [
+    "台積電在11月12日申報，確認部分現職與前任員工資料未經授權出現在外部網站。",
+    "公司說沒有系統被入侵的證據，資料與第三方雲端供應商一致，和營運、客戶資料無關。",
+    "賣方聲稱約4.6萬筆、6.9GB，索3 BTC（約22萬美元）。台積電未確認數量與贖金，已開始通知受影響員工。"
+   ],
+   "link": {
+    "url": "https://www.taiwannews.com.tw/news/6475582",
+    "title": "TSMC reports leak of employee information | Taiwan News | Nov. 12, 2026 18:13",
+    "site": "www.taiwannews.com.tw",
+    "description": "Company says no sign its own systems were compromised | Nov. 12, 2026 18:13",
+    "image": "https://image.taiwannews.com.tw/2026%2F05%2F29%2F930849ccac614d2c855114cb6d7c20b2.jpg",
+    "icon": "https://www.taiwannews.com.tw/favicon.ico"
+   }
+  },
+  {
+   "label": ".NET 11 正式發布",
+   "points": [
+    "C# 15 聯合型別",
+    "JIT／AOT 加速",
+    "STS 支援兩年"
+   ],
+   "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+   "lines": [
+    {
+     "say": "最後是開發工具。.NET 11 正式發布了。",
+     "show": "最後是開發工具。.NET 11正式發布。"
+    },
+    {
+     "say": "C# 15 加入聯合型別，編譯器會檢查 switch 有沒有漏掉型別。",
+     "show": "C# 15加入聯合型別（union types），編譯器會檢查switch有沒有漏掉型別。"
+    },
+    {
+     "say": "JIT 和 AOT 都更快，還多了 dotnetup 工具鏈管理器，支援兩年。",
+     "show": "JIT和AOT都更快，還多了dotnetup工具鏈管理器，支援兩年。"
+    }
+   ],
+   "details": [
+    ".NET 11在.NET Conf 2026正式發布，是STS版本，支援到2028年11月14日。",
+    "C# 15加入聯合型別，一個變數只能裝固定集合中的一種型別，編譯器會檢查switch是否窮盡。",
+    "JIT減少陣列邊界與溢位檢查，AOT改善多介面呼叫；CLI預設Native AOT，還新增dotnetup工具鏈管理器。"
+   ],
+   "link": {
+    "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "title": "Announcing .NET 11 - .NET Blog",
+    "site": ".NET Blog",
+    "description": ".NET 11 is here with C# 15, faster developer tools, runtime and library improvements, and new capabilities for web, mobile, desktop, and AI apps.",
+    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/announcing-dotnet-11-scaled.webp",
+    "icon": "https://devblogs.microsoft.com/dotnet/wp-content/themes/devblogs-evo/images/favicon/favicon.ico?ver=1789493481"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天最值得記住的是 Gemini 4 Hydrogen。coding agent 的選擇，又多了一個。",
+   "show": "今天最值得記住的是Gemini 4 Hydrogen。coding agent的選擇，又多了一個。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-14",
+ "lang": "zh",
+ "seconds": 114.97,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.21,
+   "show": "早安，這裡是蜜塔 radio。11月14日、星期六的程式新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.46,
+   "end": 15.0,
+   "show": "今天有4則：Gemini 4 Hydrogen、Alibaba開源工具、TSMC資料外洩，還有.NET 11。",
+   "part": 0
+  },
+  {
+   "start": 16.05,
+   "end": 21.37,
+   "show": "先來看Google。11月12日推出新模型Gemini 4 Hydrogen。",
+   "part": 1
+  },
+  {
+   "start": 21.62,
+   "end": 30.18,
+   "show": "主打日常coding與agent工作，Terminal-Bench 4.1拿下57%，是3.8 Flash的三倍以上。",
+   "part": 1
+  },
+  {
+   "start": 30.43,
+   "end": 39.59,
+   "show": "搭配Carbon的Orchestrator，配額省24%、平均快19%。Pro與Ultra訂閱者優先。",
+   "part": 1
+  },
+  {
+   "start": 40.64,
+   "end": 45.66,
+   "show": "再來看GitHub趨勢。Alibaba的open-code-review衝上第一。",
+   "part": 2
+  },
+  {
+   "start": 45.91,
+   "end": 52.5,
+   "show": "這是Go寫的CLI，直接對diff給出行級評論，星星已超過5.4萬顆。",
+   "part": 2
+  },
+  {
+   "start": 52.75,
+   "end": 61.47,
+   "show": "內建NPE、執行緒安全、XSS、SQL injection規則，也能接上Claude Code、Codex和CI。",
+   "part": 2
+  },
+  {
+   "start": 62.52,
+   "end": 70.53,
+   "show": "接著是資安。台積電確認，部分現職與前任員工的個資，未經授權出現在外部網站。",
+   "part": 3
+  },
+  {
+   "start": 70.78,
+   "end": 77.38,
+   "show": "公司說沒有系統被入侵的證據，資料與第三方雲端供應商一致，也不含客戶資料。",
+   "part": 3
+  },
+  {
+   "start": 77.63,
+   "end": 85.91,
+   "show": "賣方聲稱有4.6萬筆、6.9GB，要價3顆比特幣。台積電說數量與贖金都還沒確認。",
+   "part": 3
+  },
+  {
+   "start": 86.96,
+   "end": 90.69,
+   "show": "最後是開發工具。.NET 11正式發布。",
+   "part": 4
+  },
+  {
+   "start": 90.94,
+   "end": 96.45,
+   "show": "C# 15加入聯合型別（union types），編譯器會檢查switch有沒有漏掉型別。",
+   "part": 4
+  },
+  {
+   "start": 96.7,
+   "end": 102.92,
+   "show": "JIT和AOT都更快，還多了dotnetup工具鏈管理器，支援兩年。",
+   "part": 4
+  },
+  {
+   "start": 103.97,
+   "end": 110.93,
+   "show": "今天最值得記住的是Gemini 4 Hydrogen。coding agent的選擇，又多了一個。",
+   "part": 5
+  },
+  {
+   "start": 111.18,
+   "end": 113.97,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 16.05
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 16.05,
+   "end": 40.64
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 40.64,
+   "end": 62.52
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 62.52,
+   "end": 86.96
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 86.96,
+   "end": 103.97
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 103.97,
+   "end": 114.97
+  }
+ ],
+ "made_at": "2026-11-14T02:52:37"
+}

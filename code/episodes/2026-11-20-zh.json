@@ -1,0 +1,411 @@
+{
+ "title": "PostgreSQL 19、PHP 8.6、nginx 緊急修補",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月二十日、星期五的程式新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月20日、星期五的程式新聞。"
+  },
+  {
+   "say": "今天五則：大型版本更新，還有緊急的資安修補。",
+   "show": "今天5則：大型版本更新，還有緊急的資安修補。"
+  }
+ ],
+ "news": [
+  {
+   "label": "PostgreSQL 19",
+   "points": [
+    "19日發布",
+    "REPACK登場",
+    "JIT預設關閉"
+   ],
+   "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+   "lines": [
+    {
+     "say": "PostgreSQL 十九在十九日正式發布。",
+     "show": "PostgreSQL 19 在19日正式發布。"
+    },
+    {
+     "say": "新版加入不必停表的 REPACK，能線上整理資料表。",
+     "show": "新版加入不必停表的 REPACK，能線上整理資料表。"
+    },
+    {
+     "say": "執行計畫穩定工具與待命讀取也強化了。",
+     "show": "執行計畫穩定工具與待命讀取也強化了。"
+    },
+    {
+     "say": "邏輯複製與待命讀取也一起強化。",
+     "show": "邏輯複製與待命讀取也一起強化。"
+    }
+   ],
+   "details": [
+    "2026/11/19 GA，支援至 2031 年後半。",
+    "REPACK／REPACK (CONCURRENTLY) 取代 VACUUM FULL、CLUSTER。",
+    "pg_plan_advice、WAIT FOR LSN，JIT 預設關閉。"
+   ],
+   "link": {
+    "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+    "title": "PostgreSQL 19 Released!",
+    "site": "PostgreSQL News",
+    "description": "November 19, 2026 - The [PostgreSQL Global Development Group](https://www.postgresql.org) today announced the release of [PostgreSQL 19](https://www.postgresql.org/docs/19/release-19.html), the latest version of …",
+    "image": "https://www.postgresql.org/media/img/about/press/elephant.png",
+    "icon": "https://www.postgresql.org/favicon.ico"
+   }
+  },
+  {
+   "label": "PHP 8.6",
+   "points": [
+    "19日發布",
+    "部分函式應用",
+    "Duration類別"
+   ],
+   "url": "https://www.php.net/releases/8.6/en.php",
+   "lines": [
+    {
+     "say": "PHP 八點六也在同一天發布。",
+     "show": "PHP 8.6 也在同一天發布。"
+    },
+    {
+     "say": "現在可以把部分參數先固定，剩下的事後再傳。",
+     "show": "現在可以把部分參數先固定，剩下的事後再傳。"
+    },
+    {
+     "say": "還加入時間類別與新的輪詢 API。",
+     "show": "還加入時間類別與新的輪詢 API。"
+    },
+    {
+     "say": "唯讀屬性的預設值也開放了。",
+     "show": "唯讀屬性的預設值也開放了。"
+    }
+   ],
+   "details": [
+    "2026/11/19 リリース。",
+    "Partial Function Application、clamp()、SortDirection。",
+    "Time Duration、Io Poll API、readonly 屬性預設值。"
+   ],
+   "link": {
+    "url": "https://www.php.net/releases/8.6/en.php",
+    "title": "PHP 8.6 Released",
+    "site": "www.php.net",
+    "description": "PHP 8.6 is a major update of the PHP language, with new features including Partial Function Application, a new Duration class, a Polling API, and a new clamp() function",
+    "image": "https://www.php.net/images/php8/php_8_6_released.png",
+    "icon": "https://www.php.net/favicon.svg?v=2"
+   }
+  },
+  {
+   "label": "nginx 10項漏洞",
+   "points": [
+    "1.31.9與1.30.7",
+    "HTTP/2與3缺陷",
+    "需要重新啟動"
+   ],
+   "url": "https://nginx.org/en/security_advisories.html",
+   "lines": [
+    {
+     "say": "nginx 新版修補了十項漏洞。",
+     "show": "nginx 新版修補了10項漏洞。"
+    },
+    {
+     "say": "其中包含 HTTP 二與 HTTP 三的記憶體破壞，嚴重度高。",
+     "show": "其中包含 HTTP/2 與 HTTP/3 的記憶體破壞，嚴重度高。"
+    },
+    {
+     "say": "更新後必須重新啟動，而不是只重新載入。",
+     "show": "更新後必須重新啟動，而不是只重新載入。"
+    },
+    {
+     "say": "官方建議盡快升級到修正版本。",
+     "show": "官方建議盡快升級到修正版本。"
+    }
+   ],
+   "details": [
+    "1.31.9（mainline）與 1.30.7（stable）於 11/18 發布。",
+    "CVE-2026-123007 等 5 件 CVSS 9.2 重大。",
+    "修正需 restart，reload 不足。"
+   ],
+   "link": {
+    "url": "https://nginx.org/en/security_advisories.html",
+    "title": "nginx security advisories",
+    "site": "nginx.org",
+    "description": "",
+    "image": null,
+    "icon": null
+   }
+  },
+  {
+   "label": "gh event listen",
+   "points": [
+    "CLI 2.105.0",
+    "等待PR事件",
+    "不必輪詢"
+   ],
+   "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli/",
+   "lines": [
+    {
+     "say": "GitHub CLI 二點百五加入新指令。",
+     "show": "GitHub CLI 2.105.0 加入新指令。"
+    },
+    {
+     "say": "可以等待並接收 PR 的審查與狀態變更。",
+     "show": "可以等待並接收 PR 的審查與狀態變更。"
+    },
+    {
+     "say": "目前還是預覽，使用前要登記候補。",
+     "show": "目前還是預覽，使用前要登記候補。"
+    },
+    {
+     "say": "事件會以 JSON 一行一行輸出。",
+     "show": "事件會以 JSON 一行一行輸出。"
+    }
+   ],
+   "details": [
+    "GitHub CLI v2.105.0，gh event listen 預覽。",
+    "支援 review submitted、state/head changed、merge conflict、check suite。",
+    "Event Streams 需 waitlist，錯過事件不重播。"
+   ],
+   "link": {
+    "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli/",
+    "title": "Wait for pull request events with GitHub CLI - GitHub Changelog",
+    "site": "The GitHub Blog",
+    "description": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it…",
+    "image": "https://github.blog/wp-content/uploads/2026/11/Changelog_NewRelease_Unfurl_Centered_PullRequestEvents.jpg",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  },
+  {
+   "label": "Copilot 加入 Gemini 4 Neon",
+   "points": [
+    "正式提供",
+    "依用量計費",
+    "陸續推出"
+   ],
+   "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+   "lines": [
+    {
+     "say": "Copilot 正式提供 Gemini 四 Neon。",
+     "show": "Copilot 正式提供 Gemini 4 Neon。"
+    },
+    {
+     "say": "依使用量計費，會陸續推送到各客戶端。",
+     "show": "依使用量計費，會陸續推送到各客戶端。"
+    },
+    {
+     "say": "管理員可以用模型政策控制是否啟用。",
+     "show": "管理員可以用模型政策控制是否啟用。"
+    }
+   ],
+   "details": [
+    "2026/11/18 GA，Pro+／Max／Business／Enterprise。",
+    "VS Code、Visual Studio、CLI、JetBrains、Xcode 等陸續推出。",
+    "以供應商定價按用量計費。"
+   ],
+   "link": {
+    "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+    "title": "Gemini 4 Neon in GitHub Copilot - GitHub Changelog",
+    "site": "The GitHub Blog",
+    "description": "Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work. According to Google, Gemini 4 Neon delivers quality…",
+    "image": "https://github.blog/wp-content/uploads/2026/11/710810976-7eb80d08-78b7-4fbe-b584-0995e1de504f.png",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是 nginx 的修補。對外服務記得早點重啟。",
+   "show": "今天的重點是 nginx 的修補。對外服務記得早點重啟。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 2,
+ "format": "monoradio/news-1",
+ "date": "2026-11-20",
+ "lang": "zh",
+ "seconds": 92.91,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.63,
+   "show": "早安，這裡是蜜塔 radio。11月20日、星期五的程式新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.88,
+   "end": 11.31,
+   "show": "今天5則：大型版本更新，還有緊急的資安修補。",
+   "part": 0
+  },
+  {
+   "start": 12.36,
+   "end": 16.04,
+   "show": "PostgreSQL 19 在19日正式發布。",
+   "part": 1
+  },
+  {
+   "start": 16.29,
+   "end": 20.66,
+   "show": "新版加入不必停表的 REPACK，能線上整理資料表。",
+   "part": 1
+  },
+  {
+   "start": 20.91,
+   "end": 24.16,
+   "show": "執行計畫穩定工具與待命讀取也強化了。",
+   "part": 1
+  },
+  {
+   "start": 24.41,
+   "end": 27.46,
+   "show": "邏輯複製與待命讀取也一起強化。",
+   "part": 1
+  },
+  {
+   "start": 28.51,
+   "end": 31.04,
+   "show": "PHP 8.6 也在同一天發布。",
+   "part": 2
+  },
+  {
+   "start": 31.29,
+   "end": 35.71,
+   "show": "現在可以把部分參數先固定，剩下的事後再傳。",
+   "part": 2
+  },
+  {
+   "start": 35.96,
+   "end": 38.82,
+   "show": "還加入時間類別與新的輪詢 API。",
+   "part": 2
+  },
+  {
+   "start": 39.07,
+   "end": 41.37,
+   "show": "唯讀屬性的預設值也開放了。",
+   "part": 2
+  },
+  {
+   "start": 42.42,
+   "end": 45.09,
+   "show": "nginx 新版修補了10項漏洞。",
+   "part": 3
+  },
+  {
+   "start": 45.34,
+   "end": 50.4,
+   "show": "其中包含 HTTP/2 與 HTTP/3 的記憶體破壞，嚴重度高。",
+   "part": 3
+  },
+  {
+   "start": 50.65,
+   "end": 54.38,
+   "show": "更新後必須重新啟動，而不是只重新載入。",
+   "part": 3
+  },
+  {
+   "start": 54.63,
+   "end": 57.25,
+   "show": "官方建議盡快升級到修正版本。",
+   "part": 3
+  },
+  {
+   "start": 58.3,
+   "end": 61.28,
+   "show": "GitHub CLI 2.105.0 加入新指令。",
+   "part": 4
+  },
+  {
+   "start": 61.53,
+   "end": 64.87,
+   "show": "可以等待並接收 PR 的審查與狀態變更。",
+   "part": 4
+  },
+  {
+   "start": 65.12,
+   "end": 68.12,
+   "show": "目前還是預覽，使用前要登記候補。",
+   "part": 4
+  },
+  {
+   "start": 68.37,
+   "end": 71.32,
+   "show": "事件會以 JSON 一行一行輸出。",
+   "part": 4
+  },
+  {
+   "start": 72.37,
+   "end": 75.14,
+   "show": "Copilot 正式提供 Gemini 4 Neon。",
+   "part": 5
+  },
+  {
+   "start": 75.39,
+   "end": 79.04,
+   "show": "依使用量計費，會陸續推送到各客戶端。",
+   "part": 5
+  },
+  {
+   "start": 79.29,
+   "end": 82.25,
+   "show": "管理員可以用模型政策控制是否啟用。",
+   "part": 5
+  },
+  {
+   "start": 83.3,
+   "end": 88.82,
+   "show": "今天的重點是 nginx 的修補。對外服務記得早點重啟。",
+   "part": 6
+  },
+  {
+   "start": 89.07,
+   "end": 91.91,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.36
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.36,
+   "end": 28.51
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 28.51,
+   "end": 42.42
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 42.42,
+   "end": 58.3
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 58.3,
+   "end": 72.37
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 72.37,
+   "end": 83.3
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 83.3,
+   "end": 92.91
+  }
+ ],
+ "made_at": "2026-11-20T15:41:59"
+}

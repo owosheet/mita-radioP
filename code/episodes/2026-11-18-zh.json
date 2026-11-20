@@ -1,0 +1,381 @@
+{
+ "title": "Drupal 緊急修補，Nim 新編譯器",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十八日、星期三的程式新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月18日、星期三的程式新聞。"
+  },
+  {
+   "say": "今天五則：從 Drupal 的緊急修補，到 Nim 的新編譯器。",
+   "show": "今天5則：從 Drupal 的緊急修補，到 Nim 的新編譯器。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Drupal 重大修補",
+   "points": [
+    "18日17時UTC",
+    "匿名可攻擊",
+    "多版本受影響"
+   ],
+   "url": "https://www.drupal.org/psa-2026-11-16",
+   "lines": [
+    {
+     "say": "Drupal 核心將於今天發布重大漏洞修補。",
+     "show": "Drupal 核心將於今天發布重大漏洞修補。"
+    },
+    {
+     "say": "發布時段是 UTC 十七時到二十一時，其中包含匿名使用者可攻擊的問題。",
+     "show": "發布時段是 UTC 17時到21時，其中包含匿名使用者可攻擊的問題。"
+    },
+    {
+     "say": "十一系與十系的多個版本都受影響。",
+     "show": "11 系與 10 系的多個版本都受影響。"
+    }
+   ],
+   "details": [
+    "安全公告 PSA-2026-11-16，發布窗口為11月18日 17:00–21:00 UTC。",
+    "嚴重度 18/25，至少有一個問題可由匿名使用者利用。",
+    "影響 Drupal 11.4.x、11.3.x、10.6.x，以及 12.0.0-beta3、11.5.0-beta1。"
+   ],
+   "link": {
+    "url": "https://www.drupal.org/psa-2026-11-16",
+    "title": "Drupal core critical security release on November 18, 2026 [PSA-2026-11-16]",
+    "site": "Drupal.org",
+    "description": "Drupal core security release window 17:00-21:00 UTC on 18 November 2026. At least one issue can be exploited by anonymous users.",
+    "image": null,
+    "icon": "https://www.drupal.org/favicon.ico"
+   }
+  },
+  {
+   "label": "Nim 新編譯器 Nimony",
+   "points": [
+    "Nimony",
+    "所有權檢查",
+    "邁向 Nim 3"
+   ],
+   "url": "https://nimony.org/",
+   "lines": [
+    {
+     "say": "Nim 的新編譯器 Nimony 公開了。",
+     "show": "Nim 的新編譯器 Nimony 公開了。"
+    },
+    {
+     "say": "它具備 sum type 與所有權檢查，被視為邁向 Nim 3 的一步。",
+     "show": "它具備 sum type 與所有權檢查，被視為邁向 Nim 3 的一步。"
+    },
+    {
+     "say": "社群裡也有人抱持觀望，看它是否真的會被採用。",
+     "show": "社群裡也有人抱持觀望，看它是否真的會被採用。"
+    }
+   ],
+   "details": [
+    "Nimony 是新的 Nim 編譯器實作。",
+    "討論焦點在 sum type、borrow checking，以及未來 Nim 3 的方向。",
+    "社群同時在觀望實際採用情況。"
+   ],
+   "link": {
+    "url": "https://nimony.org/",
+    "title": "Nimony Manual",
+    "site": "nimony.org",
+    "description": "",
+    "image": null,
+    "icon": null
+   }
+  },
+  {
+   "label": "用 Pascal 寫 Pascal",
+   "points": [
+    "Turbo Pascal 7",
+    "自我編譯",
+    "原始碼公開"
+   ],
+   "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
+   "lines": [
+    {
+     "say": "用 Turbo Pascal 寫成的 Turbo Pascal 編譯器公開了。",
+     "show": "用 Turbo Pascal 寫成的 Turbo Pascal 編譯器公開了。"
+    },
+    {
+     "say": "連原始碼一起公開，可以當作編譯器設計的教材。",
+     "show": "連原始碼一起公開，可以當作編譯器設計的教材。"
+    },
+    {
+     "say": "這種自我編譯的設計，在教學上很直觀。",
+     "show": "這種自我編譯的設計，在教學上很直觀。"
+    }
+   ],
+   "details": [
+    "以 Turbo Pascal 7 撰寫的 self-hosted 命令列編譯器。",
+    "原始碼公開，可供編譯器設計研究或再利用。",
+    "作者將它公開作為編譯器設計的參考實作。"
+   ],
+   "link": {
+    "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
+    "title": "Turbo Pascal Compiler Written in Turbo Pascal",
+    "site": "turbo51.com",
+    "description": "Designing a compiler? Here you can get a Turbo Pascal 7 command line compiler source code written in Turbo Pascal.",
+    "image": null,
+    "icon": "https://turbo51.com/templates/yoo_nano/favicon.ico"
+   }
+  },
+  {
+   "label": "Rust 小型資料庫",
+   "points": [
+    "追記專用",
+    "位元旗標",
+    "記憶體內"
+   ],
+   "url": "https://github.com/plabayo/venndb",
+   "lines": [
+    {
+     "say": "以 Rust 寫成的記憶體內資料庫 VennDB 公開了。",
+     "show": "以 Rust 寫成的記憶體內資料庫 VennDB 公開了。"
+    },
+    {
+     "say": "它採追記專用設計，用位元旗標篩選資料列。",
+     "show": "它採追記專用設計，用位元旗標篩選資料列。"
+    },
+    {
+     "say": "設定的用途，是快速查詢小規模資料。",
+     "show": "設定的用途，是快速查詢小規模資料。"
+    },
+    {
+     "say": "對於只讀多、寫入少的場景特別合適。",
+     "show": "對於只讀多、寫入少的場景特別合適。"
+    }
+   ],
+   "details": [
+    "VennDB 是 append-only 的記憶體內資料庫。",
+    "以 bit flag 過濾資料列，適合小規模的高頻查詢。",
+    "以 Rust 實作，原始碼在 GitHub 公開。"
+   ],
+   "link": {
+    "url": "https://github.com/plabayo/venndb",
+    "title": "GitHub - plabayo/venndb: in memory Rust database to query your data like a Venn diagram",
+    "site": "GitHub",
+    "description": "in memory Rust database to query your data like a Venn diagram - plabayo/venndb",
+    "image": "https://repository-images.githubusercontent.com/618452402/843c8829-6a4a-467d-8aea-2271df08ceec",
+    "icon": "https://github.com/fluidicon.png"
+   }
+  },
+  {
+   "label": "Raku 2026.11",
+   "points": [
+    "移除 JS 後端",
+    "Unicode 18",
+    "安全性修正"
+   ],
+   "url": "https://rakuweekly.blog/2026/11/17/2026-46-secure-release/",
+   "lines": [
+    {
+     "say": "Rakudo 二零二六年十一月版發布了。",
+     "show": "Rakudo 2026.11 版發布了。"
+    },
+    {
+     "say": "這個版本移除 JavaScript 後端，並支援 Unicode 十八。",
+     "show": "這個版本移除 JavaScript 後端，並支援 Unicode 18。"
+    },
+    {
+     "say": "整理舊規格的動作，還在持續。",
+     "show": "整理舊規格的動作，還在持續。"
+    }
+   ],
+   "details": [
+    "起因於安全性公告 GHSA-wr65-wcp9-gq83 的修正版本。",
+    "新增 Unicode 18.0 支援，移除 JavaScript 後端。",
+    "IO::Path.resolve 在 Windows 上完整運作，另有 List 效能改進。"
+   ],
+   "link": {
+    "url": "https://rakuweekly.blog/2026/11/17/2026-46-secure-release/",
+    "title": "2026.46 Secure Release",
+    "site": "Raku Weekly News",
+    "description": "Thanks to Will Coleda, the Rakudo implementation of the Raku Programming Language saw an early November release. The timing was instigated by the Github Security Advisory reported by Erik Johansen,…",
+    "image": "https://i0.wp.com/rakuweekly.blog/wp-content/uploads/2022/09/rosie-the-riveter-we-can-do-it-poster-j-howard-miller-circa-1942-1943-world-war-ii-e1663585138620.jpg?fit=1200%2C818&ssl=1",
+    "icon": "https://s1.wp.com/i/favicon.ico?m=1713425267i"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是 Drupal 的修補。既然匿名就能攻擊，最好今天內就更新，別等到明天。",
+   "show": "今天的重點是 Drupal 的修補。既然匿名就能攻擊，最好今天內就更新，別等到明天。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-18",
+ "lang": "zh",
+ "seconds": 90.8,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.34,
+   "show": "早安，這裡是蜜塔 radio。11月18日、星期三的程式新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.59,
+   "end": 11.71,
+   "show": "今天5則：從 Drupal 的緊急修補，到 Nim 的新編譯器。",
+   "part": 0
+  },
+  {
+   "start": 12.76,
+   "end": 15.91,
+   "show": "Drupal 核心將於今天發布重大漏洞修補。",
+   "part": 1
+  },
+  {
+   "start": 16.16,
+   "end": 22.24,
+   "show": "發布時段是 UTC 17時到21時，其中包含匿名使用者可攻擊的問題。",
+   "part": 1
+  },
+  {
+   "start": 22.49,
+   "end": 25.54,
+   "show": "11 系與 10 系的多個版本都受影響。",
+   "part": 1
+  },
+  {
+   "start": 26.59,
+   "end": 29.1,
+   "show": "Nim 的新編譯器 Nimony 公開了。",
+   "part": 2
+  },
+  {
+   "start": 29.35,
+   "end": 34.34,
+   "show": "它具備 sum type 與所有權檢查，被視為邁向 Nim 3 的一步。",
+   "part": 2
+  },
+  {
+   "start": 34.59,
+   "end": 39.21,
+   "show": "社群裡也有人抱持觀望，看它是否真的會被採用。",
+   "part": 2
+  },
+  {
+   "start": 40.26,
+   "end": 43.95,
+   "show": "用 Turbo Pascal 寫成的 Turbo Pascal 編譯器公開了。",
+   "part": 3
+  },
+  {
+   "start": 44.2,
+   "end": 48.5,
+   "show": "連原始碼一起公開，可以當作編譯器設計的教材。",
+   "part": 3
+  },
+  {
+   "start": 48.75,
+   "end": 52.09,
+   "show": "這種自我編譯的設計，在教學上很直觀。",
+   "part": 3
+  },
+  {
+   "start": 53.14,
+   "end": 56.59,
+   "show": "以 Rust 寫成的記憶體內資料庫 VennDB 公開了。",
+   "part": 4
+  },
+  {
+   "start": 56.84,
+   "end": 61.13,
+   "show": "它採追記專用設計，用位元旗標篩選資料列。",
+   "part": 4
+  },
+  {
+   "start": 61.38,
+   "end": 64.48,
+   "show": "設定的用途，是快速查詢小規模資料。",
+   "part": 4
+  },
+  {
+   "start": 64.73,
+   "end": 68.08,
+   "show": "對於只讀多、寫入少的場景特別合適。",
+   "part": 4
+  },
+  {
+   "start": 69.13,
+   "end": 71.71,
+   "show": "Rakudo 2026.11 版發布了。",
+   "part": 5
+  },
+  {
+   "start": 71.96,
+   "end": 76.45,
+   "show": "這個版本移除 JavaScript 後端，並支援 Unicode 18。",
+   "part": 5
+  },
+  {
+   "start": 76.7,
+   "end": 79.18,
+   "show": "整理舊規格的動作，還在持續。",
+   "part": 5
+  },
+  {
+   "start": 80.23,
+   "end": 87.38,
+   "show": "今天的重點是 Drupal 的修補。既然匿名就能攻擊，最好今天內就更新，別等到明天。",
+   "part": 6
+  },
+  {
+   "start": 87.63,
+   "end": 89.8,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.76
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.76,
+   "end": 26.59
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 26.59,
+   "end": 40.26
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 40.26,
+   "end": 53.14
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 53.14,
+   "end": 69.13
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 69.13,
+   "end": 80.23
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 80.23,
+   "end": 90.8
+  }
+ ],
+ "made_at": "2026-11-18T14:40:00"
+}

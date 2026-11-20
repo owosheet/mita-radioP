@@ -1,0 +1,341 @@
+{
+ "title": "Xbox滿25年，少女與戰車改打麻將",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十五日、星期日的遊戲新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月15日、星期日的遊戲新聞。"
+  },
+  {
+   "say": "今天有五則：Xbox二十五週年、少女與戰車打麻將，還有Thief、Universim和Horizon。",
+   "show": "今天有5則：Xbox 25週年、少女與戰車打麻將，還有Thief、Universim和Horizon。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Xbox 滿 25 年",
+   "points": [
+    "北美發售滿 25 年",
+    "公開 Playback",
+    "25 款初代作上 PC"
+   ],
+   "url": "https://game.watch.impress.co.jp/docs/news/2156128.html",
+   "lines": [
+    {
+     "say": "先來看 Xbox。今天是初代主機北美發售滿二十五年。",
+     "show": "先來看Xbox。今天是初代主機北美發售滿25年。"
+    },
+    {
+     "say": "官方公開了 Playback、Fable 新影像，二十五款初代作品登上 PC，也首次加上成就。",
+     "show": "官方公開了Playback、Fable新影像，25款初代作品登上PC，也首次加上成就。"
+    },
+    {
+     "say": "初代 Xbox 是二零零一年十一月十五日在北美上市，今天剛好滿二十五年。",
+     "show": "初代Xbox是2001年11月15日在北美上市，今天剛好滿25年。"
+    }
+   ],
+   "details": [
+    "初代Xbox於2001年11月15日在北美發售，今年滿25週年。",
+    "GAME Watch報導，Playback與Fable新遊戲畫面已公開。",
+    "25款初代Xbox作品可在PC遊玩，並首次加入成就。"
+   ],
+   "link": {
+    "url": "https://game.watch.impress.co.jp/docs/news/2156128.html",
+    "title": "XBOXの25周年を記念した発表内容が告知。「Fable」のゲームプレイ映像や歴史を振り返るコンテンツが公開",
+    "site": "GAME Watch",
+    "description": "Microsoftは11月13日、XBOXの25周年を記念した発表を行なった。",
+    "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/128/1.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "少女與戰車打麻將",
+   "points": [
+    "2027 年發售",
+    "Switch 2 與 PS5",
+    "30 人組隊對打"
+   ],
+   "url": "https://www.4gamer.net/games/058/G105833/20261113043/",
+   "lines": [
+    {
+     "say": "接著是少女與戰車。麻將遊戲將在 Switch 2 和 PS5，於明年發售。",
+     "show": "接著是《少女與戰車》。麻將遊戲將在Switch 2與PS5於2027年發售。"
+    },
+    {
+     "say": "由 MAGES 開發。大洗鮟鱇隊等三十人，兩人一組對打。",
+     "show": "由MAGES.開發。大洗鮟鱇隊等30人，兩人一組對打。"
+    }
+   ],
+   "details": [
+    "正式名稱是《ガールズ＆パンツァー 白熱！麻雀タッグバトルです！》，2027年內發售。",
+    "對應Nintendo Switch 2與PlayStation 5，開發與發行是MAGES.。",
+    "預計收錄含西住美穗等大洗鮟鱇隊在內的30人。11月14、15日大洗鮟鱇祭有展出。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/058/G105833/20261113043/",
+    "title": "「ガールズ＆パンツァー 白熱！麻雀タッグバトルです！」，2027年内に発売。公式サイトと特報ムービーも公開に",
+    "site": "4Gamer.net",
+    "description": "2026年11月14日，MAGES.は「ガールズ＆パンツァー 白熱！麻雀タッグバトルです！」を2027年内に発売すると発表した。本作は，アニメ「ガールズ＆パンツァー」を題材とした麻雀ゲームだ。また，…",
+    "image": "https://www.4gamer.net/games/058/G105833/20261113043/SS/001.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "神偷重製加日文",
+   "points": [
+    "12月4日發售",
+    "介面與字幕日文",
+    "Nightdive 製作"
+   ],
+   "url": "https://www.gamespark.jp/article/2026/11/14/174867.html",
+   "lines": [
+    {
+     "say": "一九九八年的神偷初代重製版，十二月四日發售，由 Nightdive 製作。",
+     "show": "1998年《Thief: The Dark Project》重製版，12月4日發售，由Nightdive製作。"
+    },
+    {
+     "say": "Steam 商店頁更新後，可以看到日文選單和字幕。",
+     "show": "Steam商店頁更新後，可以看到日文選單和字幕。"
+    }
+   ],
+   "details": [
+    "由Nightdive Studios以KEX Engine製作，12月4日發售。",
+    "11月13日深夜，Steam與GOG頁面標註支援日文介面與字幕。",
+    "這是商店頁更新，不是官方單獨記者會。平台含PS5、Xbox與PC。"
+   ],
+   "link": {
+    "url": "https://www.gamespark.jp/article/2026/11/14/174867.html",
+    "title": "3Dステルスゲーム草分け的作品『Thief: The Dark Project Remastered』日本語対応が判明！Steamストアページ更新で明らかに | Game*Spark - 国内・海外ゲーム情報サイト",
+    "site": "Game*Spark - 国内・海外ゲーム情報サイト",
+    "description": "再リリース版の追加コンテンツに加えて、完全新規のストーリー拡張コンテンツも収録されます。",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1219396.jpg",
+    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "Universim 日文回歸",
+   "points": [
+    "推出 1.1 更新",
+    "日文顯示回來",
+    "沉寂約兩年後重啟"
+   ],
+   "url": "https://www.gamespark.jp/article/2026/11/14/174869.html",
+   "lines": [
+    {
+     "say": "扮演神明的 Universim 推出大型更新，日文顯示回來了。",
+     "show": "扮演神明的《The Universim》推出大型更新，日文顯示回來了。"
+    },
+    {
+     "say": "製作停了約兩年後重啟。效能提升，開局還能選星球大小。",
+     "show": "製作停了約兩年後重啟。效能提升，開局還能選星球大小。"
+    }
+   ],
+   "details": [
+    "Crytivo於11月13日推出1.1「Unfinished Busyness」。",
+    "日文曾在2024年1月正式版拿掉，這次更新加回來；Game*Spark實測可顯示。",
+    "團隊燃盡後沉默約兩年，11月5日宣布重啟。開局可選星球大小。"
+   ],
+   "link": {
+    "url": "https://www.gamespark.jp/article/2026/11/14/174869.html",
+    "title": "チーム燃え尽きからの2年ぶり復帰アプデで日本語対応！神として文明を導くゴッドゲーム『The Universim』大型アプデ「Unfinished Busyness」配信 | Game*Spark - 国内・海外ゲーム情報サイト",
+    "site": "Game*Spark - 国内・海外ゲーム情報サイト",
+    "description": "2026年11月5日に制作復帰を宣言していました。",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1219403.jpg",
+    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "Horizon 新作接近完成",
+   "points": [
+    "NCSoft 說明進度",
+    "正與 Sony 談檔期",
+    "表示近期會公布"
+   ],
+   "url": "https://www.gamemeca.com/view.php?gid=1783347",
+   "lines": [
+    {
+     "say": "最後是 Horizon Steel Frontiers。NCSoft 說開發已接近完成。",
+     "show": "最後是《Horizon Steel Frontiers》。NCSoft說開發已接近完成。"
+    },
+    {
+     "say": "正與智財方 Sony 協商發售日，並表示很快會公布。",
+     "show": "正與智財方Sony協商發售日，並表示很快會公布。"
+    },
+    {
+     "say": "這是手機與 PC 的跨平台 MMORPG，發售日還沒定。",
+     "show": "這是手機與PC的跨平台MMORPG，發售日還沒定。"
+    }
+   ],
+   "details": [
+    "這是11月11日2026年第三季法說上，代表朴炳武的說明。",
+    "作品是手機與PC（Purple）跨平台的MMORPG。",
+    "確切發售日未定。媒體對頒獎典禮的猜測不是官方確認，不上稿。"
+   ],
+   "link": {
+    "url": "https://www.gamemeca.com/view.php?gid=1783347",
+    "title": "엔씨 ‘호라이즌 신작’ 출시 시기 조율 중, 조만간 발표",
+    "site": "www.gamemeca.com",
+    "description": "엔씨가 개발 중인 호라이즌 IP 기반 신작 출시 시기가 조만간 발표될 예정이다. 크로스 플랫폼 타이틀인 호라이즌 스틸 프론티어스는 MMORPG에 맞춘 전투 시스템을 갖추고 있다. 소니와 출시 시기를 논의 중이며 12월 더 게임 어워드에서 공개될 가능성이 높다",
+    "image": "https://cdn.gamemeca.com/gmdata/0001/783/347/gm501368_261111-risell-tt11.webp",
+    "icon": "https://cdn.gamemeca.com/g17/images/icon/gamemeca_16x16.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是少女與戰車打麻將。戰車道之後，輪到打牌了。",
+   "show": "今天的重點是少女與戰車打麻將。戰車道之後，輪到打牌了。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 1,
+ "format": "monoradio/news-1",
+ "date": "2026-11-15",
+ "lang": "zh",
+ "seconds": 96.12,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.03,
+   "show": "早安，這裡是蜜塔 radio。11月15日、星期日的遊戲新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.28,
+   "end": 13.75,
+   "show": "今天有5則：Xbox 25週年、少女與戰車打麻將，還有Thief、Universim和Horizon。",
+   "part": 0
+  },
+  {
+   "start": 14.8,
+   "end": 19.67,
+   "show": "先來看Xbox。今天是初代主機北美發售滿25年。",
+   "part": 1
+  },
+  {
+   "start": 19.92,
+   "end": 27.22,
+   "show": "官方公開了Playback、Fable新影像，25款初代作品登上PC，也首次加上成就。",
+   "part": 1
+  },
+  {
+   "start": 27.47,
+   "end": 33.5,
+   "show": "初代Xbox是2001年11月15日在北美上市，今天剛好滿25年。",
+   "part": 1
+  },
+  {
+   "start": 34.55,
+   "end": 41.16,
+   "show": "接著是《少女與戰車》。麻將遊戲將在Switch 2與PS5於2027年發售。",
+   "part": 2
+  },
+  {
+   "start": 41.41,
+   "end": 46.86,
+   "show": "由MAGES.開發。大洗鮟鱇隊等30人，兩人一組對打。",
+   "part": 2
+  },
+  {
+   "start": 47.91,
+   "end": 53.91,
+   "show": "1998年《Thief: The Dark Project》重製版，12月4日發售，由Nightdive製作。",
+   "part": 3
+  },
+  {
+   "start": 54.16,
+   "end": 58.2,
+   "show": "Steam商店頁更新後，可以看到日文選單和字幕。",
+   "part": 3
+  },
+  {
+   "start": 59.25,
+   "end": 63.98,
+   "show": "扮演神明的《The Universim》推出大型更新，日文顯示回來了。",
+   "part": 4
+  },
+  {
+   "start": 64.23,
+   "end": 69.62,
+   "show": "製作停了約兩年後重啟。效能提升，開局還能選星球大小。",
+   "part": 4
+  },
+  {
+   "start": 70.67,
+   "end": 76.18,
+   "show": "最後是《Horizon Steel Frontiers》。NCSoft說開發已接近完成。",
+   "part": 5
+  },
+  {
+   "start": 76.43,
+   "end": 81.05,
+   "show": "正與智財方Sony協商發售日，並表示很快會公布。",
+   "part": 5
+  },
+  {
+   "start": 81.3,
+   "end": 85.71,
+   "show": "這是手機與PC的跨平台MMORPG，發售日還沒定。",
+   "part": 5
+  },
+  {
+   "start": 86.76,
+   "end": 92.02,
+   "show": "今天的重點是少女與戰車打麻將。戰車道之後，輪到打牌了。",
+   "part": 6
+  },
+  {
+   "start": 92.27,
+   "end": 95.12,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.8
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.8,
+   "end": 34.55
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 34.55,
+   "end": 47.91
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 47.91,
+   "end": 59.25
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 59.25,
+   "end": 70.67
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 70.67,
+   "end": 86.76
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 86.76,
+   "end": 96.12
+  }
+ ],
+ "made_at": "2026-11-15T07:14:57"
+}

@@ -1,0 +1,81 @@
+{
+ "format": "myradio/stations-1",
+ "language": "ja",
+ "languages": [
+  "ja",
+  "zh"
+ ],
+ "name": {
+  "ja": "蜜塔 radio",
+  "zh": "蜜塔 radio",
+  "en": "Mita Radio"
+ },
+ "tagline": {
+  "ja": "ゲームとSNSとアニメ、コードのニュースを、毎朝90秒から2分で。",
+  "zh": "每天早上用 90 秒到 2 分鐘，掌握遊戲、SNS 話題、動漫與程式新聞。",
+  "en": "The gaming, SNS, anime and coding stories worth knowing, every morning in 90 seconds to 2 minutes."
+ },
+ "url": "https://mita.bee.moe/",
+ "stations": [
+  {
+   "id": "game",
+   "url": "https://mita.bee.moe/game/",
+   "name": {
+    "ja": "ゲーム",
+    "zh": "遊戲",
+    "en": "Games"
+   },
+   "tagline": {
+    "ja": "ゲームニュース",
+    "zh": "遊戲新聞",
+    "en": "Gaming news"
+   },
+   "logo": "logo.png"
+  },
+  {
+   "id": "miwu",
+   "url": "https://mita.bee.moe/miwu/",
+   "name": {
+    "ja": "米五",
+    "zh": "米五",
+    "en": "Miwu"
+   },
+   "tagline": {
+    "ja": "ミホヨと第五人格のSNS話題",
+    "zh": "米哈遊與第五人格的 SNS 話題",
+    "en": "miHoYo and Identity V buzz"
+   },
+   "logo": "logo.png"
+  },
+  {
+   "id": "anime",
+   "url": "https://mita.bee.moe/anime/",
+   "name": {
+    "ja": "アニメ",
+    "zh": "動漫",
+    "en": "Anime"
+   },
+   "tagline": {
+    "ja": "アニメニュース",
+    "zh": "動漫新聞",
+    "en": "Anime news"
+   },
+   "logo": "logo.png"
+  },
+  {
+   "id": "code",
+   "url": "https://mita.bee.moe/code/",
+   "name": {
+    "ja": "コード",
+    "zh": "程式",
+    "en": "Code"
+   },
+   "tagline": {
+    "ja": "プログラマーのニュース",
+    "zh": "程式設計師新聞",
+    "en": "News for programmers"
+   },
+   "logo": "logo.png"
+  }
+ ]
+}

@@ -1,0 +1,321 @@
+{
+ "title": "Xbox25周年、ガルパンが麻雀に",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十五日、日曜日のゲームニュースです。",
+   "show": "おはようございます、蜜塔ラジオです。11月15日、日曜日のゲームニュース。"
+  },
+  {
+   "say": "今日は五本、エックスボックス二十五周年から、ホライゾンの新作まで。",
+   "show": "今日は5本、Xbox25周年から、Horizonの新作まで。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Xbox25周年の当日",
+   "points": [
+    "北米発売から25年",
+    "Playbackを公開",
+    "初代25作がPCへ"
+   ],
+   "url": "https://game.watch.impress.co.jp/docs/news/2156128.html",
+   "lines": [
+    {
+     "say": "まずはエックスボックス。きょうは、初代が北米で発売されてから、ちょうど二十五年です。",
+     "show": "まずはXbox。今日は、初代が北米で発売されてからちょうど25年。"
+    },
+    {
+     "say": "プレイバックやフェイブルの新映像、初代二十五作のピーシー配信が発表されています。",
+     "show": "PlaybackやFableの新映像、初代25作のPC配信が発表されています。"
+    }
+   ],
+   "details": [
+    "初代Xboxは2001年11月15日に北米で発売。今年が25周年です。",
+    "GAME Watchによると、PlaybackやFableの新ゲームプレイ映像が公開されました。",
+    "初代Xboxの25作品がPCで遊べるようになり、実績も初めて付きます。"
+   ],
+   "link": {
+    "url": "https://game.watch.impress.co.jp/docs/news/2156128.html",
+    "title": "XBOXの25周年を記念した発表内容が告知。「Fable」のゲームプレイ映像や歴史を振り返るコンテンツが公開",
+    "site": "GAME Watch",
+    "description": "Microsoftは11月13日、XBOXの25周年を記念した発表を行なった。",
+    "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/128/1.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "ガルパンが麻雀に",
+   "points": [
+    "2027年に発売",
+    "Switch2とPS5",
+    "30人がタッグ打ち"
+   ],
+   "url": "https://www.4gamer.net/games/058/G105833/20261113043/",
+   "lines": [
+    {
+     "say": "次はガールズアンドパンツァー。麻雀ゲームが、スイッチツーとピーエスファイブで、来年発売です。",
+     "show": "次はガールズ＆パンツァー。麻雀ゲームがSwitch 2とPS5で2027年発売。"
+    },
+    {
+     "say": "開発はメイジス。大洗あんこうチームなど三十人が、タッグで打ちます。",
+     "show": "開発はMAGES.。大洗あんこうチームなど30人がタッグで対局。"
+    }
+   ],
+   "details": [
+    "正式名称は『ガールズ＆パンツァー 白熱！麻雀タッグバトルです！』。2027年内発売です。",
+    "対応はNintendo Switch 2とPlayStation 5。開発・発売はMAGES.。",
+    "西住みほたち大洗あんこうチームを含む30人予定。11月14・15日の大洗あんこう祭に出展しています。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/058/G105833/20261113043/",
+    "title": "「ガールズ＆パンツァー 白熱！麻雀タッグバトルです！」，2027年内に発売。公式サイトと特報ムービーも公開に",
+    "site": "4Gamer.net",
+    "description": "2026年11月14日，MAGES.は「ガールズ＆パンツァー 白熱！麻雀タッグバトルです！」を2027年内に発売すると発表した。本作は，アニメ「ガールズ＆パンツァー」を題材とした麻雀ゲームだ。また，…",
+    "image": "https://www.4gamer.net/games/058/G105833/20261113043/SS/001.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "シーフ日本語対応",
+   "points": [
+    "12月4日発売",
+    "字幕とUIが日本語",
+    "ナイトダイブ制作"
+   ],
+   "url": "https://www.gamespark.jp/article/2026/11/14/174867.html",
+   "lines": [
+    {
+     "say": "一九九八年のシーフ、ダークプロジェクトのリマスターが、十二月四日に出ます。",
+     "show": "1998年の『Thief: The Dark Project』のリマスターが12月4日発売。"
+    },
+    {
+     "say": "スチームなどの店頭表示で、日本語の字幕とメニューが確認されました。",
+     "show": "Steamなどの店頭表示で、日本語の字幕とメニューが確認されました。"
+    }
+   ],
+   "details": [
+    "Nightdive StudiosがKEX Engineで制作するリマスター。12月4日発売です。",
+    "11月13日深夜、SteamとGOGのページが日本語のUIと字幕に対応と更新されました。",
+    "公式の単独発表ではなく、店頭表示からの確認です。機種はPS5、Xbox、PCなど。"
+   ],
+   "link": {
+    "url": "https://www.gamespark.jp/article/2026/11/14/174867.html",
+    "title": "3Dステルスゲーム草分け的作品『Thief: The Dark Project Remastered』日本語対応が判明！Steamストアページ更新で明らかに | Game*Spark - 国内・海外ゲーム情報サイト",
+    "site": "Game*Spark - 国内・海外ゲーム情報サイト",
+    "description": "再リリース版の追加コンテンツに加えて、完全新規のストーリー拡張コンテンツも収録されます。",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1219396.jpg",
+    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "ユニバーシム日本語復帰",
+   "points": [
+    "1.1更新を配信",
+    "日本語表示が戻る",
+    "約2年ぶりに再開"
+   ],
+   "url": "https://www.gamespark.jp/article/2026/11/14/174869.html",
+   "lines": [
+    {
+     "say": "ゴッドゲームのユニバーシムが、大型更新を配信し、日本語表示が戻りました。",
+     "show": "ゴッドゲーム『The Universim』が大型更新を配信し、日本語表示が復帰。"
+    },
+    {
+     "say": "制作が約二年止まったあと再開。性能も上がり、惑星の大きさを選べます。",
+     "show": "制作が約2年止まったあと再開。性能も上がり、惑星の大きさを選べます。"
+    }
+   ],
+   "details": [
+    "Crytivoが11月13日に1.1「Unfinished Busyness」を配信しました。",
+    "日本語は2024年1月の正式版で外され、今回の更新で復帰。Game*Sparkが実機で確認しています。",
+    "チームは燃え尽きのあと約2年沈黙し、11月5日に再開を表明。開局時に惑星サイズを選べます。"
+   ],
+   "link": {
+    "url": "https://www.gamespark.jp/article/2026/11/14/174869.html",
+    "title": "チーム燃え尽きからの2年ぶり復帰アプデで日本語対応！神として文明を導くゴッドゲーム『The Universim』大型アプデ「Unfinished Busyness」配信 | Game*Spark - 国内・海外ゲーム情報サイト",
+    "site": "Game*Spark - 国内・海外ゲーム情報サイト",
+    "description": "2026年11月5日に制作復帰を宣言していました。",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1219403.jpg",
+    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "ホライゾン新作が完成間近",
+   "points": [
+    "NCSoftが説明",
+    "Sonyと日程を協議",
+    "発表は近日の見込み"
+   ],
+   "url": "https://www.gamemeca.com/view.php?gid=1783347",
+   "lines": [
+    {
+     "say": "最後はホライゾン スチールフロンティアズ。エヌシーソフトが、完成に近づいたと説明しました。",
+     "show": "最後は『Horizon Steel Frontiers』。NCSoftが完成に近づいたと説明。"
+    },
+    {
+     "say": "権利元のソニーと発売時期を協議中で、近く発表するとしています。",
+     "show": "権利元のSonyと発売時期を協議中で、近く発表するとしています。"
+    }
+   ],
+   "details": [
+    "11月11日の2026年Q3決算説明で、代表の朴炳武氏が述べました。",
+    "スマホとPC（Purple）のクロスプラットフォームMMORPGです。",
+    "具体的な発売日は未定。メディアの授賞式予想は、公式確認ではないので扱いません。"
+   ],
+   "link": {
+    "url": "https://www.gamemeca.com/view.php?gid=1783347",
+    "title": "엔씨 ‘호라이즌 신작’ 출시 시기 조율 중, 조만간 발표",
+    "site": "www.gamemeca.com",
+    "description": "엔씨가 개발 중인 호라이즌 IP 기반 신작 출시 시기가 조만간 발표될 예정이다. 크로스 플랫폼 타이틀인 호라이즌 스틸 프론티어스는 MMORPG에 맞춘 전투 시스템을 갖추고 있다. 소니와 출시 시기를 논의 중이며 12월 더 게임 어워드에서 공개될 가능성이 높다",
+    "image": "https://cdn.gamemeca.com/gmdata/0001/783/347/gm501368_261111-risell-tt11.webp",
+    "icon": "https://cdn.gamemeca.com/g17/images/icon/gamemeca_16x16.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、ガルパンの麻雀化。戦車道の次は、牌を切る番です。",
+   "show": "今日の注目は、ガルパンの麻雀化。戦車道の次は、牌を切る番です。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上、蜜塔ラジオでした。また明日。"
+  }
+ ],
+ "highlight": 1,
+ "format": "monoradio/news-1",
+ "date": "2026-11-15",
+ "lang": "ja",
+ "seconds": 93.76,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.29,
+   "show": "おはようございます、蜜塔ラジオです。11月15日、日曜日のゲームニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.54,
+   "end": 12.94,
+   "show": "今日は5本、Xbox25周年から、Horizonの新作まで。",
+   "part": 0
+  },
+  {
+   "start": 13.99,
+   "end": 21.52,
+   "show": "まずはXbox。今日は、初代が北米で発売されてからちょうど25年。",
+   "part": 1
+  },
+  {
+   "start": 21.77,
+   "end": 27.46,
+   "show": "PlaybackやFableの新映像、初代25作のPC配信が発表されています。",
+   "part": 1
+  },
+  {
+   "start": 28.51,
+   "end": 35.48,
+   "show": "次はガールズ＆パンツァー。麻雀ゲームがSwitch 2とPS5で2027年発売。",
+   "part": 2
+  },
+  {
+   "start": 35.73,
+   "end": 41.73,
+   "show": "開発はMAGES.。大洗あんこうチームなど30人がタッグで対局。",
+   "part": 2
+  },
+  {
+   "start": 42.78,
+   "end": 49.01,
+   "show": "1998年の『Thief: The Dark Project』のリマスターが12月4日発売。",
+   "part": 3
+  },
+  {
+   "start": 49.26,
+   "end": 54.69,
+   "show": "Steamなどの店頭表示で、日本語の字幕とメニューが確認されました。",
+   "part": 3
+  },
+  {
+   "start": 55.74,
+   "end": 61.74,
+   "show": "ゴッドゲーム『The Universim』が大型更新を配信し、日本語表示が復帰。",
+   "part": 4
+  },
+  {
+   "start": 61.99,
+   "end": 68.47,
+   "show": "制作が約2年止まったあと再開。性能も上がり、惑星の大きさを選べます。",
+   "part": 4
+  },
+  {
+   "start": 69.52,
+   "end": 76.78,
+   "show": "最後は『Horizon Steel Frontiers』。NCSoftが完成に近づいたと説明。",
+   "part": 5
+  },
+  {
+   "start": 77.03,
+   "end": 81.8,
+   "show": "権利元のSonyと発売時期を協議中で、近く発表するとしています。",
+   "part": 5
+  },
+  {
+   "start": 82.85,
+   "end": 89.23,
+   "show": "今日の注目は、ガルパンの麻雀化。戦車道の次は、牌を切る番です。",
+   "part": 6
+  },
+  {
+   "start": 89.48,
+   "end": 92.76,
+   "show": "以上、蜜塔ラジオでした。また明日。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.99
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.99,
+   "end": 28.51
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 28.51,
+   "end": 42.78
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 42.78,
+   "end": 55.74
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 55.74,
+   "end": 69.52
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 69.52,
+   "end": 82.85
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 82.85,
+   "end": 93.76
+  }
+ ],
+ "made_at": "2026-11-15T06:34:16"
+}

@@ -1,0 +1,321 @@
+{
+ "title": "バイオRE:レクイエムがGOTY、ゼルダは520万本",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十二日、木曜日のゲームニュースです。",
+   "show": "おはようございます、蜜塔ラジオです。11月12日、木曜日のゲームニュース。"
+  },
+  {
+   "say": "今日は五本、ゴールデンジョイスティックの結果から、ゼルダの大記録までお届けします。",
+   "show": "今日は5本、Golden Joystickの結果から、Zeldaの大記録まで。"
+  }
+ ],
+ "news": [
+  {
+   "label": "バイオRE:レクイエムがGOTY",
+   "points": [
+    "GOTYはバイオRE:レクイエム",
+    "4部門を同時受賞",
+    "カプコンがスタジオ賞"
+   ],
+   "url": "https://www.gamespark.jp/article/2026/11/12/174777.html",
+   "lines": [
+    {
+     "say": "まずはゴールデンジョイスティックアワードです。第四十四回の年間最優秀作品は、バイオハザードレクイエムに決まりました。",
+     "show": "まずはGolden Joystick Awards。第44回の年間最優秀作品は『バイオハザード レクイエム』に。"
+    },
+    {
+     "say": "同作は四部門を獲得。カプコンはスタジオオブザイヤーに選ばれました。",
+     "show": "同作は4部門を獲得。CapcomはStudio of the Yearに。"
+    }
+   ],
+   "details": [
+    "『バイオハザード レクイエム』はGOTYのほか、コンソール部門、主演俳優、トレーラー部門も受賞しました。",
+    "『めっちゃカメレオン』もマルチプレイ、インディー、配信者、開発者の4部門を制しました。",
+    "授賞式は現地時間の十一月十一日にロンドンで開かれ、日本には十二日の朝に結果が届きました。"
+   ],
+   "link": {
+    "url": "https://www.gamespark.jp/article/2026/11/12/174777.html",
+    "title": "GOTYは『バイオハザード レクイエム』！『めっちゃカメレオン』も4部門を制す―歴史的ゲームアワード「Golden Joystick Awards」2026年受賞作品が発表 | Game*Spark - 国内・海外ゲーム情報サイト",
+    "site": "Game*Spark - 国内・海外ゲーム情報サイト",
+    "description": "カプコンは「Studio of the Year」も受賞！",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1218416.jpg",
+    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "ゼルダ時オカ 520万本",
+   "points": [
+    "4日で世界520万本",
+    "国内は81万本",
+    "Switch 2初動の最高"
+   ],
+   "url": "https://www.nintendo.co.jp/corporate/release/2026/261111.html",
+   "lines": [
+    {
+     "say": "任天堂は、ゼルダの伝説 時のオカリナのリメイクが、四日間で世界五百二十万本を突破したと発表しました。",
+     "show": "任天堂は『ゼルダの伝説 時のオカリナ』リメイクが4日間で世界520万本を突破と発表。"
+    },
+    {
+     "say": "国内は八十一万本。任天堂発売のスイッチツーソフトでは、過去最高の初動です。",
+     "show": "国内は81万本。Nintendo Switch 2の任天堂発売作品で過去最高の初動。"
+    }
+   ],
+   "details": [
+    "発売は十一月五日。世界同時発売で、集計は九日までの四日間です。",
+    "任天堂が発売したスイッチツー向けソフトの、四日間の販売本数として過去最高です。",
+    "ニンテンドー六十四の名作を、スイッチツー向けにフルリメイクした作品です。"
+   ],
+   "link": {
+    "url": "https://www.nintendo.co.jp/corporate/release/2026/261111.html",
+    "title": "任天堂株式会社 ニュースリリース: 2026年11月11日 - Nintendo Switch 2 ソフト『ゼルダの伝説 時のオカリナ』の世界累計販売本数が発売後4日間で520万本を突破｜任天堂",
+    "site": "任天堂ホームページ",
+    "description": "任天堂株式会社のニュースリリースです。",
+    "image": "https://www.nintendo.co.jp/img/og_nintendo.png",
+    "icon": null
+   }
+  },
+  {
+   "label": "ドラクエ新作スマホRPG",
+   "points": [
+    "スマホ向けコマンドRPG",
+    "2027年 世界同時配信",
+    "12月8日からβテスト"
+   ],
+   "url": "https://www.appbank.net/2026/11/12/game/3160703.php",
+   "lines": [
+    {
+     "say": "スクウェアエニックスが、スマートフォン向けの新作、ドラゴンクエストアールピージーを発表しました。",
+     "show": "Square Enixがスマホ向け新作『ドラゴンクエストRPG 魔界樹と導かれし島』を発表。"
+    },
+    {
+     "say": "サブタイトルは魔界樹と導かれし島。二〇二七年に世界同時配信され、十二月からベータテストが始まります。",
+     "show": "2027年に世界同時配信。12月8日からクローズドβテスト。"
+    }
+   ],
+   "details": [
+    "基本プレイ無料のアイテム課金制。対応はアイオーエスとアンドロイドです。",
+    "総監督は堀井雄二さん、キャラクターデザインは鳥山明さん、音楽はすぎやまこういちさんです。",
+    "開発はダブリューエフエス。クローズドベータは十二月八日から十五日まで、二万五千人を募集します。応募は二十三日までです。"
+   ],
+   "link": {
+    "url": "https://www.appbank.net/2026/11/12/game/3160703.php",
+    "title": "『ドラゴンクエストRPG 魔界樹と導かれし島』発表！ クローズドβテストの参加者募集を開始 | AppBank",
+    "site": "AppBank",
+    "description": "株式会社スクウェア・エニックスは11月10日、「ドラゴンクエスト」シリーズ新作として、スマートフォン向けコマンドRPG『ドラゴンクエストRPG 魔界樹と導かれし島』を発表しました。2027年のグローバル同時リリースが予定されています（一部地",
+    "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1c52add3e9-img008-key-visual-dqrpg_kv-5abeaaaab7.webp",
+    "icon": "https://www.appbank.net/wp-content/uploads/2021/03/cropped-appbank-logo-2021-0321-32x32.jpeg"
+   }
+  },
+  {
+   "label": "Horizon 発売時期近く",
+   "points": [
+    "発売時期を近く発表",
+    "Sonyと最終調整中",
+    "スマホ・PC向けMMORPG"
+   ],
+   "url": "https://www.gamemeca.com/view.php?gid=1783347",
+   "lines": [
+    {
+     "say": "続いてはエヌシーソフトです。ホライゾンスチールフロンティアズの発売時期を、近く発表すると明らかにしました。",
+     "show": "続いてはNCSOFT。『Horizon Steel Frontiers』の発売時期を近く発表へ。"
+    },
+    {
+     "say": "完成は近いとして、ソニーと最終調整中。スマホとピーシー向けのエムエムオーアールピージーです。",
+     "show": "完成は近く、Sonyと最終調整中。スマホ・PC向けMMORPG。"
+    }
+   ],
+   "details": [
+    "十一月十一日の第三四半期決算説明会で、朴炳武代表が述べました。",
+    "ソニーのアイピーを原作とする、クロスプラットフォームのエムエムオーアールピージーです。",
+    "昨年のジースターで初公開されました。"
+   ],
+   "link": {
+    "url": "https://www.gamemeca.com/view.php?gid=1783347",
+    "title": "엔씨 ‘호라이즌 신작’ 출시 시기 조율 중, 조만간 발표",
+    "site": "www.gamemeca.com",
+    "description": "엔씨가 개발 중인 호라이즌 IP 기반 신작 출시 시기가 조만간 발표될 예정이다. 크로스 플랫폼 타이틀인 호라이즌 스틸 프론티어스는 MMORPG에 맞춘 전투 시스템을 갖추고 있다. 소니와 출시 시기를 논의 중이며 12월 더 게임 어워드에서 공개될 가능성이 높다",
+    "image": "https://cdn.gamemeca.com/gmdata/0001/783/347/gm501368_261111-risell-tt11.webp",
+    "icon": "https://cdn.gamemeca.com/g17/images/icon/gamemeca_16x16.ico"
+   }
+  },
+  {
+   "label": "バンナム スタジオ清算",
+   "points": [
+    "カナダ子会社を清算",
+    "約35億円の特別損失",
+    "『Unknown 9』不振"
+   ],
+   "url": "https://gamebiz.jp/news/435302",
+   "lines": [
+    {
+     "say": "最後はバンダイナムコです。カナダの子会社リフレクターエンターテインメントを、解散して清算すると決めました。",
+     "show": "最後はBandai Namco。カナダ子会社Reflector Entertainmentを解散・清算へ。"
+    },
+    {
+     "say": "手がけたアンノウンナインアウェイクニングが振るわず、三十五億円の特別損失を計上します。",
+     "show": "『Unknown 9: Awakening』不振で、約35億円の特別損失を計上。"
+    }
+   ],
+   "details": [
+    "取締役会が十一月十日に決議。清算の時期は未定で、カナダの法律に従って進めます。",
+    "リフレクターは二〇二〇年に完全子会社化。ピーク時は百四十人超の体制でした。",
+    "『アンノウン ナイン』は二〇二四年十月発売。期待を下回り、翌月には人員の一八パーセントを削減していました。"
+   ],
+   "link": {
+    "url": "https://gamebiz.jp/news/435302",
+    "title": "バンダイナムコHD、カナダのゲーム開発子会社Reflector Entertainmentを解散・清算へ 35億円の特別損失を計上 | gamebiz",
+    "site": "gamebiz【ゲームビズ】",
+    "description": "バンダイナムコホールディングス<7832>は11月10日、連結子会社のReflector Entertainment Ltd.(カナダ・モントリオール)を解散・清算すると発表した。今後の事業計画や必要となる追加投資、収益性、事業継続の可能性などを総合的に検討した結果、事業を終了することを決定した。今回の解散・清算に伴い、2027年3月期第3四半期以降の連結決算で約21百万ユーロ(約35億円)の特…",
+    "image": "https://i3.gamebiz.jp/media/1887fe27-a951-404e-9310-e59c6ac923eb.jpg",
+    "icon": "https://gamebiz.jp/favicon.ico?1793002622"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、バイオハザードレクイエムの年間最優秀作品。四部門制覇、さすがです。",
+   "show": "今日の注目は『バイオハザード レクイエム』のGOTY。4部門制覇、さすが。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上、蜜塔ラジオでした。また明日。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-12",
+ "lang": "ja",
+ "seconds": 108.59,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.51,
+   "show": "おはようございます、蜜塔ラジオです。11月12日、木曜日のゲームニュース。",
+   "part": 0
+  },
+  {
+   "start": 6.76,
+   "end": 12.84,
+   "show": "今日は5本、Golden Joystickの結果から、Zeldaの大記録まで。",
+   "part": 0
+  },
+  {
+   "start": 13.89,
+   "end": 22.44,
+   "show": "まずはGolden Joystick Awards。第44回の年間最優秀作品は『バイオハザード レクイエム』に。",
+   "part": 1
+  },
+  {
+   "start": 22.69,
+   "end": 29.08,
+   "show": "同作は4部門を獲得。CapcomはStudio of the Yearに。",
+   "part": 1
+  },
+  {
+   "start": 30.13,
+   "end": 38.07,
+   "show": "任天堂は『ゼルダの伝説 時のオカリナ』リメイクが4日間で世界520万本を突破と発表。",
+   "part": 2
+  },
+  {
+   "start": 38.32,
+   "end": 45.39,
+   "show": "国内は81万本。Nintendo Switch 2の任天堂発売作品で過去最高の初動。",
+   "part": 2
+  },
+  {
+   "start": 46.44,
+   "end": 53.18,
+   "show": "Square Enixがスマホ向け新作『ドラゴンクエストRPG 魔界樹と導かれし島』を発表。",
+   "part": 3
+  },
+  {
+   "start": 53.43,
+   "end": 62.99,
+   "show": "2027年に世界同時配信。12月8日からクローズドβテスト。",
+   "part": 3
+  },
+  {
+   "start": 64.04,
+   "end": 72.98,
+   "show": "続いてはNCSOFT。『Horizon Steel Frontiers』の発売時期を近く発表へ。",
+   "part": 4
+  },
+  {
+   "start": 73.23,
+   "end": 80.43,
+   "show": "完成は近く、Sonyと最終調整中。スマホ・PC向けMMORPG。",
+   "part": 4
+  },
+  {
+   "start": 81.48,
+   "end": 88.82,
+   "show": "最後はBandai Namco。カナダ子会社Reflector Entertainmentを解散・清算へ。",
+   "part": 5
+  },
+  {
+   "start": 89.07,
+   "end": 95.52,
+   "show": "『Unknown 9: Awakening』不振で、約35億円の特別損失を計上。",
+   "part": 5
+  },
+  {
+   "start": 96.57,
+   "end": 103.69,
+   "show": "今日の注目は『バイオハザード レクイエム』のGOTY。4部門制覇、さすが。",
+   "part": 6
+  },
+  {
+   "start": 103.94,
+   "end": 107.59,
+   "show": "以上、蜜塔ラジオでした。また明日。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.89
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.89,
+   "end": 30.13
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 30.13,
+   "end": 46.44
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 46.44,
+   "end": 64.04
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 64.04,
+   "end": 81.48
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 81.48,
+   "end": 96.57
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 96.57,
+   "end": 108.59
+  }
+ ],
+ "made_at": "2026-11-12T10:56:32"
+}
