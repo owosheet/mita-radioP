@@ -1,0 +1,371 @@
+{
+ "title": "GitHub新ステータス、レディバードalpha",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月二十四日、火曜日のコードニュースです。",
+   "show": "おはようございます、蜜塔 radio です。11月24日、火曜日的程式新聞。"
+  },
+  {
+   "say": "今日は五本。開発ツールと、セキュリティの話題です。",
+   "show": "今天5則：開發工具與資安話題。"
+  }
+ ],
+ "news": [
+  {
+   "label": "GitHub、課題に状態",
+   "points": [
+    "公開プレビュー",
+    "7つの状態",
+    "ボード表示も"
+   ],
+   "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+   "lines": [
+    {
+     "say": "ギットハブは、イシューに七つのステータスを付けられる機能を公開プレビューで出しました。",
+     "show": "GitHub 推出 Issue 七段狀態功能，進入公開預覽。"
+    },
+    {
+     "say": "バックログや進行中、レビュー中などを選べ、ドラフトのプルリクエストと連動して自動で変わります。",
+     "show": "可選待辦、進行中、審查中等，並與草稿 PR 連動自動變更。"
+    },
+    {
+     "say": "リポジトリの保存ビューでは、カンバン形式のボード表示も使えます。",
+     "show": "儲存檢視也能切成看板式版面。"
+    }
+   ],
+   "details": [
+    "11/23 公開預覽。",
+    "支援 GraphQL、REST、MCP 與 Copilot 自動化。",
+    "Issue 欄位不再綁定 Issue 類型。"
+   ],
+   "link": {
+    "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+    "title": "Issue statuses and repository boards are in public preview - GitHub Changelog",
+    "site": "The GitHub Blog",
+    "description": "Open or closed doesn’t always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what’s in flight…",
+    "image": "https://github.blog/wp-content/uploads/2026/11/716292665-b61bd263-dd28-430c-a147-fa22594ac67f.png",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  },
+  {
+   "label": "OpenAIとCisco、シルド",
+   "points": [
+    "23日に公開",
+    "eBPFで防御",
+    "再起動なし"
+   ],
+   "url": "https://openai.com/index/introducing-shirudo",
+   "lines": [
+    {
+     "say": "オープンエーアイとシスコは、リナックス向けのセキュリティ基盤、シルドを公開しました。",
+     "show": "OpenAI 與 Cisco 公開 Linux 資安工具「Shirudo」。"
+    },
+    {
+     "say": "動いているサービスの脆弱性を、再起動せずに一時的な防御で塞ぎます。",
+     "show": "不必重啟服務，就能用臨時防護擋住執行中服務的漏洞。"
+    },
+    {
+     "say": "イービーピーエフで動きを監視し、署名付きの防御を適用します。",
+     "show": "以 eBPF 監控行為，套用經過簽章的防護。"
+    }
+   ],
+   "details": [
+    "2026/11/23 發表，BSD 2-Clause。",
+    "Codex 可協助調查漏洞、產生並測試防護。",
+    "測試中成功阻擋 Java4Shell，服務未中斷。"
+   ],
+   "link": {
+    "url": "https://openai.com/index/introducing-shirudo",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "site": "OpenAI",
+    "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill",
+    "icon": "https://openai.com/favicon.svg"
+   }
+  },
+  {
+   "label": "レディバード、alpha",
+   "points": [
+    "23日に公開",
+    "macOSとLinux",
+    "独自エンジン"
+   ],
+   "url": "https://ladybird.org/posts/alpha/",
+   "lines": [
+    {
+     "say": "独自エンジンのブラウザ、レディバードがアルファ版になりました。",
+     "show": "自研引擎瀏覽器 Ladybird 進入 alpha。"
+    },
+    {
+     "say": "マックとリナックス向けに配布され、自動更新やウェブドライバーに対応します。",
+     "show": "提供 macOS 與 Linux 版，支援自動更新與 WebDriver。"
+    },
+    {
+     "say": "まだ壊れるサイトはありますが、セキュリティ研究の協力を求めています。",
+     "show": "仍有網站會壞掉，官方徵求資安研究協助。"
+    }
+   ],
+   "details": [
+    "2026/11/23 發布 alpha。",
+    "引擎從零打造，非 Blink／WebKit 分支。",
+    "支援 Firefox DevTools 協定。"
+   ],
+   "link": {
+    "url": "https://ladybird.org/posts/alpha/",
+    "title": "Ladybird is now in alpha - Ladybird",
+    "site": "ladybird.org",
+    "description": "Alpha builds of Ladybird are available today for macOS and Linux. They're for early adopters who don't mind bugs and want to help by reporting them.",
+    "image": "https://ladybird.org/assets/img/logo-new.webp",
+    "icon": "https://ladybird.org/assets/img/ladybird_favicon.png"
+   }
+  },
+  {
+   "label": "GitHub、誤検知を削減",
+   "points": [
+    "Slackの検出器",
+    "形式不合は除外",
+    "23日に変更"
+   ],
+   "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+   "lines": [
+    {
+     "say": "ギットハブは、シークレットスキャンの誤検知を減らす変更を入れました。",
+     "show": "GitHub 更新 Secret Scanning，減少誤報。"
+    },
+    {
+     "say": "スラックの受信用ウェブフックのうち、正しい形式でないものは検出対象から外します。",
+     "show": "Slack 傳入 Webhook 中，格式不符者不再被檢出。"
+    },
+    {
+     "say": "本物の秘密情報には反応しつつ、通知のノイズを減らす狙いです。",
+     "show": "目標是保留真警報，同時降低通知噪音。"
+    }
+   ],
+   "details": [
+    "11/23 變更。",
+    "slack_incoming_webhook_url 偵測器調整。",
+    "不影響其他偵測器。"
+   ],
+   "link": {
+    "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+    "title": "Secret scanning reduces false positives for Slack - GitHub Changelog",
+    "site": "The GitHub Blog",
+    "description": "Secret scanning now reduces false-positive detections for Slack secrets. False positives reduced The following detector improvements reduce false-positive matches for supported secrets. Provider Secret type Improvement Slack slack_incoming_webhook_url Exclude URLs…",
+    "image": "https://github.blog/wp-content/uploads/2026/11/571554102-6349f5b6-b0b7-4130-9300-6d5d87e0b6e9_0ff548.jpg",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  },
+  {
+   "label": "Game Off、テーマはSHIFT",
+   "points": [
+    "12月1日まで",
+    "テーマはSHIFT",
+    "itch.ioで提出"
+   ],
+   "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+   "lines": [
+    {
+     "say": "ギットハブのゲームジャム、ゲームオフの今年のテーマが発表されました。",
+     "show": "GitHub 遊戲 Jam「Game Off」公布今年主題。"
+    },
+    {
+     "say": "テーマはシフトで、視点の変化やビットシフトなど、自由に解釈できます。",
+     "show": "主題是「SHIFT」，可自由詮釋為視角轉換或位元位移。"
+    },
+    {
+     "say": "提出は十二月一日までで、公開リポジトリとイッチドットアイオーが必要です。",
+     "show": "12月1日截止，需公開 repo 並在 itch.io 提交。"
+    }
+   ],
+   "details": [
+    "截止 2026/12/1 13:37 PST。",
+    "投票至 2027/1/1。",
+    "允許 AI 輔助，需揭露。"
+   ],
+   "link": {
+    "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+    "title": "Game Off 2026: The theme is SHIFT",
+    "site": "The GitHub Blog",
+    "description": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT.",
+    "image": "https://github.blog/wp-content/uploads/2026/10/og-image.png",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、ギットハブのイシュー整理です。地味ですが、毎日使う人には大きい変化です。",
+   "show": "今天的重點是 GitHub 的 Issue 整理功能。看似低調，對每天用的人卻是大變化。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-24",
+ "lang": "ja",
+ "seconds": 112.18,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.7,
+   "show": "おはようございます、蜜塔 radio です。11月24日、火曜日的程式新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.95,
+   "end": 11.71,
+   "show": "今天5則：開發工具與資安話題。",
+   "part": 0
+  },
+  {
+   "start": 12.76,
+   "end": 18.42,
+   "show": "GitHub 推出 Issue 七段狀態功能，進入公開預覽。",
+   "part": 1
+  },
+  {
+   "start": 18.67,
+   "end": 25.43,
+   "show": "可選待辦、進行中、審查中等，並與草稿 PR 連動自動變更。",
+   "part": 1
+  },
+  {
+   "start": 25.68,
+   "end": 30.19,
+   "show": "儲存檢視也能切成看板式版面。",
+   "part": 1
+  },
+  {
+   "start": 31.24,
+   "end": 36.94,
+   "show": "OpenAI 與 Cisco 公開 Linux 資安工具「Shirudo」。",
+   "part": 2
+  },
+  {
+   "start": 37.19,
+   "end": 42.65,
+   "show": "不必重啟服務，就能用臨時防護擋住執行中服務的漏洞。",
+   "part": 2
+  },
+  {
+   "start": 42.9,
+   "end": 47.68,
+   "show": "以 eBPF 監控行為，套用經過簽章的防護。",
+   "part": 2
+  },
+  {
+   "start": 48.73,
+   "end": 52.7,
+   "show": "自研引擎瀏覽器 Ladybird 進入 alpha。",
+   "part": 3
+  },
+  {
+   "start": 52.95,
+   "end": 58.27,
+   "show": "提供 macOS 與 Linux 版，支援自動更新與 WebDriver。",
+   "part": 3
+  },
+  {
+   "start": 58.52,
+   "end": 63.82,
+   "show": "仍有網站會壞掉，官方徵求資安研究協助。",
+   "part": 3
+  },
+  {
+   "start": 64.87,
+   "end": 69.2,
+   "show": "GitHub 更新 Secret Scanning，減少誤報。",
+   "part": 4
+  },
+  {
+   "start": 69.45,
+   "end": 76.0,
+   "show": "Slack 傳入 Webhook 中，格式不符者不再被檢出。",
+   "part": 4
+  },
+  {
+   "start": 76.25,
+   "end": 81.27,
+   "show": "目標是保留真警報，同時降低通知噪音。",
+   "part": 4
+  },
+  {
+   "start": 82.32,
+   "end": 86.86,
+   "show": "GitHub 遊戲 Jam「Game Off」公布今年主題。",
+   "part": 5
+  },
+  {
+   "start": 87.11,
+   "end": 92.36,
+   "show": "主題是「SHIFT」，可自由詮釋為視角轉換或位元位移。",
+   "part": 5
+  },
+  {
+   "start": 92.61,
+   "end": 98.71,
+   "show": "12月1日截止，需公開 repo 並在 itch.io 提交。",
+   "part": 5
+  },
+  {
+   "start": 99.76,
+   "end": 107.51,
+   "show": "今天的重點是 GitHub 的 Issue 整理功能。看似低調，對每天用的人卻是大變化。",
+   "part": 6
+  },
+  {
+   "start": 107.76,
+   "end": 111.18,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.76
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.76,
+   "end": 31.24
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 31.24,
+   "end": 48.73
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 48.73,
+   "end": 64.87
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 64.87,
+   "end": 82.32
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 82.32,
+   "end": 99.76
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 99.76,
+   "end": 112.18
+  }
+ ],
+ "made_at": "2026-11-24T18:46:37"
+}

@@ -1,0 +1,291 @@
+{
+ "title": "Cursor公布入侵調查，Qwen4預覽上線",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十五日、星期日的程式新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月15日、星期日的程式新聞。"
+  },
+  {
+   "say": "今天有四則：Cursor 資安、Qwen4 預覽、Copilot 下線，還有 Grok Bot。",
+   "show": "今天有4則：Cursor資安、Qwen4預覽、Copilot下線，還有Grok Bot。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Cursor 公布入侵調查",
+   "points": [
+    "起點是 Fireworks 金鑰",
+    "惡意擴充最多約五千人",
+    "11月13日更新"
+   ],
+   "url": "https://cursor.com/blog/security-incident-update",
+   "lines": [
+    {
+     "say": "先看 Cursor。十三日公布：交給推論夥伴 Fireworks 的金鑰外洩，部分對話紀錄被複製。",
+     "show": "先看Cursor。13日公布：交給推論夥伴Fireworks的金鑰外洩，部分對話紀錄被複製。"
+    },
+    {
+     "say": "惡意 Claude Code 擴充最多可能進到約五千人裝置。隱私模式的提示沒被碰到，公司說事件已控制住。",
+     "show": "惡意Claude Code擴充最多可能進到約5,000人裝置。隱私模式的提示沒被碰到，公司說事件已控制住。"
+    },
+    {
+     "say": "推論流量已經遷離 Fireworks，最後一次攻擊停在十一月一日。",
+     "show": "推論流量已經遷離Fireworks，最後一次攻擊停在11月1日。"
+    }
+   ],
+   "details": [
+    "官方部落格「An update on our recent security incident」（11月13日）。未開Privacy Mode的軌跡低於0.05%，API憑證低於0.01%。",
+    "10月29日攻擊者把盜來的憑證用來在擴充市場快取放入 anthropic.claude-code 2.1.312／313，公開約11小時。",
+    "推論流量已遷離Fireworks。最後一次攻擊活動是11月1日。受影響使用者已直接通知。"
+   ],
+   "link": {
+    "url": "https://cursor.com/blog/security-incident-update",
+    "title": "先日のセキュリティインシデントに関するご報告 · Cursor",
+    "site": "Cursor",
+    "description": "過去2週間にわたる詳細な調査を経て、今回の攻撃とその影響について、より詳しい状況をお知らせします。",
+    "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+    "icon": "https://cursor.com/marketing-static/favicon-light.ico"
+   }
+  },
+  {
+   "label": "Qwen4-Max 預覽",
+   "points": [
+    "上下文 100 萬 token",
+    "只走 Token Plan",
+    "用到 11月25日"
+   ],
+   "url": "https://www.alibabacloud.com/help/zh/model-studio/qwen4-max-preview",
+   "lines": [
+    {
+     "say": "阿里巴巴推出 Qwen4-Max 預覽。上下文長度是一百萬 token。",
+     "show": "阿里巴巴推出Qwen4-Max-Preview。上下文長度是100萬token。"
+    },
+    {
+     "say": "只開放 Token Plan，用到二十五日。到期後這個型號會下線，正式版會換新名字。",
+     "show": "只開放Token Plan，用到25日。到期後這個型號會下線，正式版會換新名字。"
+    }
+   ],
+   "details": [
+    "阿里雲文件的模型ID是qwen4-max-preview。預覽期是11月11日10:00到11月25日24:00（UTC+8）。",
+    "最大輸出393,216 token，思考與回答共用額度，預設開思考。",
+    "不支援按量計費。文件寫相容OpenAI Chat Completions／Responses與Anthropic Messages。"
+   ],
+   "link": {
+    "url": "https://www.alibabacloud.com/help/zh/model-studio/qwen4-max-preview",
+    "title": "qwen4-max-preview（最新模型） - Alibaba Cloud",
+    "site": "www.alibabacloud.com",
+    "description": "qwen4-max-preview（最新模型），大模型服务平台百炼：了解 Qwen4-Max-Preview 的多模态理解、深度思考、工具调用能力与 Token Plan 接入方式 Qwen4-Max-Preview 是通义千问新一代旗舰多模态模型，融合文本生成、图片与视频理解及深度思考能力，适用于编程开发、办公、前端设计与复杂智能体任务。模型支持联网搜索、工具调用和结构化输出，兼容 OpenAI 与 Anthropic API，帮助开发者构建具备多模态理解与任务...",
+    "image": "https://img.alicdn.com/tfs/TB1xpNqnmslXu8jSZFuXXXg7FXa-1200-630.png_.webp",
+    "icon": "https://img.alicdn.com/tfs/TB1ugg7M9zqK1RjSZPxXXc4tVXa-32-32.png"
+   }
+  },
+  {
+   "label": "Copilot 下線六個模型",
+   "points": [
+    "12月14日停用",
+    "含 Fable 5 等六個",
+    "官方 changelog"
+   ],
+   "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december/",
+   "lines": [
+    {
+     "say": "GitHub Copilot 將在十二月十四日停用六個模型。",
+     "show": "GitHub Copilot將在12月14日停用6個模型。"
+    },
+    {
+     "say": "包括 Fable 5、Haiku 4.5。官方 changelog 列出各自的下一版替代。",
+     "show": "包括Fable 5、Haiku 4.5。官方changelog列出各自的下一版替代。"
+    },
+    {
+     "say": "個人年繳方案的 Haiku 4.5 這次還會留著，其餘會自動切到新模型。",
+     "show": "個人年繳方案的Haiku 4.5這次還會留著，其餘會自動切到新模型。"
+    }
+   ],
+   "details": [
+    "GitHub Changelog（11月13日）。名單：Fable 5、Haiku 4.5、Gemini 3.8 Flash、Gemini 4 Argon、Grok 4.6、Kimi K3。",
+    "建議改用Fable 5.2、Haiku 5.5、Gemini 4 Hydrogen、Gemini 4 Carbon、Grok 4.7。Kimi後繼未公布。",
+    "註記：Haiku 4.5對個人年繳方案仍保留。"
+   ],
+   "link": {
+    "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december/",
+    "title": "Upcoming deprecation of selected GitHub Copilot models in December - GitHub Changelog",
+    "site": "The GitHub Blog",
+    "description": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date…",
+    "image": "https://github.blog/wp-content/uploads/2026/11/645867806-878ea927-48c9-4765-a896-4a5f3d7b8f2e.jpg",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  },
+  {
+   "label": "Grok Bot 1.0 上線",
+   "points": [
+    "支援 Slack 與 Teams",
+    "能進視訊會議",
+    "Team 與 Enterprise"
+   ],
+   "url": "https://x.ai/news/grok-bot-1-0",
+   "lines": [
+    {
+     "say": "xAI 推出 Grok Bot 1.0。可以在 Slack 和 Teams 跟團隊共用。",
+     "show": "xAI推出Grok Bot 1.0。可以在Slack和Teams跟團隊共用。"
+    },
+    {
+     "say": "它會進會議、用聊天不用語音，會後再寄摘要。對象是 Team 與 Enterprise。",
+     "show": "它會進會議、用聊天不用語音，會後再寄摘要。對象是Team與Enterprise。"
+    }
+   ],
+   "details": [
+    "官方「Introducing Grok Bot 1.0」。重點是共用機器人、主動追未完任務、加強瀏覽器與文件。",
+    "Meetings開放Team、Enterprise、Ultra。Enterprise要管理員在設定裡打開。",
+    "會議中用聊天而非語音回應，結束後送摘要與待辦。"
+   ],
+   "link": {
+    "url": "https://x.ai/news/grok-bot-1-0",
+    "title": "Introducing Grok Bot 1.0",
+    "site": "x.ai",
+    "description": "Bots now work with your whole team, take on work without being asked, and get more done, faster.",
+    "image": "https://x.ai/images/news/grok-bot-1-0-og-2.png",
+    "icon": "https://x.ai/favicon.ico?favicon.2023htx52lx-a.ico?dpl=cce67e653c7727cb68a5145c5338afdb9fb3cfc5"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是 Cursor 的入侵報告。Agent 留下的足跡，本身就是一把鑰匙。",
+   "show": "今天的重點是Cursor的入侵報告。Agent留下的足跡，本身就是一把鑰匙。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-15",
+ "lang": "zh",
+ "seconds": 92.07,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.31,
+   "show": "早安，這裡是蜜塔 radio。11月15日、星期日的程式新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.56,
+   "end": 13.34,
+   "show": "今天有4則：Cursor資安、Qwen4預覽、Copilot下線，還有Grok Bot。",
+   "part": 0
+  },
+  {
+   "start": 14.39,
+   "end": 22.43,
+   "show": "先看Cursor。13日公布：交給推論夥伴Fireworks的金鑰外洩，部分對話紀錄被複製。",
+   "part": 1
+  },
+  {
+   "start": 22.68,
+   "end": 30.98,
+   "show": "惡意Claude Code擴充最多可能進到約5,000人裝置。隱私模式的提示沒被碰到，公司說事件已控制住。",
+   "part": 1
+  },
+  {
+   "start": 31.23,
+   "end": 35.82,
+   "show": "推論流量已經遷離Fireworks，最後一次攻擊停在11月1日。",
+   "part": 1
+  },
+  {
+   "start": 36.87,
+   "end": 41.55,
+   "show": "阿里巴巴推出Qwen4-Max-Preview。上下文長度是100萬token。",
+   "part": 2
+  },
+  {
+   "start": 41.8,
+   "end": 49.12,
+   "show": "只開放Token Plan，用到25日。到期後這個型號會下線，正式版會換新名字。",
+   "part": 2
+  },
+  {
+   "start": 50.17,
+   "end": 54.22,
+   "show": "GitHub Copilot將在12月14日停用6個模型。",
+   "part": 3
+  },
+  {
+   "start": 54.47,
+   "end": 60.42,
+   "show": "包括Fable 5、Haiku 4.5。官方changelog列出各自的下一版替代。",
+   "part": 3
+  },
+  {
+   "start": 60.67,
+   "end": 66.51,
+   "show": "個人年繳方案的Haiku 4.5這次還會留著，其餘會自動切到新模型。",
+   "part": 3
+  },
+  {
+   "start": 67.56,
+   "end": 73.19,
+   "show": "xAI推出Grok Bot 1.0。可以在Slack和Teams跟團隊共用。",
+   "part": 4
+  },
+  {
+   "start": 73.44,
+   "end": 80.47,
+   "show": "它會進會議、用聊天不用語音，會後再寄摘要。對象是Team與Enterprise。",
+   "part": 4
+  },
+  {
+   "start": 81.52,
+   "end": 87.97,
+   "show": "今天的重點是Cursor的入侵報告。Agent留下的足跡，本身就是一把鑰匙。",
+   "part": 5
+  },
+  {
+   "start": 88.22,
+   "end": 91.07,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.39
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.39,
+   "end": 36.87
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 36.87,
+   "end": 50.17
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 50.17,
+   "end": 67.56
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 67.56,
+   "end": 81.52
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 81.52,
+   "end": 92.07
+  }
+ ],
+ "made_at": "2026-11-15T07:15:47"
+}

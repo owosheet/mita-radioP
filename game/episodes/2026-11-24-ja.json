@@ -1,0 +1,371 @@
+{
+ "title": "GTA6がPS史上最大、仁王3DLC",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月二十四日、火曜日のゲームニュースです。",
+   "show": "おはようございます、蜜塔 radio です。11月24日、火曜日的遊戲新聞。"
+  },
+  {
+   "say": "今日は五本。ジーティーエーシックスの記録と、その後の動きです。",
+   "show": "今天5則：《GTA6》的紀錄，還有後續的消息。"
+  }
+ ],
+ "news": [
+  {
+   "label": "GTA6、PS史上最大",
+   "points": [
+    "4日で3900万人",
+    "計6.8億時間",
+    "新PS5の7割"
+   ],
+   "url": "https://dengekionline.com/article/202611/94872",
+   "lines": [
+    {
+     "say": "ソニーは、ジーティーエーシックスがプレイステーション史上最大の発売になったと発表しました。",
+     "show": "Sony 宣布《GTA6》成為 PlayStation 史上最大規模的發售。"
+    },
+    {
+     "say": "発売から四日間で三千九百万人以上が遊び、合計六億八千三百万時間に達しました。",
+     "show": "發售後4天內超過3900萬人遊玩，總時數達6.83億小時。"
+    },
+    {
+     "say": "新しいプレステファイブの七割で、最初に遊ばれたゲームがこれでした。",
+     "show": "70% 的新 PS5，第一款玩的遊戲就是它。"
+    }
+   ],
+   "details": [
+    "SIE 內部數據，統計 11/19〜22。",
+    "平均每人 17.4 小時，同時上線數也創 PS 紀錄。",
+    "3900 萬是玩家人數，不是銷售套數。"
+   ],
+   "link": {
+    "url": "https://dengekionline.com/article/202611/94872",
+    "title": "『GTA6』3,900万人以上がプレイ。PS史上最大のローンチ",
+    "site": "電撃オンライン",
+    "description": "『グランド・セフト・オートVI』がPlayStation史上最大のローンチとなったことが、PlayStation.Blog​が明かされました。",
+    "image": "https://cimg.kgl-systems.io/camion/files/94872/ogp_MlEb.jpg?x=1280",
+    "icon": "https://dengekionline.com/res/images/favicons/favicon.ico"
+   }
+  },
+  {
+   "label": "GTA6、修正パッチ",
+   "points": [
+    "23日に配信",
+    "天候と自動保存",
+    "通話も修正"
+   ],
+   "url": "https://news.denfaminicogamer.jp/news/261124h",
+   "lines": [
+    {
+     "say": "ロックスターは二十三日、ジーティーエーシックスの修正アップデートを配信しました。",
+     "show": "Rockstar 在23日推出《GTA6》修正更新。"
+    },
+    {
+     "say": "天候が変わらない、自動保存が働かない、手配度が解除できないなどの不具合が直りました。",
+     "show": "修正了天氣不變、自動存檔失效、通緝度無法解除等問題。"
+    },
+    {
+     "say": "物語の進行に影響する通話の不具合も含まれています。",
+     "show": "也修好了影響故事推進的電話問題。"
+    }
+   ],
+   "details": [
+    "PS5／Xbox Series X|S 於 11/23 更新。",
+    "另修正多起當機與任務解鎖問題。",
+    "完整內容在 Rockstar 官方支援頁。"
+   ],
+   "link": {
+    "url": "https://news.denfaminicogamer.jp/news/261124h",
+    "title": "『GTA6』最新アップデートが配信。長時間にわたり天候が変化しなかった不具合などを修正",
+    "site": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+    "description": "対象プラットフォームはPS5、Xbox Series X|S。クラッシュの原因となっていた複数の問題のほか、オートセーブされない、手配度が消えないといった症状にも対応",
+    "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261119111945.jpg",
+    "icon": "https://news.denfaminicogamer.jp/wp-content/uploads/2016/12/apple-touch-icon.png"
+   }
+  },
+  {
+   "label": "GTA6流出、懲役7年",
+   "points": [
+    "23日に判決",
+    "当日に仮釈放",
+    "復旧費5億円"
+   ],
+   "url": "https://www.gamespark.jp/article/2026/11/24/175230.html",
+   "lines": [
+    {
+     "say": "二年前にジーティーエーシックスの開発映像を流出させた男に、懲役七年の判決が出ました。",
+     "show": "2年前洩漏《GTA6》開發影片的男子，被判7年徒刑。"
+    },
+    {
+     "say": "イギリスの裁判所が二十三日に言い渡し、拘置期間が算入されて当日に仮釈放されました。",
+     "show": "英國法院23日宣判，折抵羈押期間後當天獲釋。"
+    },
+    {
+     "say": "ロックスターの復旧費用は、五百万ドルに上ったと報じられています。",
+     "show": "據報導 Rockstar 的復原費用達500萬美元。"
+    }
+   ],
+   "details": [
+    "被告是 Lapsus$ 成員 Arion Kurtaj，21 歲。",
+    "另科 5 年嚴重犯罪防止命令。",
+    "2022 年用 Fire TV Stick 入侵 Rockstar。"
+   ],
+   "link": {
+    "url": "https://www.gamespark.jp/article/2026/11/24/175230.html",
+    "title": "『GTA6』開発中の映像90本も流出させたハッカーに懲役7年の判決―条件付きで仮釈放。「二度とするな」と5年間オンライン活動制限 | Game*Spark - 国内・海外ゲーム情報サイト",
+    "site": "Game*Spark - 国内・海外ゲーム情報サイト",
+    "description": "2022年の事件の続報。判事は罪を認めたハッカーを非常に才能のある若者と評し、二度と同様の事件を起こさないよう警告しました。",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1222751.jpg",
+    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "仁王3、DLC第2弾",
+   "points": [
+    "12月17日配信",
+    "舞台は島原",
+    "完全版は1月28日"
+   ],
+   "url": "https://www.4gamer.net/games/060/G106063/20261124012/",
+   "lines": [
+    {
+     "say": "コーエーテクモは、仁王スリーの追加コンテンツ第二弾、天草大乱を十二月十七日に配信します。",
+     "show": "光榮特庫摩宣布《仁王3》DLC第2彈「天草大亂」12月17日推出。"
+    },
+    {
+     "say": "舞台は島原で、天草四郎や立花宗茂が登場します。",
+     "show": "舞台在島原，天草四郎與立花宗茂登場。"
+    },
+    {
+     "say": "二つの追加コンテンツをまとめた完全版は、来年一月二十八日に発売されます。",
+     "show": "收錄兩部 DLC 的完全版，明年1月28日發售。"
+    }
+   ],
+   "details": [
+    "單獨 2,750 日圓，季票 5,500 日圓。",
+    "完全版 8,580 日圓，系列首次登上 Xbox Series X|S。",
+    "新增終局模式「修羅の戦場」。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/060/G106063/20261124012/",
+    "title": "「仁王3」DLC第2弾「天草大乱」，12月17日配信決定。天草四郎や立花宗茂が登場。XBOX Series X|S版を含むComplete Editionも2027年1月28日発売",
+    "site": "4Gamer.net",
+    "description": "コーエーテクモゲームスは本日，「仁王3」のDLC第2弾「天草大乱」を2026年12月17日に配信すると発表した。1638年の島原を舞台に，天草四郎や立花宗茂らが登場。DLC第1弾から続く物語が完結す…",
+    "image": "https://www.4gamer.net/games/060/G106063/20261124012/SS/001.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "モンハンライズ、スマホへ",
+   "points": [
+    "今日から配信",
+    "Netflixで無料",
+    "4人協力"
+   ],
+   "url": "https://www.gamespark.jp/article/2026/11/18/175050.html",
+   "lines": [
+    {
+     "say": "モンスターハンターライズが、今日からスマートフォンで遊べます。",
+     "show": "《魔物獵人 崛起》今天起可在手機上遊玩。"
+    },
+    {
+     "say": "ネットフリックスの会員なら追加料金なしで、広告も課金もありません。",
+     "show": "Netflix 會員免費玩，沒有廣告也沒有內購。"
+    },
+    {
+     "say": "四人協力やクラウドセーブに対応し、ブルートゥースのコントローラーも使えます。",
+     "show": "支援4人協力、雲端存檔與藍牙手把。"
+    }
+   ],
+   "details": [
+    "iOS／Android，Netflix Games 發行。",
+    "需保持連線，沒有離線模式。",
+    "Android 需 Snapdragon 8+ Gen 1、8GB RAM 以上。"
+   ],
+   "link": {
+    "url": "https://www.gamespark.jp/article/2026/11/18/175050.html",
+    "title": "『モンハン ライズ』モバイル版11月24日リリースが正式発表！Netflix経由でプレイ可能 | Game*Spark - 国内・海外ゲーム情報サイト",
+    "site": "Game*Spark - 国内・海外ゲーム情報サイト",
+    "description": "モバイル＆タブレットで遊べる『モンハンライズ』！推奨スペックなども公開中",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1221092.webp",
+    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、ジーティーエーシックスの記録です。一週間で、ゲームの歴史が書き換わりました。",
+   "show": "今天的重點是《GTA6》的紀錄。一週之內，遊戲史就被改寫了。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-24",
+ "lang": "ja",
+ "seconds": 120.03,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.78,
+   "show": "おはようございます、蜜塔 radio です。11月24日、火曜日的遊戲新聞。",
+   "part": 0
+  },
+  {
+   "start": 8.03,
+   "end": 13.19,
+   "show": "今天5則：《GTA6》的紀錄，還有後續的消息。",
+   "part": 0
+  },
+  {
+   "start": 14.24,
+   "end": 20.16,
+   "show": "Sony 宣布《GTA6》成為 PlayStation 史上最大規模的發售。",
+   "part": 1
+  },
+  {
+   "start": 20.41,
+   "end": 27.57,
+   "show": "發售後4天內超過3900萬人遊玩，總時數達6.83億小時。",
+   "part": 1
+  },
+  {
+   "start": 27.82,
+   "end": 33.03,
+   "show": "70% 的新 PS5，第一款玩的遊戲就是它。",
+   "part": 1
+  },
+  {
+   "start": 34.08,
+   "end": 39.39,
+   "show": "Rockstar 在23日推出《GTA6》修正更新。",
+   "part": 2
+  },
+  {
+   "start": 39.64,
+   "end": 45.95,
+   "show": "修正了天氣不變、自動存檔失效、通緝度無法解除等問題。",
+   "part": 2
+  },
+  {
+   "start": 46.2,
+   "end": 50.1,
+   "show": "也修好了影響故事推進的電話問題。",
+   "part": 2
+  },
+  {
+   "start": 51.15,
+   "end": 57.9,
+   "show": "2年前洩漏《GTA6》開發影片的男子，被判7年徒刑。",
+   "part": 3
+  },
+  {
+   "start": 58.15,
+   "end": 66.3,
+   "show": "英國法院23日宣判，折抵羈押期間後當天獲釋。",
+   "part": 3
+  },
+  {
+   "start": 66.55,
+   "end": 71.28,
+   "show": "據報導 Rockstar 的復原費用達500萬美元。",
+   "part": 3
+  },
+  {
+   "start": 72.33,
+   "end": 79.79,
+   "show": "光榮特庫摩宣布《仁王3》DLC第2彈「天草大亂」12月17日推出。",
+   "part": 4
+  },
+  {
+   "start": 80.04,
+   "end": 85.16,
+   "show": "舞台在島原，天草四郎與立花宗茂登場。",
+   "part": 4
+  },
+  {
+   "start": 85.41,
+   "end": 91.68,
+   "show": "收錄兩部 DLC 的完全版，明年1月28日發售。",
+   "part": 4
+  },
+  {
+   "start": 92.73,
+   "end": 96.62,
+   "show": "《魔物獵人 崛起》今天起可在手機上遊玩。",
+   "part": 5
+  },
+  {
+   "start": 96.87,
+   "end": 101.57,
+   "show": "Netflix 會員免費玩，沒有廣告也沒有內購。",
+   "part": 5
+  },
+  {
+   "start": 101.82,
+   "end": 106.99,
+   "show": "支援4人協力、雲端存檔與藍牙手把。",
+   "part": 5
+  },
+  {
+   "start": 108.04,
+   "end": 115.36,
+   "show": "今天的重點是《GTA6》的紀錄。一週之內，遊戲史就被改寫了。",
+   "part": 6
+  },
+  {
+   "start": 115.61,
+   "end": 119.03,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.24
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.24,
+   "end": 34.08
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 34.08,
+   "end": 51.15
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 51.15,
+   "end": 72.33
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 72.33,
+   "end": 92.73
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 92.73,
+   "end": 108.04
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 108.04,
+   "end": 120.03
+  }
+ ],
+ "made_at": "2026-11-24T18:31:14"
+}

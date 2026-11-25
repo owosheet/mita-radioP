@@ -1,0 +1,371 @@
+{
+ "title": "月宴最終日，AI 自己玩星穹",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十八日、星期三的 SNS 新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月18日、星期三的 SNS 新聞。"
+  },
+  {
+   "say": "今天五則：《第五人格》萬聖節最終日，到米哈遊的 AI。",
+   "show": "今天5則：《第五人格》萬聖節最終日，到米哈遊的 AI。"
+  }
+ ],
+ "news": [
+  {
+   "label": "月宴今晚結束",
+   "points": [
+    "18日23:59截止",
+    "南瓜 UR 時裝",
+    "別漏獎勵"
+   ],
+   "url": "https://kamigame.jp/identity5/page/377217428586798706.html",
+   "lines": [
+    {
+     "say": "《第五人格》萬聖節活動「月宴密巡」，今晚十一點五十九分結束。",
+     "show": "《第五人格》萬聖節活動「月宴密巡」，今晚23點59分結束。"
+    },
+    {
+     "say": "南瓜主題的限定 UR 時裝，是這次的主要獎勵。",
+     "show": "南瓜主題的限定 UR 時裝，是這次的主要獎勵。"
+    },
+    {
+     "say": "趕在結束前衝進度的玩家貼文，今天也接連出現。",
+     "show": "趕在結束前衝進度的玩家貼文，今天也接連出現。"
+    }
+   ],
+   "details": [
+    "活動「月宴密巡」期間為10月29日至11月18日23時59分。",
+    "獎勵有 UR 時裝「南瓜冕下」、SSR 時裝「新月南瓜撻」「孤光」等。",
+    "萬聖節地圖與商店復刻同步結束。"
+   ],
+   "link": {
+    "url": "https://kamigame.jp/identity5/page/377217428586798706.html",
+    "title": "【第五人格】イベント最新情報まとめ【IdentityV】 - 神ゲー攻略",
+    "site": "神ゲー攻略",
+    "description": "第五人格（IdentityV）のイベント最新情報を掲載。開催日やいつまでなのか、イベント内容についても掲載しているため、第五人格でイベントについて知りたい時の参考にどうぞ。",
+    "image": "https://lh3.googleusercontent.com/O8L5XrWj8vIAu-Xc6Fc7YmiWQ5jC7-yuSbpZS-pu9E5wpM6Dd00tYlHG1i0nr7di8thOLEnIEAfumkT9nn-jNt-NnElLAnmMpE8a50W1wAmOqg=s0-s0",
+    "icon": "https://kamigame.jp/img/apple-touch-icon.png?kamigame-cache-busting=1f78800dbc5e2579d298cf99b4ddb16ce754691b"
+   }
+  },
+  {
+   "label": "IVL 第七週，ACT 全勝",
+   "points": [
+    "ACT 單獨首位",
+    "女王蜂四抓",
+    "20日直接對決"
+   ],
+   "url": "https://news.17173.com/content/11182026/020438408.shtml",
+   "lines": [
+    {
+     "say": "《第五人格》IVL 秋季賽，第七週戰報公開。",
+     "show": "《第五人格》IVL 秋季賽，第七週戰報公開。"
+    },
+    {
+     "say": "ACT 兩戰全勝、單獨首位，GR 的 Jin 用女王蜂打出四抓。",
+     "show": "ACT 兩戰全勝、單獨首位，GR 的 Jin 用女王蜂打出四抓。"
+    },
+    {
+     "say": "二十日將有攸關決賽席次的直接對決。",
+     "show": "20日將有攸關決賽席次的直接對決。"
+    }
+   ],
+   "details": [
+    "第七週 ACT 連續擊敗成都 Wolves 等隊，成為當週唯一全勝隊伍。",
+    "GR_Jin 的女王蜂連續預判命中古董商，快速完成四抓。",
+    "11月20日14時，FPX.ZQ 對 TE 爭奪決賽席次，ACT 則出戰 WBG。"
+   ],
+   "link": {
+    "url": "https://news.17173.com/content/11182026/020438408.shtml",
+    "title": "稳中求胜！ACT战队不畏强敌连战连捷 《第五人格》2026IVL秋季赛第七周赛报发布_游戏新闻_17173.com中国游戏门户站",
+    "site": "news.17173.com",
+    "description": "《第五人格》2026IVL秋季赛第七周赛报：ACT全胜登顶，幸运儿极限牵制、鹿头精准拦截四抓逆转名场面回顾，FPX.ZQ vs TE天王山之战前瞻，11月20日14:00直播间见！",
+    "image": null,
+    "icon": "https://ue.17173cdn.com/images/lib/v1/favicon-hd.ico"
+   }
+  },
+  {
+   "label": "米哈遊 AI 代練",
+   "points": [
+    "自己玩遊戲",
+    "星穹八成支線",
+    "官方代練成迷因"
+   ],
+   "url": "https://www.taptap.cn/moment/871730091665656454",
+   "lines": [
+    {
+     "say": "米哈遊公開了能自己玩遊戲的 AI 模型「Gamer」。",
+     "show": "米哈遊公開了能自己玩遊戲的 AI 模型「Gamer」。"
+    },
+    {
+     "say": "據稱一邊看畫面，完成了《星穹鐵道》八成支線任務。",
+     "show": "據稱一邊看畫面，完成了《星穹鐵道》八成支線任務。"
+    },
+    {
+     "say": "玩家笑稱這是官方代練，討論熱烈。",
+     "show": "玩家笑稱這是官方代練，討論熱烈。"
+    }
+   ],
+   "details": [
+    "米哈遊公開視覺、語言、動作整合的「Gamer」模型。",
+    "在《崩壞：星穹鐵道》中自主完成約八成支線任務。",
+    "玩家一面喊「官方代練」，技術圈則認為那是在測試通用遊玩能力。"
+   ],
+   "link": {
+    "url": "https://www.taptap.cn/moment/871730091665656454",
+    "title": "米哈游官方下场代肝？米哈游AI全自动包圆战斗探索解谜 - 崩坏：星穹铁道综合讨论 - TapTap 崩坏：星穹铁道论坛",
+    "site": "www.taptap.cn",
+    "description": "米哈游近日向外界展示了其主导研发的通用视觉-语言-动作基础模型“Gamer”的实机演示画面。这款AI不仅能自动接管《崩坏：星穹铁道》的主线剧情，还能顺利完成战斗、探索以及各类解谜环节。从官方放出的测试...",
+    "image": "https://img2-tc.tapimg.com/moment/etag/tc_1794889323542_aebad47f6366c62b.jpg/_tap_ugc.jpg",
+    "icon": "https://www.taptap.cn/favicon.ico"
+   }
+  },
+  {
+   "label": "絕區零 3.4 前瞻",
+   "points": [
+    "20日19:30",
+    "卡芙卡與知更鳥",
+    "新代理人"
+   ],
+   "url": "https://www.4gamer.net/games/421/G042182/20261116028/",
+   "lines": [
+    {
+     "say": "《絕區零》三點四版前瞻節目，二十日晚間七點半播出。",
+     "show": "《絕區零》3.4 版前瞻節目，20日晚間7點30分播出。"
+    },
+    {
+     "say": "《星穹鐵道》的卡芙卡與知更鳥，將以新代理人登場。",
+     "show": "《星穹鐵道》的卡芙卡與知更鳥，將以新代理人登場。"
+    },
+    {
+     "say": "新代理人 Sunbringer 也會一起介紹。",
+     "show": "新代理人 Sunbringer 也會一起介紹。"
+    }
+   ],
+   "details": [
+    "Ver.3.4「長日終盡」前瞻節目於11月20日19時30分播出。",
+    "《崩壞：星穹鐵道》聯動角色卡芙卡、知更鳥登陸新艾利都。",
+    "新代理人 Sunbringer（CV：大原さやか）同日公開。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/421/G042182/20261116028/",
+    "title": "「ゼンレスゾーンゼロ」のVer.3.4「ついには長き、日の終わり」予告番組は11月20日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+    "site": "4Gamer.net",
+    "description": "アクションRPG「ゼンレスゾーンゼロ」のVer.3.4「ついには長き、日の終わり」予告番組が，2026年11月20日19：30に配信予定だ。今回もこの1週間で予定されている，ゲームに関連した公式配信…",
+    "image": "https://www.4gamer.net/games/421/G042182/20261116028/SS/002.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "精華1 明天開幕",
+   "points": [
+    "免費十連",
+    "探鉱者 UR 時裝",
+    "19日開始"
+   ],
+   "url": "https://manabuy.com/ja/blog/identity-v/identity-v-season-45-essence-1-pull-guide-ja",
+   "lines": [
+    {
+     "say": "《第五人格》第四十五賽季精華一，明天開幕。",
+     "show": "《第五人格》第45賽季精華1，明天開幕。"
+    },
+    {
+     "say": "只要登入，就能拿到免費十連。",
+     "show": "只要登入，就能拿到免費十連。"
+    },
+    {
+     "say": "探鉱者的 UR 時裝與新監管者「心獸」，都會登場。",
+     "show": "探鉱者的 UR 時裝與新監管者「心獸」，都會登場。"
+    }
+   ],
+   "details": [
+    "S45 精華1 於11月19日維護後開放，登入可領免費十連。",
+    "收錄探鉱者限定 UR「怪異専用線」、心獸 SSR「ベッドサイドの怪物」、機械技師 SSR「蛾の妖精」。",
+    "首次 SSR 以上保底60抽，限定 UR 上限200抽。"
+   ],
+   "link": {
+    "url": "https://manabuy.com/ja/blog/identity-v/identity-v-season-45-essence-1-pull-guide-ja",
+    "title": "第五人格S45・真髄1は引くべき？無料10連と必要霊感",
+    "site": "manabuy.com",
+    "description": "第五人格S45・真髄1は11月19日実装。無料10連後の必要霊感、探鉱者UR「怪異専用線」、心の獣・機械技師SSRの見どころと引き方を解説。",
+    "image": "https://static-cdn.manabuy.com/blog_20261117/identity-v-s45-essence-1-ja_assets/identity-v-s45-essence-1-ja-cover-1600x900.webp",
+    "icon": "https://manabuy.com/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是米哈遊的 Gamer。連玩遊戲這件事，也慢慢交給機器了。",
+   "show": "今天的重點是米哈遊的 Gamer。連玩遊戲這件事，也慢慢交給機器了。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 2,
+ "format": "monoradio/news-1",
+ "date": "2026-11-18",
+ "lang": "zh",
+ "seconds": 90.12,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.36,
+   "show": "早安，這裡是蜜塔 radio。11月18日、星期三的 SNS 新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.61,
+   "end": 11.5,
+   "show": "今天5則：《第五人格》萬聖節最終日，到米哈遊的 AI。",
+   "part": 0
+  },
+  {
+   "start": 12.55,
+   "end": 17.96,
+   "show": "《第五人格》萬聖節活動「月宴密巡」，今晚23點59分結束。",
+   "part": 1
+  },
+  {
+   "start": 18.21,
+   "end": 22.15,
+   "show": "南瓜主題的限定 UR 時裝，是這次的主要獎勵。",
+   "part": 1
+  },
+  {
+   "start": 22.4,
+   "end": 26.66,
+   "show": "趕在結束前衝進度的玩家貼文，今天也接連出現。",
+   "part": 1
+  },
+  {
+   "start": 27.71,
+   "end": 32.07,
+   "show": "《第五人格》IVL 秋季賽，第七週戰報公開。",
+   "part": 2
+  },
+  {
+   "start": 32.32,
+   "end": 38.1,
+   "show": "ACT 兩戰全勝、單獨首位，GR 的 Jin 用女王蜂打出四抓。",
+   "part": 2
+  },
+  {
+   "start": 38.35,
+   "end": 41.43,
+   "show": "20日將有攸關決賽席次的直接對決。",
+   "part": 2
+  },
+  {
+   "start": 42.48,
+   "end": 46.03,
+   "show": "米哈遊公開了能自己玩遊戲的 AI 模型「Gamer」。",
+   "part": 3
+  },
+  {
+   "start": 46.28,
+   "end": 50.67,
+   "show": "據稱一邊看畫面，完成了《星穹鐵道》八成支線任務。",
+   "part": 3
+  },
+  {
+   "start": 50.92,
+   "end": 54.12,
+   "show": "玩家笑稱這是官方代練，討論熱烈。",
+   "part": 3
+  },
+  {
+   "start": 55.17,
+   "end": 60.0,
+   "show": "《絕區零》3.4 版前瞻節目，20日晚間7點30分播出。",
+   "part": 4
+  },
+  {
+   "start": 60.25,
+   "end": 64.43,
+   "show": "《星穹鐵道》的卡芙卡與知更鳥，將以新代理人登場。",
+   "part": 4
+  },
+  {
+   "start": 64.68,
+   "end": 67.55,
+   "show": "新代理人 Sunbringer 也會一起介紹。",
+   "part": 4
+  },
+  {
+   "start": 68.6,
+   "end": 72.26,
+   "show": "《第五人格》第45賽季精華1，明天開幕。",
+   "part": 5
+  },
+  {
+   "start": 72.51,
+   "end": 75.51,
+   "show": "只要登入，就能拿到免費十連。",
+   "part": 5
+  },
+  {
+   "start": 75.76,
+   "end": 79.8,
+   "show": "探鉱者的 UR 時裝與新監管者「心獸」，都會登場。",
+   "part": 5
+  },
+  {
+   "start": 80.85,
+   "end": 86.7,
+   "show": "今天的重點是米哈遊的 Gamer。連玩遊戲這件事，也慢慢交給機器了。",
+   "part": 6
+  },
+  {
+   "start": 86.95,
+   "end": 89.12,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.55
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.55,
+   "end": 27.71
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 27.71,
+   "end": 42.48
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 42.48,
+   "end": 55.17
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 55.17,
+   "end": 68.6
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 68.6,
+   "end": 80.85
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 80.85,
+   "end": 90.12
+  }
+ ],
+ "made_at": "2026-11-18T14:25:08"
+}

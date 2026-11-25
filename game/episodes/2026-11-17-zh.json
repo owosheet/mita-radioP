@@ -1,0 +1,341 @@
+{
+ "title": "TGA提名出爐，NIKKE新機長",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十七日、星期二的遊戲新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月17日、星期二的遊戲新聞。"
+  },
+  {
+   "say": "今天五則：遊戲大獎提名、NIKKE 新版本，還有萬代南夢宮的自製引擎。",
+   "show": "今天5則：TGA 提名、NIKKE 新版本，還有萬代南夢宮的自製引擎。"
+  }
+ ],
+ "news": [
+  {
+   "label": "TGA提名，GTA6入列",
+   "points": [
+    "日本時間18日凌晨",
+    "GTA6 19日發售",
+    "頒獎為12月10日"
+   ],
+   "url": "https://www.ggrecon.com/articles/the-game-awards-2026-nominees-date/",
+   "lines": [
+    {
+     "say": "遊戲大獎的提名名單，將在日本時間十一月十八日凌晨公布。",
+     "show": "The Game Awards 2026 的提名，將在日本時間 11月18日凌晨公布。"
+    },
+    {
+     "say": "十一月十九日發售的俠盜獵車手六，也趕上截止日，具備提名資格。",
+     "show": "11月19日發售的《GTA6》也趕上截止日，具備提名資格。"
+    },
+    {
+     "say": "頒獎典禮在十二月十日，於洛杉磯舉行。",
+     "show": "頒獎典禮在12月10日，於洛杉磯舉行。"
+    }
+   ],
+   "details": [
+    "提名特別節目於11月17日9時（太平洋時間）直播，日本時間為11月18日凌晨2時。",
+    "參評資格截止是11月20日21時（太平洋時間），《GTA6》11月19日發售，符合資格。",
+    "第13屆頒獎典禮12月10日在洛杉磯Peacock Theater舉行，粉絲投票占10%。"
+   ],
+   "link": {
+    "url": "https://www.ggrecon.com/articles/the-game-awards-2026-nominees-date/",
+    "title": "The Game Awards 2026 nominees are revealed on November 17",
+    "site": "GGRecon",
+    "description": "The Game Awards 2026 nominees are revealed live on November 17 at noon ET (5pm UK), and GTA 6 is eligible despite launching two days later.",
+    "image": "https://www.ggrecon.com/media/jjgpajmn/the-game-awards-2026-nominees.jpg",
+    "icon": "https://www.ggrecon.com/media/p4khnxb2/04_gg_avatar_green.png?width=32&height=32&v=1daee3f6f030470"
+   }
+  },
+  {
+   "label": "NIKKE 新機長",
+   "points": [
+    "19日實裝",
+    "新SSR史凱",
+    "德爾塔新造型"
+   ],
+   "url": "https://game-news.tokyo/news/1014053",
+   "lines": [
+    {
+     "say": "勝利女神 NIKKE 的新版本，SKY ON THE ROCK，將在十一月十九日實裝。",
+     "show": "《勝利女神：NIKKE》新版本「SKY ON THE ROCK」，11月19日實裝。"
+    },
+    {
+     "say": "新 SSR 史凱，是 Over the Horizon 部隊的機長。",
+     "show": "新SSR「スカイ」是Over the Horizon部隊的機長。"
+    }
+   ],
+   "details": [
+    "新SSR妮姬「スカイ」（CV：根本優奈）同日加入特殊招募。",
+    "「デルタ：ニンジャシーフ」新服裝，以及克勞恩、莫達尼亞限定服裝復刻。",
+    "同時舉辦以想搭熱氣球的少女為主題的新故事活動。"
+   ],
+   "link": {
+    "url": "https://game-news.tokyo/news/1014053",
+    "title": "Level Infinite、『勝利の女神：NIKKE』にて最新バージョン「SKY ON THE ROCK」を11月19日に実装 - ゲーム情報・速報",
+    "site": "げーむにゅーす東京",
+    "description": "Level Infiniteは、ゲーム開発会社SHIFT",
+    "image": "https://game-news.tokyo/data/wp-content/uploads/2026/05/cover2k.png",
+    "icon": "https://game-news.tokyo/data/wp-content/themes/game-news-tokyo/favicon.png"
+   }
+  },
+  {
+   "label": "七大罪今晚直播",
+   "points": [
+    "17日20時",
+    "更新情報",
+    "聲優登場"
+   ],
+   "url": "https://dengekionline.com/article/202611/94152",
+   "lines": [
+    {
+     "say": "七大罪 Origin 今晚八點，播出第六回官方直播。",
+     "show": "《七大罪：Origin》今晚8點播出第6回「ナナオリLIVE」。"
+    },
+    {
+     "say": "將搭配實機遊玩，介紹下次更新與活動情報。",
+     "show": "將搭配實機遊玩，介紹下次更新與活動情報。"
+    }
+   ],
+   "details": [
+    "11月17日20時，YouTube Live與官方X同步直播。",
+    "主持為平岩康佑，助手為やんやん，聲優高木裕平與創作者いたとは也將登場。",
+    "官方X的追蹤與標籤活動，有機會抽中1萬日圓的Pay。"
+   ],
+   "link": {
+    "url": "https://dengekionline.com/article/202611/94152",
+    "title": "【ナナオリLIVE】第6回公式生放送が11月17日20時より配信",
+    "site": "電撃オンライン",
+    "description": "ネットマーブルは『七つの大罪：Origin（ナナオリ）』について、11月17日（火）20時より、近日実施予定のアップデート情報などを紹介する公式WEB番組“第6回ナナオリLIVE”を生配信することを発表しました。",
+    "image": "https://cimg.kgl-systems.io/camion/files/94152/ogp_uwtq.jpg?x=1280",
+    "icon": "https://dengekionline.com/res/images/favicons/favicon.ico"
+   }
+  },
+  {
+   "label": "傭兵格雷斯",
+   "points": [
+    "PS5版25日",
+    "3850日圓",
+    "Switch 12月"
+   ],
+   "url": "https://www.4gamer.net/games/045/G104563/20261116032/",
+   "lines": [
+    {
+     "say": "傭兵格雷斯，黑羽與黃金右臂的 PS5 版，將在十一月二十五日發售。",
+     "show": "《傭兵格雷斯 黑羽與黃金右臂》PS5版，11月25日發售。"
+    },
+    {
+     "say": "售價三千八百五十日圓，也公開了主打戰鬥的新影片。",
+     "show": "售價3,850日圓，同步公開主打戰鬥的新影片。"
+    },
+    {
+     "say": "戰鬥在格狀地圖上推進，一次一行動。",
+     "show": "戰鬥在格狀地圖上推進，一次一行動。"
+    }
+   ],
+   "details": [
+    "由ライドオンジャパン推出，PS5版11月25日發售，3,850日圓（含稅）。",
+    "Nintendo Switch版12月、Steam版2027年初預定。",
+    "格狀地圖、一次一行動的回合制戰術模擬RPG。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/045/G104563/20261116032/",
+    "title": "PlayStation 5版「マーセナリーズグレイス 黒い羽根と黄金の右腕」，11月25日に発売決定。新たなPVも公開に",
+    "site": "4Gamer.net",
+    "description": "ライドオンジャパンは本日（2026年11月17日），PS5版「マーセナリーズグレイス 黒い羽根と黄金の右腕」を11月25日に発売すると発表した。価格は3850円（税込）。Switch版は12月中に，…",
+    "image": "https://www.4gamer.net/games/045/G104563/20261116032/SS/001.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "萬代自製引擎",
+   "points": [
+    "SOL-AVES",
+    "重視格鬥遊戲",
+    "對應多類型"
+   ],
+   "url": "https://gamebiz.jp/news/435559",
+   "lines": [
+    {
+     "say": "萬代南夢宮證實，正在開發自製的遊戲引擎 SOL-AVES。",
+     "show": "萬代南夢宮證實，正在開發自製遊戲引擎「SOL-AVES」。"
+    },
+    {
+     "say": "主打格鬥遊戲所需的處理速度，目標對應廣泛類型。",
+     "show": "主打格鬥遊戲所需的處理速度，目標對應廣泛類型。"
+    }
+   ],
+   "details": [
+    "在2027年3月期第2四半期財報說明會的問答中揭露。",
+    "對應格鬥動作、RPG等廣泛類型，先在集團內使用，再從實際製作中打磨。",
+    "強化開發環境，提升遊戲品質與創作者的創造力。"
+   ],
+   "link": {
+    "url": "https://gamebiz.jp/news/435559",
+    "title": "バンダイナムコ、内製ゲームエンジン「SOL-AVES」を開発…格闘アクションなど幅広いジャンルに対応、開発品質と創造性向上へ | gamebiz",
+    "site": "gamebiz【ゲームビズ】",
+    "description": "バンダイナムコグループは、ゲーム開発に活用する内製ゲームエンジン「SOL-AVES(ソルアベス)」の開発を進めている。格闘アクションやRPGなど幅広いジャンルへの対応を目指しており、まずはグループ内での活用を進める。ゲームの品質向上とクリエイターの創造性を最大限に引き出す開発環境の構築につなげる。11月10日に開催した2027年3月期第2四半期決算説明会の質疑応答でコメントした。同社によると、「…",
+    "image": "https://i3.gamebiz.jp/media/d49e5b94-a450-4011-8ef6-b89f51d5b95f.jpg",
+    "icon": "https://gamebiz.jp/favicon.ico?1793002622"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是遊戲大獎提名。俠盜獵車手六發售前，就能先看到今年的入圍名單。",
+   "show": "今天的重點是 TGA 提名。《GTA6》發售前，就能先看到今年的入圍名單。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-17",
+ "lang": "zh",
+ "seconds": 89.16,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.18,
+   "show": "早安，這裡是蜜塔 radio。11月17日、星期二的遊戲新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.43,
+   "end": 13.34,
+   "show": "今天5則：TGA 提名、NIKKE 新版本，還有萬代南夢宮的自製引擎。",
+   "part": 0
+  },
+  {
+   "start": 14.39,
+   "end": 19.31,
+   "show": "The Game Awards 2026 的提名，將在日本時間 11月18日凌晨公布。",
+   "part": 1
+  },
+  {
+   "start": 19.56,
+   "end": 25.28,
+   "show": "11月19日發售的《GTA6》也趕上截止日，具備提名資格。",
+   "part": 1
+  },
+  {
+   "start": 25.53,
+   "end": 29.0,
+   "show": "頒獎典禮在12月10日，於洛杉磯舉行。",
+   "part": 1
+  },
+  {
+   "start": 30.05,
+   "end": 36.54,
+   "show": "《勝利女神：NIKKE》新版本「SKY ON THE ROCK」，11月19日實裝。",
+   "part": 2
+  },
+  {
+   "start": 36.79,
+   "end": 40.54,
+   "show": "新SSR「スカイ」是Over the Horizon部隊的機長。",
+   "part": 2
+  },
+  {
+   "start": 41.59,
+   "end": 45.65,
+   "show": "《七大罪：Origin》今晚8點播出第6回「ナナオリLIVE」。",
+   "part": 3
+  },
+  {
+   "start": 45.9,
+   "end": 50.36,
+   "show": "將搭配實機遊玩，介紹下次更新與活動情報。",
+   "part": 3
+  },
+  {
+   "start": 51.41,
+   "end": 57.52,
+   "show": "《傭兵格雷斯 黑羽與黃金右臂》PS5版，11月25日發售。",
+   "part": 4
+  },
+  {
+   "start": 57.77,
+   "end": 62.43,
+   "show": "售價3,850日圓，同步公開主打戰鬥的新影片。",
+   "part": 4
+  },
+  {
+   "start": 62.68,
+   "end": 65.95,
+   "show": "戰鬥在格狀地圖上推進，一次一行動。",
+   "part": 4
+  },
+  {
+   "start": 67.0,
+   "end": 72.53,
+   "show": "萬代南夢宮證實，正在開發自製遊戲引擎「SOL-AVES」。",
+   "part": 5
+  },
+  {
+   "start": 72.78,
+   "end": 77.31,
+   "show": "主打格鬥遊戲所需的處理速度，目標對應廣泛類型。",
+   "part": 5
+  },
+  {
+   "start": 78.36,
+   "end": 85.4,
+   "show": "今天的重點是 TGA 提名。《GTA6》發售前，就能先看到今年的入圍名單。",
+   "part": 6
+  },
+  {
+   "start": 85.65,
+   "end": 88.16,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.39
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.39,
+   "end": 30.05
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 30.05,
+   "end": 41.59
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 41.59,
+   "end": 51.41
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 51.41,
+   "end": 67.0
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 67.0,
+   "end": 78.36
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 78.36,
+   "end": 89.16
+  }
+ ],
+ "made_at": "2026-11-17T12:43:25"
+}

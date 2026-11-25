@@ -1,0 +1,371 @@
+{
+ "title": "魔法使いの夜続編、ちいかわ190億",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月二十四日、火曜日のアニメニュースです。",
+   "show": "おはようございます、蜜塔 radio です。11月24日、火曜日的動漫新聞。"
+  },
+  {
+   "say": "今日は五本。劇場の続編と、連載の終わりです。",
+   "show": "今天5則：劇場版的續篇，還有連載的完結。"
+  }
+ ],
+ "news": [
+  {
+   "label": "魔法使いの夜、続編へ",
+   "points": [
+    "24日に発表",
+    "4日で5.2億円",
+    "27日から大型上映"
+   ],
+   "url": "https://av.watch.impress.co.jp/docs/news/2158787.html",
+   "lines": [
+    {
+     "say": "劇場アニメ魔法使いの夜の続編制作が、発表されました。",
+     "show": "劇場版《魔法使之夜》昨天宣布製作續篇。"
+    },
+    {
+     "say": "第一作は二十日に公開され、四日間で興行収入五億二千六百万円を超えました。",
+     "show": "首作20日上映，4天票房突破5.26億日圓。"
+    },
+    {
+     "say": "二十七日からはスクリーンエックスの大型上映も始まり、ユーフォーテーブルが九百八十一カットを追加します。",
+     "show": "27日起加開 ScreenX 大型上映，ufotable 追加981個鏡頭。"
+    }
+   ],
+   "details": [
+    "公開4天：動員30萬1,630人、興收5億2,613萬日圓。",
+    "ScreenX／4DX／Dolby Cinema 等 11/27 起。",
+    "北美 2027/1/29 上映。"
+   ],
+   "link": {
+    "url": "https://av.watch.impress.co.jp/docs/news/2158787.html",
+    "title": "劇場アニメ「魔法使いの夜」続編決定。公開4日間で興収5億円突破",
+    "site": "AV Watch",
+    "description": "劇場アニメーション「魔法使いの夜」の続編制作が公式Xで発表された。「現在公開中の『魔法使いの夜』をぜひ劇場のスクリーンでお楽しみください！ そして、続編へと続く今後の展開にもぜひご期待ください！」としている。",
+    "image": "https://av.watch.impress.co.jp/img/avw/list/2158/787/kv-1.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "サカモトデイズ完結",
+   "points": [
+    "284話で最終回",
+    "6年半の連載",
+    "2期は1月18日"
+   ],
+   "url": "https://www.animenewsnetwork.com/news/2026-11-22/sakamoto-days-manga-ends/.244098",
+   "lines": [
+    {
+     "say": "サカモトデイズが、今週の少年ジャンプで最終回を迎えました。",
+     "show": "《SAKAMOTO DAYS 坂本日常》在本週少年 Jump 迎來最終回。"
+    },
+    {
+     "say": "全二百八十四話、約六年にわたる連載で、累計千八百万部を突破しています。",
+     "show": "全284話、連載約6年，累計突破1800萬部。"
+    },
+    {
+     "say": "最終巻は来年四月三十日、アニメ二期は一月十八日から始まります。",
+     "show": "最終卷明年4月30日發售，動畫第2季1月18日開播。"
+    }
+   ],
+   "details": [
+    "週刊少年 Jump 2026 年第 52 號（11/24 發售）。",
+    "單行本 30 集 2027/1/4、31 集完結卷 2027/4/30。",
+    "動畫第2季 2027/1/18。"
+   ],
+   "link": {
+    "url": "https://www.animenewsnetwork.com/news/2026-11-22/sakamoto-days-manga-ends/.244098",
+    "title": "Sakamoto Days Manga Ends",
+    "site": "Anime News Network",
+    "description": "Series debuted in November 2020, with final volume shipping on April 30, 2027",
+    "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEE/cms/news.8/227062/sakamoto-days-volume-1.jpg",
+    "icon": "https://www.animenewsnetwork.com/meta/favicon.ico"
+   }
+  },
+  {
+   "label": "PSYREN、6人追加",
+   "points": [
+    "23日に発表",
+    "黒田崇矢ら",
+    "天樹院家の面々"
+   ],
+   "url": "https://www.animenewsnetwork.com/news/2026-11-23/psyren-tv-anime-adds-6-cast-members/.244142",
+   "lines": [
+    {
+     "say": "テレビアニメサイレンの追加キャスト六人が、二十三日に発表されました。",
+     "show": "電視動畫《PSYREN》23日公布6位追加聲優。"
+    },
+    {
+     "say": "黒田崇矢さんが雹堂影虎、駒田航さんがイアンを演じます。",
+     "show": "黑田崇矢飾演雹堂影虎，駒田航飾演伊安。"
+    },
+    {
+     "say": "天樹院家のカイル、シャオ、フレデリカ、マリーも、それぞれ発表されました。",
+     "show": "天樹院家的凱爾、小、芙蕾德莉卡、瑪莉也一併公布。"
+    }
+   ],
+   "details": [
+    "10/5 起每週一 23:00 於 TOKYO MX／BS11 播出。",
+    "Satelight 製作，監督小野勝巳。",
+    "Crunchyroll 全球（除日中）同步配信。"
+   ],
+   "link": {
+    "url": "https://www.animenewsnetwork.com/news/2026-11-23/psyren-tv-anime-adds-6-cast-members/.244142",
+    "title": "Psyren TV Anime Adds 6 Cast Members",
+    "site": "Anime News Network",
+    "description": "Takaya Kuroda, Wataru Komada, Mutsumi Tamura, Mitsuki Saiga, Ayana Taketatsu, Kana Ichinose join cast",
+    "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIM/cms/news.10/244142/psyren-tsuikacast.jpg",
+    "icon": "https://www.animenewsnetwork.com/meta/favicon.ico"
+   }
+  },
+  {
+   "label": "アカデミー賞、38本",
+   "points": [
+    "長編アニメ部門",
+    "日本勢7本",
+    "過去最多"
+   ],
+   "url": "https://www.animenewsnetwork.com/news/2026-11-24/all-you-need-is-kill-kaguya-grotesqqque-more-anime-confirmed-eligible-for-oscars/.244148",
+   "lines": [
+    {
+     "say": "第九十九回アカデミー賞の長編アニメ部門に、三十八本がエントリーしました。",
+     "show": "第99屆奧斯卡長篇動畫部門，共有38部作品報名。"
+    },
+    {
+     "say": "オールユーニードイズキルや、カグヤ、ガンダムの新作など、日本関連が七本入っています。",
+     "show": "《All You Need Is Kill》《宇宙公主輝夜》《鋼彈 閃光的哈薩威》等7部日本作品入列。"
+    },
+    {
+     "say": "ノミネートは来年一月二十一日、授賞式は三月十四日です。",
+     "show": "入圍名單2027年1月21日公布，頒獎典禮3月14日。"
+    }
+   ],
+   "details": [
+    "38 部為歷來最多。",
+    "日本 7 部：All You Need Is Kill、輝夜、Grotesqqque、Jinsei、Last Blossom、鋼彈、Ribbon Hero。",
+    "短名單 12/15 公布。"
+   ],
+   "link": {
+    "url": "https://www.animenewsnetwork.com/news/2026-11-24/all-you-need-is-kill-kaguya-grotesqqque-more-anime-confirmed-eligible-for-oscars/.244148",
+    "title": "All You Need Is Kill, Kaguya!, Grotesqqque, More Anime Confirmed Eligible for Oscars",
+    "site": "Anime News Network",
+    "description": "Jinsei, Last Blossom, 2nd Gundam Hathaway film, Ribbon Hero, Super Mario Galaxy Movie, Avatar Aang also eligible",
+    "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.9/232217/aynik_kv.jpg",
+    "icon": "https://www.animenewsnetwork.com/meta/favicon.ico"
+   }
+  },
+  {
+   "label": "ちいかわ、190億円",
+   "points": [
+    "公開123日",
+    "動員1306万人",
+    "歴代12位"
+   ],
+   "url": "https://mantan-web.jp/article/20261124dog00m200076000a.html",
+   "lines": [
+    {
+     "say": "映画ちいかわの人魚の島のひみつが、興行収入百九十億円を突破しました。",
+     "show": "《吉伊卡哇 人魚島的秘密》票房突破190億日圓。"
+    },
+    {
+     "say": "公開から百二十三日で、観客動員は千三百六万人に達しています。",
+     "show": "上映123天，觀影人次達1306萬。"
+    },
+    {
+     "say": "日本の歴代興行収入で十二位に入り、あのワンピース映画を超えるペースです。",
+     "show": "在日本歷代票房排名第12，速度超越《ONE PIECE FILM RED》。"
+    }
+   ],
+   "details": [
+    "公開 123 天：190.7 億日圓、1306 萬人。",
+    "歷代第 12 名。",
+    "上映第 18 週週末仍排第 6。"
+   ],
+   "link": {
+    "url": "https://mantan-web.jp/article/20261124dog00m200076000a.html",
+    "title": "映画ちいかわ 人魚の島のひみつ：興収190億円突破 1306万人動員 勢い止まらず - MANTANWEB（まんたんウェブ）",
+    "site": "MANTANWEB（まんたんウェブ）",
+    "description": "ナガノさんの人気マンガ「ちいかわ」が原作の劇場版アニメ「映画ちいかわ 人魚の島のひみつ」の興行収入が190億円を突破したことが分かった。観客動員数は1306万人を突破した。公開1…",
+    "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/24/20261124dog00m200076000a/001.jpg",
+    "icon": "https://mantan-web.jp/assets/favicons/apple-touch-icon-57x57.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、魔法使いの夜の続編です。映画が終わった瞬間に、次の約束ができました。",
+   "show": "今天的重點是《魔法使之夜》續篇。電影結束的瞬間，下一個約定就成立了。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-24",
+ "lang": "ja",
+ "seconds": 124.33,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.73,
+   "show": "おはようございます、蜜塔 radio です。11月24日、火曜日的動漫新聞。",
+   "part": 0
+  },
+  {
+   "start": 7.98,
+   "end": 12.61,
+   "show": "今天5則：劇場版的續篇，還有連載的完結。",
+   "part": 0
+  },
+  {
+   "start": 13.66,
+   "end": 18.26,
+   "show": "劇場版《魔法使之夜》昨天宣布製作續篇。",
+   "part": 1
+  },
+  {
+   "start": 18.51,
+   "end": 25.83,
+   "show": "首作20日上映，4天票房突破5.26億日圓。",
+   "part": 1
+  },
+  {
+   "start": 26.08,
+   "end": 34.74,
+   "show": "27日起加開 ScreenX 大型上映，ufotable 追加981個鏡頭。",
+   "part": 1
+  },
+  {
+   "start": 35.79,
+   "end": 40.16,
+   "show": "《SAKAMOTO DAYS 坂本日常》在本週少年 Jump 迎來最終回。",
+   "part": 2
+  },
+  {
+   "start": 40.41,
+   "end": 47.1,
+   "show": "全284話、連載約6年，累計突破1800萬部。",
+   "part": 2
+  },
+  {
+   "start": 47.35,
+   "end": 54.04,
+   "show": "最終卷明年4月30日發售，動畫第2季1月18日開播。",
+   "part": 2
+  },
+  {
+   "start": 55.09,
+   "end": 60.18,
+   "show": "電視動畫《PSYREN》23日公布6位追加聲優。",
+   "part": 3
+  },
+  {
+   "start": 60.43,
+   "end": 66.35,
+   "show": "黑田崇矢飾演雹堂影虎，駒田航飾演伊安。",
+   "part": 3
+  },
+  {
+   "start": 66.6,
+   "end": 72.45,
+   "show": "天樹院家的凱爾、小、芙蕾德莉卡、瑪莉也一併公布。",
+   "part": 3
+  },
+  {
+   "start": 73.5,
+   "end": 79.3,
+   "show": "第99屆奧斯卡長篇動畫部門，共有38部作品報名。",
+   "part": 4
+  },
+  {
+   "start": 79.55,
+   "end": 86.46,
+   "show": "《All You Need Is Kill》《宇宙公主輝夜》《鋼彈 閃光的哈薩威》等7部日本作品入列。",
+   "part": 4
+  },
+  {
+   "start": 86.71,
+   "end": 92.07,
+   "show": "入圍名單2027年1月21日公布，頒獎典禮3月14日。",
+   "part": 4
+  },
+  {
+   "start": 93.12,
+   "end": 98.98,
+   "show": "《吉伊卡哇 人魚島的秘密》票房突破190億日圓。",
+   "part": 5
+  },
+  {
+   "start": 99.23,
+   "end": 104.98,
+   "show": "上映123天，觀影人次達1306萬。",
+   "part": 5
+  },
+  {
+   "start": 105.23,
+   "end": 111.15,
+   "show": "在日本歷代票房排名第12，速度超越《ONE PIECE FILM RED》。",
+   "part": 5
+  },
+  {
+   "start": 112.2,
+   "end": 119.66,
+   "show": "今天的重點是《魔法使之夜》續篇。電影結束的瞬間，下一個約定就成立了。",
+   "part": 6
+  },
+  {
+   "start": 119.91,
+   "end": 123.33,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.66
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.66,
+   "end": 35.79
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 35.79,
+   "end": 55.09
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 55.09,
+   "end": 73.5
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 73.5,
+   "end": 93.12
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 93.12,
+   "end": 112.2
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 112.2,
+   "end": 124.33
+  }
+ ],
+ "made_at": "2026-11-24T18:41:40"
+}

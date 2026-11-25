@@ -1,0 +1,371 @@
+{
+ "title": "エクソプライマル終了、GTA6はXbox安定",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月二十五日、水曜日のゲームニュースです。",
+   "show": "早安，這裡是蜜塔 radio。11月25日、星期三的遊戲新聞。"
+  },
+  {
+   "say": "今日は五本。サービス終了と、グランドセフトオートの続報です。",
+   "show": "今天5則：服務結束的消息，還有《GTA6》的後續。"
+  }
+ ],
+ "news": [
+  {
+   "label": "エクソプライマル、終了へ",
+   "points": [
+    "27年9月30日で終了",
+    "3月31日に販売終了",
+    "発売から約4年"
+   ],
+   "url": "https://www.famitsu.com/article/202611/95032",
+   "lines": [
+    {
+     "say": "カプコンは、オンラインシューター、エクソプライマルのサービスを終了すると発表しました。",
+     "show": "卡普空宣布，線上射擊遊戲《Exoprimal》將結束服務。"
+    },
+    {
+     "say": "来年三月三十一日に販売を終了し、九月三十日の正午で遊べなくなります。",
+     "show": "2027年3月31日停止販售，9月30日中午起無法遊玩。"
+    },
+    {
+     "say": "二〇二三年七月の発売から、およそ四年での幕引きです。",
+     "show": "2023年7月上市，約4年後落幕。"
+    }
+   ],
+   "details": [
+    "日本時間 2027/3/31 10:00 停止販售。",
+    "2027/9/30 12:00 服務結束。",
+    "已購買的玩家在結束前仍可重新下載。"
+   ],
+   "link": {
+    "url": "https://www.famitsu.com/article/202611/95032",
+    "title": "『エグゾプライマル』2027年9月30日にサービス終了。カプコンのオンライン専用チーム対戦アクションが約4年で幕を下ろす | ゲーム・エンタメ最新情報のファミ通.com",
+    "site": "ファミ通.com",
+    "description": "オンライン専用のチーム対戦型マッシヴアクションゲーム『EXOPRIMAL（エグゾプライマル）』が2027年9月30日12時をもってサービス終了。ゲーム本編やDLCの提供終了日など、今後のスケジュールが発表された。",
+    "image": "https://cimg.kgl-systems.io/camion/files/95032/thumbnail_VkcK.jpg?x=1280",
+    "icon": "https://www.famitsu.com/res/images/headIcons/apple-touch-icon.png"
+   }
+  },
+  {
+   "label": "GTA6、Xboxが安定",
+   "points": [
+    "両機とも30fps",
+    "PS5は下落多め",
+    "VRRは48fpsから"
+   ],
+   "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+   "lines": [
+    {
+     "say": "デジタルファウンドリーが、ジーティーエーシックスの比較検証を公開しました。",
+     "show": "Digital Foundry 公布《GTA6》的效能比較。"
+    },
+    {
+     "say": "どちらも三十フレームですが、エックスボックスシリーズエックスの方が安定しています。",
+     "show": "兩台主機都是30幀，但 Xbox Series X 比較穩。"
+    },
+    {
+     "say": "プレステファイブは二十台後半まで落ち、可変リフレッシュレートも四十八フレーム以上でしか効きません。",
+     "show": "PS5 會掉到二十幾幀，可變更新率也要48幀以上才生效。"
+    }
+   ],
+   "details": [
+    "PS5 Pro 最穩定，其次 Series X。",
+    "基礎 PS5 與 Series X 畫質幾乎相同。",
+    "Series S 幀率更不穩，還有音訊問題。"
+   ],
+   "link": {
+    "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+    "title": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
+    "site": "Eurogamer.net",
+    "description": "Grand Theft Auto 6 sticks to its target frame-rate on Xbox Series X more often than PlayStation 5, according to a new performance report.",
+    "image": "https://assetsio.gnwcdn.com/GTA_6_Mission_List_4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "icon": "https://www.eurogamer.net/static/c41575fc95e9d08cbfab73bfcb495b59/icon/apple-touch-icon-152x152.png"
+   }
+  },
+  {
+   "label": "ウィッチャー4、ソニーと",
+   "points": [
+    "PS Plus 連携",
+    "販促で協力",
+    "発売は28年"
+   ],
+   "url": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation",
+   "lines": [
+    {
+     "say": "シーディープロジェクトレッドは、ソニーとウィッチャーフォーの販売で提携すると発表しました。",
+     "show": "CD Projekt Red 宣布，與索尼在《巫師4》的銷售上合作。"
+    },
+    {
+     "say": "プレイステーションでの展開と、プレイステーションプラスの施策、それに販売促進で協力します。",
+     "show": "雙方會在 PlayStation 的布局、PS Plus 與行銷上合作。"
+    },
+    {
+     "say": "ゲーム本体は、エックスボックスとパソコンでも発売される予定です。",
+     "show": "遊戲本身仍會在 Xbox 與 PC 推出。"
+    }
+   ],
+   "details": [
+    "Q3 財報電話會議上宣布。",
+    "《巫師4》目前目標 2028 年推出。",
+    "外界拿來與 GTA6 的 PS 行銷合作比較。"
+   ],
+   "link": {
+    "url": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation",
+    "title": "CD Projekt Red signs new marketing partnership deal with Sony for The Witcher 4, and to increase \"the presence\" of its games on PlayStation",
+    "site": "Eurogamer.net",
+    "description": "CD Projekt Red has inked a marketing agreement with Sony for The Witcher 4.",
+    "image": "https://assetsio.gnwcdn.com/Ciri-in-The-Witcher-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "icon": "https://www.eurogamer.net/static/c41575fc95e9d08cbfab73bfcb495b59/icon/apple-touch-icon-152x152.png"
+   }
+  },
+  {
+   "label": "スチームアワード開幕",
+   "points": [
+    "10周年",
+    "30日まで推薦",
+    "殿堂入り新設"
+   ],
+   "url": "https://www.gamingonlinux.com/2026/11/nominations-now-open-for-the-2026-steam-awards/",
+   "lines": [
+    {
+     "say": "スチームアワードの推薦受付が始まりました。今年は十周年です。",
+     "show": "Steam 大獎開始接受提名，今年是十週年。"
+    },
+    {
+     "say": "十一月三十日まで、十四の部門に作品を推薦できます。",
+     "show": "到11月30日為止，可以提名14個獎項。"
+    },
+    {
+     "say": "過去の受賞作から選ぶ、殿堂入りの部門も新しく加わりました。",
+     "show": "今年新增名人堂，從過去的得獎作品中選。"
+    }
+   ],
+   "details": [
+    "最終投票 12/17 開始。",
+    "結果在 2027/1/2 公布。",
+    "參加可獲得提名委員會徽章。"
+   ],
+   "link": {
+    "url": "https://www.gamingonlinux.com/2026/11/nominations-now-open-for-the-2026-steam-awards/",
+    "title": "Nominations now open for The 2026 Steam Awards",
+    "site": "GamingOnLinux",
+    "description": "The next great popularity contest is here - The 2026 Steam Awards are now open for you to nominate games across various categories.",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1084279146id30256gol_og.jpg",
+    "icon": "https://www.gamingonlinux.com//templates/default/images/favicons/favicon.ico"
+   }
+  },
+  {
+   "label": "フォールン2、来年4月へ",
+   "points": [
+    "27年4月に延期",
+    "詳細は12月",
+    "Switch2も"
+   ],
+   "url": "https://www.eurogamer.net/lords-of-the-fallen-2-delayed-april-2027",
+   "lines": [
+    {
+     "say": "ロードオブザフォールンドゥーは、発売を二〇二七年四月に変更しました。",
+     "show": "《墮落之王2》宣布延期到2027年4月。"
+    },
+    {
+     "say": "六月に続いて二度目の延期で、正確な日付は十二月に発表されます。",
+     "show": "這是6月之後第二次延期，確切日期12月公布。"
+    },
+    {
+     "say": "プレステファイブ、エックスボックス、スイッチツー、パソコンで発売予定です。",
+     "show": "預計在 PS5、Xbox、Switch 2 與 PC 推出。"
+    }
+   ],
+   "details": [
+    "原定 2026 秋季，6 月延到 2027 Q1。",
+    "CEO 在 X 上公布新窗口。",
+    "封測改到 2027 年 1 月。"
+   ],
+   "link": {
+    "url": "https://www.eurogamer.net/lords-of-the-fallen-2-delayed-april-2027",
+    "title": "Lords of the Fallen 2 has slipped into 2027, but we'll get an exact date next month",
+    "site": "Eurogamer.net",
+    "description": "Lords of the Fallen 2 will launch in April 2027, CI Games CEO Marek Tyminski has confirmed, with an exact release date coming in December.",
+    "image": "https://assetsio.gnwcdn.com/Lords-of-the-Fallen-II---Announcement-Trailer-_-PS5-Games-0-28-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "icon": "https://www.eurogamer.net/static/c41575fc95e9d08cbfab73bfcb495b59/icon/apple-touch-icon-152x152.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、エクソプライマルの終了です。四年で幕を下ろすことになりました。",
+   "show": "今天的重點是《Exoprimal》結束服務。4年就落幕了。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-25",
+ "lang": "ja",
+ "seconds": 115.65,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.67,
+   "show": "早安，這裡是蜜塔 radio。11月25日、星期三的遊戲新聞。",
+   "part": 0
+  },
+  {
+   "start": 7.92,
+   "end": 12.91,
+   "show": "今天5則：服務結束的消息，還有《GTA6》的後續。",
+   "part": 0
+  },
+  {
+   "start": 13.96,
+   "end": 19.74,
+   "show": "卡普空宣布，線上射擊遊戲《Exoprimal》將結束服務。",
+   "part": 1
+  },
+  {
+   "start": 19.99,
+   "end": 26.67,
+   "show": "2027年3月31日停止販售，9月30日中午起無法遊玩。",
+   "part": 1
+  },
+  {
+   "start": 26.92,
+   "end": 31.81,
+   "show": "2023年7月上市，約4年後落幕。",
+   "part": 1
+  },
+  {
+   "start": 32.86,
+   "end": 37.65,
+   "show": "Digital Foundry 公布《GTA6》的效能比較。",
+   "part": 2
+  },
+  {
+   "start": 37.9,
+   "end": 43.22,
+   "show": "兩台主機都是30幀，但 Xbox Series X 比較穩。",
+   "part": 2
+  },
+  {
+   "start": 43.47,
+   "end": 50.61,
+   "show": "PS5 會掉到二十幾幀，可變更新率也要48幀以上才生效。",
+   "part": 2
+  },
+  {
+   "start": 51.66,
+   "end": 57.23,
+   "show": "CD Projekt Red 宣布，與索尼在《巫師4》的銷售上合作。",
+   "part": 3
+  },
+  {
+   "start": 57.48,
+   "end": 64.2,
+   "show": "雙方會在 PlayStation 的布局、PS Plus 與行銷上合作。",
+   "part": 3
+  },
+  {
+   "start": 64.45,
+   "end": 69.23,
+   "show": "遊戲本身仍會在 Xbox 與 PC 推出。",
+   "part": 3
+  },
+  {
+   "start": 70.28,
+   "end": 75.88,
+   "show": "Steam 大獎開始接受提名，今年是十週年。",
+   "part": 4
+  },
+  {
+   "start": 76.13,
+   "end": 80.61,
+   "show": "到11月30日為止，可以提名14個獎項。",
+   "part": 4
+  },
+  {
+   "start": 80.86,
+   "end": 85.74,
+   "show": "今年新增名人堂，從過去的得獎作品中選。",
+   "part": 4
+  },
+  {
+   "start": 86.79,
+   "end": 92.0,
+   "show": "《墮落之王2》宣布延期到2027年4月。",
+   "part": 5
+  },
+  {
+   "start": 92.25,
+   "end": 97.76,
+   "show": "這是6月之後第二次延期，確切日期12月公布。",
+   "part": 5
+  },
+  {
+   "start": 98.01,
+   "end": 103.56,
+   "show": "預計在 PS5、Xbox、Switch 2 與 PC 推出。",
+   "part": 5
+  },
+  {
+   "start": 104.61,
+   "end": 110.85,
+   "show": "今天的重點是《Exoprimal》結束服務。4年就落幕了。",
+   "part": 6
+  },
+  {
+   "start": 111.1,
+   "end": 114.65,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.96
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.96,
+   "end": 32.86
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 32.86,
+   "end": 51.66
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 51.66,
+   "end": 70.28
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 70.28,
+   "end": 86.79
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 86.79,
+   "end": 104.61
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 104.61,
+   "end": 115.65
+  }
+ ],
+ "made_at": "2026-11-25T22:33:52"
+}

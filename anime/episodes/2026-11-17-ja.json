@@ -1,0 +1,301 @@
+{
+ "title": "ダイヤの功罪アニメ化、水滸伝配信",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十七日、火曜日のアニメニュースです。",
+   "show": "おはようございます、蜜塔 radio です。11月17日、火曜日のアニメニュース。"
+  },
+  {
+   "say": "今日は四本。ダイヤモンドの功罪のアニメ化から、幻想水滸伝の配信まで。",
+   "show": "今日は4本。《ダイヤモンドの功罪》動畫化到《幻想水滸伝》上線。"
+  }
+ ],
+ "news": [
+  {
+   "label": "ダイヤの功罪アニメ化",
+   "points": [
+    "ラパントラック制作",
+    "ヤンジャン連載",
+    "累計200万部"
+   ],
+   "url": "https://times.abema.tv/articles/-/10289503",
+   "lines": [
+    {
+     "say": "野球漫画、ダイヤモンドの功罪のテレビアニメ化が決まりました。",
+     "show": "棒球漫畫《ダイヤモンドの功罪》確定改編電視動畫。"
+    },
+    {
+     "say": "制作はラパントラック。ティザービジュアルと、原作者の記念イラストも公開されています。",
+     "show": "由ラパントラック製作，同步公開前導視覺與原作者紀念插圖。"
+    },
+    {
+     "say": "原作は週刊ヤングジャンプで連載中で、十巻までに二百万部を突破しています。",
+     "show": "原作在週刊Young Jump連載中，單行本10卷累計突破200萬部。"
+    }
+   ],
+   "details": [
+    "平井大橋原作，週刊ヤングジャンプ2023年2月開始連載。",
+    "10巻までで累計200万部を突破。「このマンガがすごい！2024」男性編1位。",
+    "天才投手の少年を描く、野球の成長漫画。"
+   ],
+   "link": {
+    "url": "https://times.abema.tv/articles/-/10289503",
+    "title": "『ダイヤモンドの功罪』TVアニメ化が決定！制作はラパントラック アニメ化決定ビジュアル＆原作者記念イラスト公開 | アニメニュース | アニメフリークス",
+    "site": "ANIME FREAKS",
+    "description": "人気漫画『ダイヤモンドの功罪』のTVアニメ化が決定した。あわせて、アニメ化決定ビジュアルおよび原作者によるアニメ化記念イラストが公開されたほか、メインスタッフ情報と意気込みコメントが到着した。 本作は「週刊ヤングジャンプ」（集英社）にて2023…",
+    "image": "https://times-abema.ismcdn.jp/mwimgs/3/9/1200w/img_39b6d129ab3439549db7c0639abe2c02341504.jpg",
+    "icon": "https://times-abema.ismcdn.jp/common/images/animefreaks/favicon.ico"
+   }
+  },
+  {
+   "label": "KADOKAWAアジア合弁",
+   "points": [
+    "香港とタイ",
+    "アジア配給",
+    "パンどろぼう"
+   ],
+   "url": "https://www.kadokawa.co.jp/topics/18415/",
+   "lines": [
+    {
+     "say": "カドカワと香港のメディアリンクが、香港とタイに合弁会社を作ります。",
+     "show": "KADOKAWA 與香港羚邦集團，將在香港與泰國成立合資公司。"
+    },
+    {
+     "say": "アニメの配給やグッズ展開を広げ、最初の作品はパンどろぼうです。",
+     "show": "擴大動畫發行與周邊業務，首個作品是《麵包小偷》。"
+    },
+    {
+     "say": "香港の会社はすでに十一月六日に設立されています。",
+     "show": "香港公司已於11月6日設立。"
+    }
+   ],
+   "details": [
+    "香港公司KMH已於11月6日設立，持有日本與韓國以外亞洲的發行與周邊主授權。",
+    "泰國公司KMT預定12月設立，將在曼谷大型商場開體驗型快閃店。",
+    "兩家皆為KADOKAWA過半數的出資子公司；羚邦取得香港公司40%股權。"
+   ],
+   "link": {
+    "url": "https://www.kadokawa.co.jp/topics/18415/",
+    "title": "KADOKAWAとMedialink、香港・タイにおける合弁会社設立で合意 | KADOKAWA",
+    "site": "KADOKAWAオフィシャルサイト",
+    "description": "KADOKAWAとMedialink、香港・タイにおける合弁会社設立で合意",
+    "image": "https://static.kadokawa.co.jp/assets/img/ogp.png",
+    "icon": "https://static.kadokawa.co.jp/common/img/favicon.ico"
+   }
+  },
+  {
+   "label": "水滸伝アニメ配信",
+   "points": [
+    "17日から",
+    "7話一挙",
+    "毎週火曜"
+   ],
+   "url": "https://ovicio.com.br/suikoden-saiba-quando-o-anime-baseado-no-jogo-estreia-na-crunchyroll/",
+   "lines": [
+    {
+     "say": "幻想水滸伝のアニメが、十七日からクランチロールで配信されます。",
+     "show": "《幻想水滸伝》動畫自11月17日起，在Crunchyroll上線。"
+    },
+    {
+     "say": "最初の七話が一挙に公開され、八話以降は毎週火曜日に追加されます。",
+     "show": "最初7話一次上架，第8話起每週二更新。"
+    },
+    {
+     "say": "十月からユーチューブで、英語字幕版が先に配信されていました。",
+     "show": "10月起已在YouTube以英文字幕先行播出。"
+    }
+   ],
+   "details": [
+    "KONAMI animation製作，監督為YUZO，改編自《幻想水滸伝II》。",
+    "10月6日起已在YouTube以英文字幕先行播出。",
+    "11月17日起一舉上架7話，之後每週二追加新集。"
+   ],
+   "link": {
+    "url": "https://ovicio.com.br/suikoden-saiba-quando-o-anime-baseado-no-jogo-estreia-na-crunchyroll/",
+    "title": "Suikoden: Saiba quando o anime baseado no jogo estreia na Crunchyroll",
+    "site": "O Vício",
+    "description": "A Crunchyroll anunciou que exibirá Suikoden: The Anime, baseado no jogo Suikoden II. Os 7 primeiros episódios estão chegando ao catálogo.",
+    "image": "https://ovicio.com.br/wp-content/uploads/2026/11/20261111-suikoden-the-anime-poster-ovicio.webp",
+    "icon": "https://ovicio.com.br/wp-content/uploads/2026/07/20260702-ovicio-96x96.png"
+   }
+  },
+  {
+   "label": "オロチ Pilot公開",
+   "points": [
+    "なかむらたかし監督",
+    "BLUE RIGHTS",
+    "公開時期未定"
+   ],
+   "url": "https://anime.eiga.com/news/127871/",
+   "lines": [
+    {
+     "say": "なかむらたかし監督のオリジナル長編、オロチ、セブンスエコーズのパイロット映像が公開されました。",
+     "show": "なかむらたかし執導的原創長片《オロチ -Seventh Echoes-》，公開前導影片。"
+    },
+    {
+     "say": "音に支えられた国を舞台に、少年が千年ぶりに目覚める災いと向き合う物語です。",
+     "show": "故事以聲音支撐的國度為舞台，少年面對沉睡千年後甦醒的災厄。"
+    }
+   ],
+   "details": [
+    "約2分のパイロット映像。主題歌はneNnaの「Zankyo」。",
+    "キャラクターデザインは松竹徳幸、美術監督は橋本和行。",
+    "アニメーション制作は2024年設立のBLUE RIGHTS。公開時期は未定。"
+   ],
+   "link": {
+    "url": "https://anime.eiga.com/news/127871/",
+    "title": "なかむらたかし監督のオリジナル長編アニメ「オロチ -Seventh Echoes-」パイロットフィルム公開",
+    "site": "アニメハック",
+    "description": "なかむらたかし監督のオリジナル長編アニメーション映画「オロチ -Seventh Echoes-」のパイロットフィルム（https://www.youtube.com/watch?v=p4TQLRaQZH4）が公開された。 同作は、音の...",
+    "image": "https://media.eiga.com/images/anime/news/127871/photo/136389d4acd99113/640.jpg",
+    "icon": "https://media.eiga.com/anime/images/common/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、ダイヤモンドの功罪。野球漫画の新しいアニメが動き出します。",
+   "show": "今天的重點是《ダイヤモンドの功罪》。棒球漫畫的新動畫開始啟動了。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-17",
+ "lang": "ja",
+ "seconds": 94.32,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.55,
+   "show": "おはようございます、蜜塔 radio です。11月17日、火曜日のアニメニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.8,
+   "end": 14.36,
+   "show": "今日は4本。《ダイヤモンドの功罪》動畫化到《幻想水滸伝》上線。",
+   "part": 0
+  },
+  {
+   "start": 15.41,
+   "end": 19.79,
+   "show": "棒球漫畫《ダイヤモンドの功罪》確定改編電視動畫。",
+   "part": 1
+  },
+  {
+   "start": 20.04,
+   "end": 27.07,
+   "show": "由ラパントラック製作，同步公開前導視覺與原作者紀念插圖。",
+   "part": 1
+  },
+  {
+   "start": 27.32,
+   "end": 33.92,
+   "show": "原作在週刊Young Jump連載中，單行本10卷累計突破200萬部。",
+   "part": 1
+  },
+  {
+   "start": 34.97,
+   "end": 40.27,
+   "show": "KADOKAWA 與香港羚邦集團，將在香港與泰國成立合資公司。",
+   "part": 2
+  },
+  {
+   "start": 40.52,
+   "end": 45.69,
+   "show": "擴大動畫發行與周邊業務，首個作品是《麵包小偷》。",
+   "part": 2
+  },
+  {
+   "start": 45.94,
+   "end": 50.09,
+   "show": "香港公司已於11月6日設立。",
+   "part": 2
+  },
+  {
+   "start": 51.14,
+   "end": 56.03,
+   "show": "《幻想水滸伝》動畫自11月17日起，在Crunchyroll上線。",
+   "part": 3
+  },
+  {
+   "start": 56.28,
+   "end": 62.19,
+   "show": "最初7話一次上架，第8話起每週二更新。",
+   "part": 3
+  },
+  {
+   "start": 62.44,
+   "end": 67.01,
+   "show": "10月起已在YouTube以英文字幕先行播出。",
+   "part": 3
+  },
+  {
+   "start": 68.06,
+   "end": 75.32,
+   "show": "なかむらたかし執導的原創長片《オロチ -Seventh Echoes-》，公開前導影片。",
+   "part": 4
+  },
+  {
+   "start": 75.57,
+   "end": 82.33,
+   "show": "故事以聲音支撐的國度為舞台，少年面對沉睡千年後甦醒的災厄。",
+   "part": 4
+  },
+  {
+   "start": 83.38,
+   "end": 89.73,
+   "show": "今天的重點是《ダイヤモンドの功罪》。棒球漫畫的新動畫開始啟動了。",
+   "part": 5
+  },
+  {
+   "start": 89.98,
+   "end": 93.32,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 15.41
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 15.41,
+   "end": 34.97
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 34.97,
+   "end": 51.14
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 51.14,
+   "end": 68.06
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 68.06,
+   "end": 83.38
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 83.38,
+   "end": 94.32
+  }
+ ],
+ "made_at": "2026-11-17T12:24:41"
+}

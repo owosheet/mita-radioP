@@ -1,0 +1,329 @@
+{
+ "title": "星神アッハ降臨、ゼンゼロコラボも熱狂",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月九日、月曜日の朝のニュースです。",
+   "show": "おはようございます、蜜塔ラジオです。11月9日、月曜日の朝のニュース。"
+  },
+  {
+   "say": "今日は五本、ほしがみアッハからゼンゼロ、げんしんの新キャラまでお届けします。",
+   "show": "今日は5本、星神アッハからゼンゼロ、原神の新キャラまで。"
+  }
+ ],
+ "news": [
+  {
+   "label": "スターレイル4.7",
+   "points": [
+    "11月11日配信",
+    "初の星神アッハ",
+    "二相楽園編の最終章"
+   ],
+   "url": "https://www.4gamer.net/games/599/G059954/20261030055/",
+   "lines": [
+    {
+     "say": "まずはスターレイル。バージョン四点七が、十一月十一日に配信されます。にそうらくえんへんの最終章です。",
+     "show": "まずはスターレイル。Ver.4.7が11月11日に配信。二相楽園編の最終章。"
+    },
+    {
+     "say": "初のプレイアブルほしがみ、アッハが登場。愉悦の運命を操る星5キャラです。",
+     "show": "初のプレイアブル星神アッハが登場。愉悦の運命を操る星5。"
+    }
+   ],
+   "details": [
+    "アッハは声を戸松遥さんが担当。イベントでは黄泉、丹恒・飲月、景元から1人を選べます。",
+    "新育成システム「奇縁星魂」や、マネーウォーズのシーズン2も実装されます。",
+    "横浜市とのコラボ「スターレイル開拓ゲーム in 横浜」は11月10日までです。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/599/G059954/20261030055/",
+    "title": "「崩壊：スターレイル」Ver.4.7，11月11日配信。星神★アッハが参戦し，黄泉など3人から1人を獲得できるイベントが開催",
+    "site": "4Gamer.net",
+    "description": "HoYoverseは本日（2026年10月30日），スペースファンタジーRPG「崩壊：スターレイル」のVer.4.7「いま、群星は笑いに包まれる」を11月11日にリリースすると発表した。星神★アッハ…",
+    "image": "https://www.4gamer.net/games/599/G059954/20261030055/SS/006.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "ゼンゼロ×スターレイル",
+   "points": [
+    "ロビンとカフカ参戦",
+    "Ver.3.4で新エージェント",
+    "PVは378万再生"
+   ],
+   "url": "https://x.com/ZZZ_JP/status/2118916356259389830",
+   "lines": [
+    {
+     "say": "続いてはゼンゼロ。スターレイルとのコラボが、まもなく開催されます。楽しみですね。",
+     "show": "続いてはゼンゼロ。スターレイルとのコラボが間近。"
+    },
+    {
+     "say": "バージョン三点四では、ロビンとカフカが新しいエージェントとして参戦します。公式ピーブイは大反響です。",
+     "show": "Ver.3.4でロビンとカフカが新エージェントに。公式PVは大反響。"
+    }
+   ],
+   "details": [
+    "公式XのPV「未知なる通信」は、約378万再生を記録しています。",
+    "コラボの開催日はまだ発表されていません。",
+    "ロビンとカフカの属性や戦い方は、続報待ちです。"
+   ],
+   "link": {
+    "url": "https://nijimen.kusuguru.co.jp/topics/651582",
+    "title": "「ゼンレスゾーンゼロ」Ver.3.4でロビンとカフカが新エージェントに！PV「未知なる通信」公開、『崩壊：スターレイル』コラボもまもなく",
+    "site": "にじめん",
+    "description": "『ゼンレスゾーンゼロ』Ver.3.4でロビンとカフカが新エージェントとして登場！PV「未知なる通信」が公開され、『崩壊：スターレイル』コラボもまもなく開催されます。",
+    "image": null,
+    "icon": null,
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/ZZZ_JP/status/2118916356259389830"
+   }
+  },
+  {
+   "label": "セヴェリアン実装",
+   "points": [
+    "3.3後半、11月11日",
+    "S級エージェント",
+    "新コスチュームも"
+   ],
+   "url": "https://game8.co/games/Zenless-Zone-Zero/archives/630805",
+   "lines": [
+    {
+     "say": "ゼンゼロでは、十一月十一日からセヴェリアンがエス級エージェントとして登場します。限定バナーは十二月一日まで。",
+     "show": "ゼンゼロ、11月11日からセヴェリアンがS級で登場。12月1日まで。"
+    },
+    {
+     "say": "新コスチュームの映像も公開され、今日だけで百三十万再生を超えました。",
+     "show": "新コスチュームの映像は、今日だけで131万再生。"
+    }
+   ],
+   "details": [
+    "3.3後半の限定バナーは、11月11日から12月1日までです。",
+    "専用の音動機「罪捕らえる牢獄」も同時に登場します。",
+    "コスチューム「威厳、侵すべからず」も11月11日から。"
+   ],
+   "link": {
+    "url": "https://game8.co/games/Zenless-Zone-Zero/archives/630805",
+    "title": "Severian Banner Release Date and Schedule | Zenless Zone Zero (ZZZ)｜Game8",
+    "site": "Game8｜The Top Gaming and App Walkthroughs Straight from Japan!",
+    "description": "Answers in the Wind is an exclusive Signal Search Channel for Severian in Zenless Zone Zero (ZZZ). Find out the Severian Banner release date, all character drops, and all W-Engine drops in this guide!",
+    "image": "https://img.game8.co/4645352/c0ae7aaf37cb69a52737c050a9dce6b2.png/show",
+    "icon": "https://assets.game8.jp/favicon/favicon.ico"
+   }
+  },
+  {
+   "label": "原神 ダニカ登場",
+   "points": [
+    "宮廷メイド長",
+    "ベジェニツカヤ家三代目",
+    "464万再生"
+   ],
+   "url": "https://x.com/Genshin_7/status/2118916353574715817",
+   "lines": [
+    {
+     "say": "げんしんでは、新キャラクターのダニカが公開されました。スネージナヤパレスの宮廷メイド長です。",
+     "show": "原神、新キャラクターのダニカが公開。スネージナヤパレスの宮廷メイド長。"
+    },
+    {
+     "say": "ベジェニツカヤ家の三代目で、公式投稿は四百六十四万再生を超えています。",
+     "show": "ベジェニツカヤ家の三代目。公式投稿は464万再生。"
+    }
+   ],
+   "details": [
+    "時計のように正確に、影のように寡黙に、宮殿全体の清潔と秩序を保っています。",
+    "次期バージョン7.3での登場予定です。",
+    "同じ7.3では、アナスタシアも発表されています。"
+   ],
+   "link": {
+    "url": "https://game8.co/games/Genshin-Impact/archives/637828",
+    "title": "Version 7.3 Release Date and Characters | Genshin Impact｜Game8",
+    "site": "Game8",
+    "description": "Genshin Impact Version 7.3 releases on December 16, 2026. Anastasya and Danica have been announced as new characters.",
+    "image": null,
+    "icon": null,
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/Genshin_7/status/2118916353574715817"
+   }
+  },
+  {
+   "label": "ミティヤ観察記録",
+   "points": [
+    "天才だがサボり魔",
+    "新人研究員が観察",
+    "82万再生"
+   ],
+   "url": "https://x.com/Genshin_7/status/2119278741402636717",
+   "lines": [
+    {
+     "say": "最後はげんしんから。天才でありながら、類まれなサボり魔、ミティヤ顧問の観察記録です。",
+     "show": "最後は原神、ミティヤ顧問の観察記録。"
+    },
+    {
+     "say": "新人研究員の目線で、彼の素顔が描かれています。公式投稿は八十二万再生です。",
+     "show": "新人研究員の目線で素顔を公開。公式投稿は82万再生。"
+    }
+   ],
+   "details": [
+    "ミティヤは類まれなる天才ですが、学者の中でも類まれなサボり魔でもあります。",
+    "入ったばかりの新人は、ついつい彼のことが気になってしまうそうです。",
+    "観察記録は画像4枚で公開されています。"
+   ],
+   "link": {
+    "url": "https://x.com/Genshin_7/status/2119278741402636717",
+    "title": "Xユーザーの原神（Genshin）公式（@Genshin_7）さん",
+    "site": "X (formerly Twitter)",
+    "description": "【ミティヤ顧問の観察記録】 ミティヤは類まれなる天才ですが、学者の中でも類まれなるサボり魔でもあります。 そのせいか、入ったばかりの新人は、ついつい彼のことが気になってしまうようです… そんな新人研究員による彼の観察記録を一緒に見てみましょう！ #原神 #ミティヤ",
+    "image": "https://pbs.twimg.com/media/HWhA7LhX0AENPhS?format=webp&name=large",
+    "icon": "https://x.com/apple-touch-icon.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目はスターレイル。初のほしがみアッハ、どんな戦い方をするのか楽しみですね。",
+   "show": "今日の注目はスターレイル。初の星神アッハに注目。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上、蜜塔ラジオでした。また明日。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-09",
+ "lang": "ja",
+ "seconds": 117.15,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.33,
+   "show": "おはようございます、蜜塔ラジオです。11月9日、月曜日の朝のニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.58,
+   "end": 14.68,
+   "show": "今日は5本、星神アッハからゼンゼロ、原神の新キャラまで。",
+   "part": 0
+  },
+  {
+   "start": 15.73,
+   "end": 25.68,
+   "show": "まずはスターレイル。Ver.4.7が11月11日に配信。二相楽園編の最終章。",
+   "part": 1
+  },
+  {
+   "start": 25.93,
+   "end": 32.96,
+   "show": "初のプレイアブル星神アッハが登場。愉悦の運命を操る星5。",
+   "part": 1
+  },
+  {
+   "start": 34.01,
+   "end": 41.2,
+   "show": "続いてはゼンゼロ。スターレイルとのコラボが間近。",
+   "part": 2
+  },
+  {
+   "start": 41.45,
+   "end": 51.11,
+   "show": "Ver.3.4でロビンとカフカが新エージェントに。公式PVは大反響。",
+   "part": 2
+  },
+  {
+   "start": 52.16,
+   "end": 62.91,
+   "show": "ゼンゼロ、11月11日からセヴェリアンがS級で登場。12月1日まで。",
+   "part": 3
+  },
+  {
+   "start": 63.16,
+   "end": 69.86,
+   "show": "新コスチュームの映像は、今日だけで131万再生。",
+   "part": 3
+  },
+  {
+   "start": 70.91,
+   "end": 79.32,
+   "show": "原神、新キャラクターのダニカが公開。スネージナヤパレスの宮廷メイド長。",
+   "part": 4
+  },
+  {
+   "start": 79.57,
+   "end": 86.7,
+   "show": "ベジェニツカヤ家の三代目。公式投稿は464万再生。",
+   "part": 4
+  },
+  {
+   "start": 87.75,
+   "end": 96.05,
+   "show": "最後は原神、ミティヤ顧問の観察記録。",
+   "part": 5
+  },
+  {
+   "start": 96.3,
+   "end": 104.26,
+   "show": "新人研究員の目線で素顔を公開。公式投稿は82万再生。",
+   "part": 5
+  },
+  {
+   "start": 105.31,
+   "end": 113.21,
+   "show": "今日の注目はスターレイル。初の星神アッハに注目。",
+   "part": 6
+  },
+  {
+   "start": 113.46,
+   "end": 116.15,
+   "show": "以上、蜜塔ラジオでした。また明日。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 15.73
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 15.73,
+   "end": 34.01
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 34.01,
+   "end": 52.16
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 52.16,
+   "end": 70.91
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 70.91,
+   "end": 87.75
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 87.75,
+   "end": 105.31
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 105.31,
+   "end": 117.15
+  }
+ ],
+ "made_at": "2026-11-10T01:54:17"
+}

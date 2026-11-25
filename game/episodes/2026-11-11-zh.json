@@ -1,0 +1,321 @@
+{
+ "title": "Devolver 首款 AAA 是自動戰鬥，漫威新賽季登場",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔電台。十一月十一日，星期三的遊戲新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月11日，星期三的遊戲新聞。"
+  },
+  {
+   "say": "今天有五則，從 Devolver 的「首款 AAA」，到漫威新賽季。",
+   "show": "今天有5則，從 Devolver 的「首款 AAA」到漫威新賽季。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Devolver 首款 AAA",
+   "points": [
+    "《All Army Attack》",
+    "2027 年 PC 發售",
+    "11/16 起體驗版"
+   ],
+   "url": "https://www.thesixthaxis.com/2026/11/10/devolver-aaa-game-all-army-attack/",
+   "lines": [
+    {
+     "say": "首先是 Devolver。他們發表了號稱首款 AAA 的作品，《All Army Attack》。",
+     "show": "首先是 Devolver。發表號稱首款 AAA 的作品《All Army Attack》。"
+    },
+    {
+     "say": "其實這是名稱頭文字梗。BlackLight 的自動戰鬥 roguelike，2027 年 PC 推出，11/16 起體驗版。",
+     "show": "其實是名稱頭文字梗。BlackLight Games 的自動戰鬥 roguelike，2027 年 PC 推出，11月16日起體驗版。"
+    }
+   ],
+   "details": [
+    "「AAA」是 All Army Attack 的頭文字，不是三 A 大作。",
+    "11月16日至23日配合 Steam Auto-Battler Fest 推出體驗版。",
+    "動物與植物組成軍隊，對抗宇宙威脅，用卡牌編成部隊。"
+   ],
+   "link": {
+    "url": "https://www.thesixthaxis.com/2026/11/10/devolver-aaa-game-all-army-attack/",
+    "title": "Roguelite auto-battler All Army Attack is Devolver's \"first AAA game\" | TheSixthAxis",
+    "site": "TheSixthAxis",
+    "description": "Yes, yes, Devolver, we see what you did here. Teasing their \"first AAA game\" yesterday was always going to be some kind of daft joke or pun, and that's",
+    "image": "https://www.thesixthaxis.com/wp-content/uploads/2026/11/AllArmyAttack-hero500.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "Shift Up 減益",
+   "points": [
+    "營業利益減 58.2%",
+    "《Project Spirits》",
+    "發表延到 2027"
+   ],
+   "url": "http://www.gamespark.jp/article/2026/11/10/174724.html",
+   "lines": [
+    {
+     "say": "接著是 Shift Up。第三季營業利益兩百零七億韓元，比去年同期減少百分之五十八點二。",
+     "show": "接著是 Shift Up。第3季營業利益207億韓元，年減58.2%。"
+    },
+    {
+     "say": "新作《Project Spirits》的發表，為了避開年末大作潮，延期到 2027 年。",
+     "show": "新作《Project Spirits》發表延到2027年，避開年末大作潮。"
+    }
+   ],
+   "details": [
+    "營收462億韓元，年減38.8%；營業利益207億韓元，年減58.2%。",
+    "《NIKKE》與《Stellar Blade》的營收都低於去年同期。",
+    "《Project Spirits》使用 Unreal Engine 5，發表時程仍在重新評估。"
+   ],
+   "link": {
+    "url": "http://www.gamespark.jp/article/2026/11/10/174724.html",
+    "title": "SHIFT UP次期主力タイトル『Project Spirits』2026年内の発表は延期か―新作発売スケジュールを踏まえて見直し | Game*Spark - 国内・海外ゲーム情報サイト",
+    "site": "Game*Spark - 国内・海外ゲーム情報サイト",
+    "description": "新作『Stellar Blade: BLOOD RAIN』は段階的な情報公開を予定―三上真司氏率いるUNBOUNDにも言及",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1217959.webp",
+    "icon": "http://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "OVERKILL 進中國",
+   "points": [
+    "Nexon × 騰訊",
+    "中國發行契約",
+    "發售日後公布"
+   ],
+   "url": "https://esportstw.com/2026/11/727424/",
+   "lines": [
+    {
+     "say": "再來是 Nexon。子公司 Neople 與騰訊簽下《Project OVERKILL》的中國發行契約。",
+     "show": "再來是 Nexon。子公司 Neople 與騰訊簽下《Project OVERKILL》中國發行契約。"
+    },
+    {
+     "say": "這是《DNF》世界觀的線上動作 RPG，中國上市時間之後才會公布。",
+     "show": "《DNF》世界觀的線上動作 RPG，中國上市時間後續公布。"
+    }
+   ],
+   "details": [
+    "《Project OVERKILL》以 Unreal Engine 4 開發，是 PC 平台作品。",
+    "Nexon 表示，這是 DNF 與騰訊合作關係的延伸。",
+    "中國服務的開始時間未定。"
+   ],
+   "link": {
+    "url": "https://esportstw.com/2026/11/727424/",
+    "title": "《Project OVERKILL》進軍中國市場 樂線與騰訊達成發行合作 | 台灣電競新聞",
+    "site": "台灣電競新聞",
+    "description": "樂線株式會社（NEXON）宣布，旗下子公司 NEOPLE INC. 已與騰訊簽署新發行合約，將在中國推出以《地下城與勇士》世界觀為舞台的線上動作 RPG《Project OVERKILL》。雙方將攜手針對中國市場打造深度在地化的 PC 平台版本，具體上線時程則預計於日後另行公布。",
+    "image": "https://i1.wp.com/prcdn.freetls.fastly.net/release_image/14847/556/14847-556-21435dae5f4ea98bd5495a93366c0c10-3900x1658.jpg?resize=1200,630",
+    "icon": "https://esportstw.com/site/favicon-256x256.png?v=20261109a"
+   }
+  },
+  {
+   "label": "Golden Joystick 2026",
+   "points": [
+    "11/12 凌晨 3 點",
+    "日文字幕直播",
+    "《惡靈古堡》入圍"
+   ],
+   "url": "https://gamerszone.jp/post/38775",
+   "lines": [
+    {
+     "say": "接著是 Golden Joystick 大獎。第 44 屆頒獎典禮，日本時間明天凌晨三點直播。",
+     "show": "接著是 Golden Joystick Awards。第44屆頒獎典禮，日本時間11月12日凌晨3點直播。"
+    },
+    {
+     "say": "年度最佳遊戲入圍包括《惡靈古堡 安魂曲》等作品，Niconico 會有日文字幕。",
+     "show": "年度最佳遊戲入圍包括《惡靈古堡 安魂曲》等作品，Niconico 有日文字幕。"
+    }
+   ],
+   "details": [
+    "頒獎典禮在倫敦舉行，日本時間11月12日凌晨3點直播。",
+    "《惡靈古堡 安魂曲》入圍年度最佳遊戲。",
+    "主持人是 Alix Wilton Regan。"
+   ],
+   "link": {
+    "url": "https://gamerszone.jp/post/38775",
+    "title": "『バイオハザード レクイエム』が最高賞にノミネート！世界最長のゲーム賞、11月12日にニコ生で日本語字幕付き生放送 | GAMERS ZONE",
+    "site": "GAMERS ZONE",
+    "description": "GAMERS ZONEは、eスポーツブームを受けて「ゲーム」が当たり前に日常にある新しい世界を楽しむための、まったく新しいゲームメディアです。PCからモバイルまでありとあらゆるゲームの最新情報、文化、トレンド、eスポーツの話題などなど、「ゲーム」にまつわるあらゆる情報を通して、より「ゲーム」を楽しめるような世界を提供していきます。",
+    "image": "https://gamerszone.jp/images/upload/2026/11/334b57eee3b2fde88a7138112bcf1b3b.jpg",
+    "icon": "https://gamerszone.jp/images/favicons/favicon.ico?t=1760056555"
+   }
+  },
+  {
+   "label": "Marvel Rivals S11",
+   "points": [
+    "11/13 開季",
+    "Nightcrawler 參戰",
+    "Dracula 季中登場"
+   ],
+   "url": "https://www.destructoid.com/marvel-rivals-season-11-patch-notes/",
+   "lines": [
+    {
+     "say": "最後是《Marvel Rivals》。第 11 賽季「Doomsday」在 11 月 13 日開跑。",
+     "show": "最後是《Marvel Rivals》。第11賽季「Doomsday」11月13日開跑。"
+    },
+    {
+     "say": "新英雄是 Nightcrawler，賽季中期還會有 Dracula 參戰。",
+     "show": "新英雄是 Nightcrawler，賽季中期還會有 Dracula 參戰。"
+    }
+   ],
+   "details": [
+    "第11賽季以紐約與 Nueva York 衝突的 Incursion 為主題。",
+    "Nightcrawler 是第55位英雄、第13位 Strategist。",
+    "Dracula 預計在 11.5 賽季登場。"
+   ],
+   "link": {
+    "url": "https://www.destructoid.com/marvel-rivals-season-11-patch-notes/",
+    "title": "Marvel Rivals' Doomsday-themed season 11 brings Nightcrawler into the fold, and Dracula soon",
+    "site": "Destructoid",
+    "description": "Season 11 of Marvel Rivals adds Nightcrawler first and then Dracula, not Doctor Doom like leaks suggested, coming in December.",
+    "image": "https://www.destructoid.com/wp-content/uploads/2026/11/image-2026-11-10T110100.650.jpg",
+    "icon": "https://www.destructoid.com/wp-content/uploads/2026/01/cropped-favicon.webp?fit=32%2C32"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點，當然是 Devolver 的「首款 AAA」。用名字頭文字自稱大作，很有他們的風格。",
+   "show": "今天重點當然是 Devolver 的「首款 AAA」。用名字頭文字自稱大作，很有他們的風格。"
+  },
+  {
+   "say": "以上，蜜塔電台。我們明天見。",
+   "show": "以上，蜜塔 radio。我們明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-11",
+ "lang": "zh",
+ "seconds": 97.35,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.34,
+   "show": "早安，這裡是蜜塔 radio。11月11日，星期三的遊戲新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.59,
+   "end": 11.64,
+   "show": "今天有5則，從 Devolver 的「首款 AAA」到漫威新賽季。",
+   "part": 0
+  },
+  {
+   "start": 12.69,
+   "end": 18.98,
+   "show": "首先是 Devolver。發表號稱首款 AAA 的作品《All Army Attack》。",
+   "part": 1
+  },
+  {
+   "start": 19.23,
+   "end": 28.58,
+   "show": "其實是名稱頭文字梗。BlackLight Games 的自動戰鬥 roguelike，2027 年 PC 推出，11月16日起體驗版。",
+   "part": 1
+  },
+  {
+   "start": 29.63,
+   "end": 37.09,
+   "show": "接著是 Shift Up。第3季營業利益207億韓元，年減58.2%。",
+   "part": 2
+  },
+  {
+   "start": 37.34,
+   "end": 44.17,
+   "show": "新作《Project Spirits》發表延到2027年，避開年末大作潮。",
+   "part": 2
+  },
+  {
+   "start": 45.22,
+   "end": 52.19,
+   "show": "再來是 Nexon。子公司 Neople 與騰訊簽下《Project OVERKILL》中國發行契約。",
+   "part": 3
+  },
+  {
+   "start": 52.44,
+   "end": 58.23,
+   "show": "《DNF》世界觀的線上動作 RPG，中國上市時間後續公布。",
+   "part": 3
+  },
+  {
+   "start": 59.28,
+   "end": 66.61,
+   "show": "接著是 Golden Joystick Awards。第44屆頒獎典禮，日本時間11月12日凌晨3點直播。",
+   "part": 4
+  },
+  {
+   "start": 66.86,
+   "end": 73.53,
+   "show": "年度最佳遊戲入圍包括《惡靈古堡 安魂曲》等作品，Niconico 有日文字幕。",
+   "part": 4
+  },
+  {
+   "start": 74.58,
+   "end": 80.03,
+   "show": "最後是《Marvel Rivals》。第11賽季「Doomsday」11月13日開跑。",
+   "part": 5
+  },
+  {
+   "start": 80.28,
+   "end": 84.95,
+   "show": "新英雄是 Nightcrawler，賽季中期還會有 Dracula 參戰。",
+   "part": 5
+  },
+  {
+   "start": 86.0,
+   "end": 93.38,
+   "show": "今天重點當然是 Devolver 的「首款 AAA」。用名字頭文字自稱大作，很有他們的風格。",
+   "part": 6
+  },
+  {
+   "start": 93.63,
+   "end": 96.35,
+   "show": "以上，蜜塔 radio。我們明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.69
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.69,
+   "end": 29.63
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 29.63,
+   "end": 45.22
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 45.22,
+   "end": 59.28
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 59.28,
+   "end": 74.58
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 74.58,
+   "end": 86.0
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 86.0,
+   "end": 97.35
+  }
+ ],
+ "made_at": "2026-11-11T09:15:24"
+}

@@ -1,0 +1,329 @@
+{
+ "title": "星神阿哈降臨，絕區零聯動沸騰",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔電台。十一月九日，星期一的晨間新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月9日，星期一的晨間新聞。"
+  },
+  {
+   "say": "今天有五則新聞，從星神阿哈到絕區零，還有原神的新角色。",
+   "show": "今天有 5 則，從星神阿哈到絕區零、原神新角色。"
+  }
+ ],
+ "news": [
+  {
+   "label": "星穹鐵道 4.7",
+   "points": [
+    "11月11日上線",
+    "首位星神阿哈",
+    "二相樂園篇最終章"
+   ],
+   "url": "https://www.4gamer.net/games/599/G059954/20261030055/",
+   "lines": [
+    {
+     "say": "首先是星穹鐵道。版本四點七將在十一月十一日上線，這是二相樂園篇的最終章。",
+     "show": "首先是星穹鐵道。Ver.4.7 於 11 月 11 日上線，二相樂園篇最終章。"
+    },
+    {
+     "say": "首位可操作的星神阿哈登場，是操控歡愉命途的五星角色。",
+     "show": "首位可操作星神阿哈登場，操控歡愉命途的五星角色。"
+    }
+   ],
+   "details": [
+    "阿哈由戶松遙配音。活動中可從黃泉、丹恆・飲月、景元中選一位。",
+    "新養成系統「奇緣星魂」與金錢大戰第二賽季也會實裝。",
+    "與橫濱市合作的「星穹鐵道開拓遊戲 in 橫濱」將舉辦到 11 月 10 日。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/599/G059954/20261030055/",
+    "title": "「崩壊：スターレイル」Ver.4.7，11月11日配信。星神★アッハが参戦し，黄泉など3人から1人を獲得できるイベントが開催",
+    "site": "4Gamer.net",
+    "description": "HoYoverseは本日（2026年10月30日），スペースファンタジーRPG「崩壊：スターレイル」のVer.4.7「いま、群星は笑いに包まれる」を11月11日にリリースすると発表した。星神★アッハ…",
+    "image": "https://www.4gamer.net/games/599/G059954/20261030055/SS/006.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "絕區零×星穹鐵道",
+   "points": [
+    "知更鳥與卡芙卡參戰",
+    "Ver.3.4 新代理人",
+    "PV 378 萬播放"
+   ],
+   "url": "https://x.com/ZZZ_JP/status/2118916356259389830",
+   "lines": [
+    {
+     "say": "接著是絕區零。與星穹鐵道的聯動即將開跑，真令人期待。",
+     "show": "接著是絕區零，與星穹鐵道的聯動即將登場。"
+    },
+    {
+     "say": "版本三點四中，知更鳥與卡芙卡將作為新代理人參戰，官方影片反響熱烈。",
+     "show": "Ver.3.4 知更鳥、卡芙卡成為新代理人，官方 PV 大受歡迎。"
+    }
+   ],
+   "details": [
+    "官方 X 的 PV「未知的通訊」已創下約 378 萬播放。",
+    "聯動的舉辦日期尚未公布。",
+    "知更鳥與卡芙卡的屬性與戰鬥方式，仍待後續消息。"
+   ],
+   "link": {
+    "url": "https://nijimen.kusuguru.co.jp/topics/651582",
+    "title": "「ゼンレスゾーンゼロ」Ver.3.4でロビンとカフカが新エージェントに！PV「未知なる通信」公開、『崩壊：スターレイル』コラボもまもなく",
+    "site": "にじめん",
+    "description": "『ゼンレスゾーンゼロ』Ver.3.4でロビンとカフカが新エージェントとして登場！PV「未知なる通信」が公開され、『崩壊：スターレイル』コラボもまもなく開催されます。",
+    "image": null,
+    "icon": null,
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/ZZZ_JP/status/2118916356259389830"
+   }
+  },
+  {
+   "label": "賽維里安實裝",
+   "points": [
+    "3.3 後半、11月11日",
+    "S 級代理人",
+    "新時裝同步登場"
+   ],
+   "url": "https://game8.co/games/Zenless-Zone-Zero/archives/630805",
+   "lines": [
+    {
+     "say": "絕區零方面，賽維里安將從十一月十一日起以 S 級代理人登場，限定卡池開放到十二月一日。",
+     "show": "絕區零：11 月 11 日起賽維里安以 S 級登場，開放到 12 月 1 日。"
+    },
+    {
+     "say": "新時裝的影片也公開了，今天一天就突破一百三十一萬播放。",
+     "show": "新時裝影片單日突破 131 萬播放。"
+    }
+   ],
+   "details": [
+    "3.3 後半的限定卡池從 11 月 11 日開放到 12 月 1 日。",
+    "專屬音擎「囚禁罪惡的牢獄」也會同時登場。",
+    "時裝「威嚴不可侵犯」同樣從 11 月 11 日開賣。"
+   ],
+   "link": {
+    "url": "https://game8.co/games/Zenless-Zone-Zero/archives/630805",
+    "title": "Severian Banner Release Date and Schedule | Zenless Zone Zero (ZZZ)｜Game8",
+    "site": "Game8｜The Top Gaming and App Walkthroughs Straight from Japan!",
+    "description": "Answers in the Wind is an exclusive Signal Search Channel for Severian in Zenless Zone Zero (ZZZ). Find out the Severian Banner release date, all character drops, and all W-Engine drops in this guide!",
+    "image": "https://img.game8.co/4645352/c0ae7aaf37cb69a52737c050a9dce6b2.png/show",
+    "icon": "https://assets.game8.jp/favicon/favicon.ico"
+   }
+  },
+  {
+   "label": "原神 丹妮卡登場",
+   "points": [
+    "宮廷首席女僕",
+    "貝傑尼茨卡雅家第三代",
+    "464 萬播放"
+   ],
+   "url": "https://x.com/Genshin_7/status/2118916353574715817",
+   "lines": [
+    {
+     "say": "原神公開了新角色丹妮卡，她是至冬宮的宮廷首席女僕。",
+     "show": "原神新角色丹妮卡公開，身分是至冬宮的宮廷首席女僕。"
+    },
+    {
+     "say": "她是貝傑尼茨卡雅家的第三代，官方貼文已突破四百六十四萬播放。",
+     "show": "貝傑尼茨卡雅家第三代，官方貼文 464 萬播放。"
+    }
+   ],
+   "details": [
+    "她像時鐘一樣精準、像影子一樣沉默，守護整座宮殿的整潔與秩序。",
+    "預計在下一版本 7.3 登場。",
+    "同為 7.3 版本的阿納斯塔西婭也已公布。"
+   ],
+   "link": {
+    "url": "https://game8.co/games/Genshin-Impact/archives/637828",
+    "title": "Version 7.3 Release Date and Characters | Genshin Impact｜Game8",
+    "site": "Game8",
+    "description": "Genshin Impact Version 7.3 releases on December 16, 2026. Anastasya and Danica have been announced as new characters.",
+    "image": null,
+    "icon": null,
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/Genshin_7/status/2118916353574715817"
+   }
+  },
+  {
+   "label": "米蒂雅觀察記錄",
+   "points": [
+    "天才卻愛偷懶",
+    "新人研究員觀察",
+    "82 萬播放"
+   ],
+   "url": "https://x.com/Genshin_7/status/2119278741402636717",
+   "lines": [
+    {
+     "say": "最後來自原神。這是天才卻又格外愛偷懶的米蒂雅顧問的觀察記錄。",
+     "show": "最後是原神，米蒂雅顧問的觀察記錄。"
+    },
+    {
+     "say": "以新人研究員的視角描繪他的真實一面，官方貼文八十二萬播放。",
+     "show": "從新人研究員視角公開真面目，官方貼文 82 萬播放。"
+    }
+   ],
+   "details": [
+    "米蒂雅是罕見的天才，卻也是學者中罕見的偷懶鬼。",
+    "據說剛加入的新人，總會忍不住在意他。",
+    "觀察記錄以四張圖片公開。"
+   ],
+   "link": {
+    "url": "https://x.com/Genshin_7/status/2119278741402636717",
+    "title": "Xユーザーの原神（Genshin）公式（@Genshin_7）さん",
+    "site": "X (formerly Twitter)",
+    "description": "【ミティヤ顧問の観察記録】 ミティヤは類まれなる天才ですが、学者の中でも類まれなるサボり魔でもあります。 そのせいか、入ったばかりの新人は、ついつい彼のことが気になってしまうようです… そんな新人研究員による彼の観察記録を一緒に見てみましょう！ #原神 #ミティヤ",
+    "image": "https://pbs.twimg.com/media/HWhA7LhX0AENPhS?format=webp&name=large",
+    "icon": "https://x.com/apple-touch-icon.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是星穹鐵道。首位星神阿哈會怎麼戰鬥，真讓人期待。",
+   "show": "今天焦點是星穹鐵道，首位星神阿哈。"
+  },
+  {
+   "say": "以上是蜜塔電台，明天見。",
+   "show": "以上是蜜塔 radio，明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-09",
+ "lang": "zh",
+ "seconds": 108.13,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.72,
+   "show": "早安，這裡是蜜塔 radio。11月9日，星期一的晨間新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.97,
+   "end": 13.48,
+   "show": "今天有 5 則，從星神阿哈到絕區零、原神新角色。",
+   "part": 0
+  },
+  {
+   "start": 14.53,
+   "end": 23.62,
+   "show": "首先是星穹鐵道。Ver.4.7 於 11 月 11 日上線，二相樂園篇最終章。",
+   "part": 1
+  },
+  {
+   "start": 23.87,
+   "end": 30.25,
+   "show": "首位可操作星神阿哈登場，操控歡愉命途的五星角色。",
+   "part": 1
+  },
+  {
+   "start": 31.3,
+   "end": 37.7,
+   "show": "接著是絕區零，與星穹鐵道的聯動即將登場。",
+   "part": 2
+  },
+  {
+   "start": 37.95,
+   "end": 46.25,
+   "show": "Ver.3.4 知更鳥、卡芙卡成為新代理人，官方 PV 大受歡迎。",
+   "part": 2
+  },
+  {
+   "start": 47.3,
+   "end": 57.64,
+   "show": "絕區零：11 月 11 日起賽維里安以 S 級登場，開放到 12 月 1 日。",
+   "part": 3
+  },
+  {
+   "start": 57.89,
+   "end": 64.81,
+   "show": "新時裝影片單日突破 131 萬播放。",
+   "part": 3
+  },
+  {
+   "start": 65.86,
+   "end": 72.19,
+   "show": "原神新角色丹妮卡公開，身分是至冬宮的宮廷首席女僕。",
+   "part": 4
+  },
+  {
+   "start": 72.44,
+   "end": 80.12,
+   "show": "貝傑尼茨卡雅家第三代，官方貼文 464 萬播放。",
+   "part": 4
+  },
+  {
+   "start": 81.17,
+   "end": 88.9,
+   "show": "最後是原神，米蒂雅顧問的觀察記錄。",
+   "part": 5
+  },
+  {
+   "start": 89.15,
+   "end": 96.02,
+   "show": "從新人研究員視角公開真面目，官方貼文 82 萬播放。",
+   "part": 5
+  },
+  {
+   "start": 97.07,
+   "end": 104.27,
+   "show": "今天焦點是星穹鐵道，首位星神阿哈。",
+   "part": 6
+  },
+  {
+   "start": 104.52,
+   "end": 107.13,
+   "show": "以上是蜜塔 radio，明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.53
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.53,
+   "end": 31.3
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 31.3,
+   "end": 47.3
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 47.3,
+   "end": 65.86
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 65.86,
+   "end": 81.17
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 81.17,
+   "end": 97.07
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 97.07,
+   "end": 108.13
+  }
+ ],
+ "made_at": "2026-11-10T03:02:59"
+}

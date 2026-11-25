@@ -1,0 +1,311 @@
+{
+ "title": "イーショップが贈り物、LoLは新夜明け",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十六日、月曜日のゲームニュースです。",
+   "show": "おはようございます、蜜塔ラジオです。11月16日、月曜日のゲームニュース。"
+  },
+  {
+   "say": "今日は四本、イーショップの贈り物から、クロスランド発売まで。",
+   "show": "今日は4本、eショップの贈り物から、クロスランド発売まで。"
+  }
+ ],
+ "news": [
+  {
+   "label": "プレゼントあす解禁",
+   "points": [
+    "十七日から利用",
+    "家族グループ限定",
+    "子どもは送れない"
+   ],
+   "url": "https://www.nintendo.com/jp/topics/article/31e57164-941c-4103-bd30-f04744073cc3",
+   "lines": [
+    {
+     "say": "まずはニンテンドー。あす十七日から、イーショップのソフトを家族に贈れます。",
+     "show": "まずはNintendo。あす17日から、eショップのソフトを家族に贈れます。"
+    },
+    {
+     "say": "対象はファミリーグループ。子どもアカウントからは送れず、回数にも上限があります。",
+     "show": "対象はファミリーグループ。子どもアカウントからは送れず、回数にも上限があります。"
+    },
+    {
+     "say": "受け取る側は、支払い情報もダウンロード番号も要りません。",
+     "show": "受け取る側は、支払い情報もダウンロード番号も要りません。"
+    }
+   ],
+   "details": [
+    "任天堂公式トピックス。システムバージョン23.5.0以降のSwitch 2／Switchで、11月17日から利用できます。",
+    "eショップの購入ページで「プレゼントにする」を選び、送り先とラッピングを指定します。相手のHOMEメニューに届きます。",
+    "子どもアカウントからの送信は不可。一部対象外の商品があり、一定期間内の購入回数にも上限があります。"
+   ],
+   "link": {
+    "url": "https://www.nintendo.com/jp/topics/article/31e57164-941c-4103-bd30-f04744073cc3",
+    "title": "Nintendo Switch 2 / Nintendo Switchの本体機能をバージョンアップ。新しい機能をご紹介します。 | トピックス | Nintendo",
+    "site": "任天堂ホームページ",
+    "description": "本日、Nintendo Switch 2 およびNintendo Switchに、本体機能の更新データを配信しました。この記事では、今回の更新で追加された新機能「プレゼント」につい",
+    "image": "https://assets.topics.apps-jp.nintendo.com/image/2026/10/07070638092355/1280/d8781568e2ee473ba0eb32e4d3ee2d9d.jpg",
+    "icon": "https://www.nintendo.com/jp/topics/article/favicon.ico"
+   }
+  },
+  {
+   "label": "LoLがニュードーン",
+   "points": [
+    "ワールド決勝で公開",
+    "来年に大規模刷新",
+    "一月に詳細発表"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316/",
+   "lines": [
+    {
+     "say": "ライアットがリーグオブレジェンズの大型更新、ニュードーンを発表しました。",
+     "show": "Riotが『League of Legends』の大型更新「New Dawn」を発表。"
+    },
+    {
+     "say": "ワールド決勝の映像は、サモナーズリフトの作り替えを示唆。詳細は来年一月です。",
+     "show": "Worlds決勝の映像はSummoner's Riftの作り替えを示唆。詳細は来年1月。"
+    },
+    {
+     "say": "ライアットは続編ではなく、リーグネクスト級の刷新だとしています。",
+     "show": "Riotは続編ではなく、League Next級の刷新だとしています。"
+    }
+   ],
+   "details": [
+    "AUTOMATON（11月15日付）。Worlds 2026のトレーラーで公開されました。",
+    "Riotは「2027年に向かう先の一端」と説明。クライアント刷新やマップ構造の変化も示唆されています。",
+    "詳細は2027年1月。いわゆるLoL 2ではなく、League Next級の刷新と位置づけられています。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316/",
+    "title": "『League of Legends』大規模アップデートの内容チラ見せ。ビジュアル大刷新&ゲームプレイ変更いろいろありそう - AUTOMATON",
+    "site": "AUTOMATON",
+    "description": "Riot Gamesは11月15日、『League of Legends』向けの大型アップデート「New Dawn」の内容をお披露目した。ビジュアル刷新のほか、ゲームプレイにも変更が加えられそうだ。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/league-of-legends-20261115-479316-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-32x32.png"
+   }
+  },
+  {
+   "label": "ジーティーエー十九日",
+   "points": [
+    "十九日に発売",
+    "据え置き二機種",
+    "日米が同日発売"
+   ],
+   "url": "https://www.inside-games.jp/article/2026/11/15/190995.html",
+   "lines": [
+    {
+     "say": "今週の目玉はグランドセフトオートシックス。十九日にピーエスファイブとエックスボックスで発売です。",
+     "show": "今週の目玉は『GTA6』。19日にPS5とXbox Series X|Sで発売。"
+    },
+    {
+     "say": "日本も北米も同日。事前ダウンロードの次は、本番の週です。",
+     "show": "日本も北米も同日。事前ダウンロードの次は、本番の週です。"
+    },
+    {
+     "say": "まとめにピーシー版は出ていません。据え置き二機種の週です。",
+     "show": "まとめにPC版は出ていません。据え置き2機種の週です。"
+    }
+   ],
+   "details": [
+    "インサイド（11月15日付）の今週発売まとめ。11月19日にPS5とXbox Series X|Sで、日米とも同日発売です。",
+    "同週の注目作として、クロスランド（17日）と『魔法使いの夜』（20日）も並んでいます。",
+    "北米の据え置き版も同日です。"
+   ],
+   "link": {
+    "url": "https://www.inside-games.jp/article/2026/11/15/190995.html",
+    "title": "今週発売の新作ゲーム『グランド・セフト・オートVI』『クロスランド せいれいたちとつむぐせかい』『魔法使いの夜』他 | インサイド",
+    "site": "インサイド",
+    "description": "日本・北米にて今週発売される新作ゲームをひとまとめにしてご紹介です。『グランド・セフト・オートVI』『クロスランド せいれいたちとつむぐせかい』『魔法使いの夜』『ムーンライト・ピークス -ヴァンパイアのゴシックライフ-』『ポッピュコム』『The House of Tesla: Definitive Edition』他。",
+    "image": "https://www.inside-games.jp/imgs/ogp_f/1807650.jpg",
+    "icon": "https://www.inside-games.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "クロスランド十七日",
+   "points": [
+    "十七日に発売",
+    "スイッチとピーシー",
+    "ほっこり系エムエムオー"
+   ],
+   "url": "https://www.famitsu.com/article/202611/93284",
+   "lines": [
+    {
+     "say": "スプライフォックスのクロスランドは、十七日にスイッチツーとピーシーで発売です。",
+     "show": "Spry Foxの『クロスランド』は17日にSwitch 2とPCで発売。"
+    },
+    {
+     "say": "精霊を助けて家を建てる、ほっこり系のエムエムオー。発売割引もあります。",
+     "show": "精霊を助けて家を建てる、ほっこり系MMO。発売割引もあります。"
+    },
+    {
+     "say": "税込三千七百円。二十一日まで、二割引きです。",
+     "show": "税込3700円。21日まで、20%引きです。"
+    }
+   ],
+   "details": [
+    "ファミ通。11月17日にNintendo Switch 2／Switch／PC（Steam、Epic）で発売。税込三千七百円です。",
+    "11月21日二十三時五十九分まで、二割引きの二千九百六十円。ローンチトレーラーを先行公開しています。",
+    "開発は『Cozy Grove』のSpry Fox。雲の上で精霊を助け、山の家を整えるオンラインライフシムです。"
+   ],
+   "link": {
+    "url": "https://www.famitsu.com/article/202611/93284",
+    "title": "『クロスランド せいれいたちとつむぐせかい』ローンチトレーラーを先行公開。ときにはまったく何もせずにのんびり過ごしたりするのが楽しいオンラインマルチプレイヤーライフシム | ゲーム・エンタメ最新情報のファミ通.com",
+    "site": "ファミ通.com",
+    "description": "Spry Fox開発によるオンラインマルチプレイヤーライフシム『クロスランド せいれいたちとつむぐせかい』（英語タイトルは『Spirit Crossing』）のローンチトレーラーが公開された。“コージーMMO（ほっこり系MMO）”と銘打たれた一作だ。",
+    "image": "https://cimg.kgl-systems.io/camion/files/93284/thumbnail_yCQK.jpg?x=1280",
+    "icon": "https://www.famitsu.com/res/images/headIcons/apple-touch-icon.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、あす始まるイーショップの贈り物。クリスマス前に間に合います。",
+   "show": "今日の注目は、あす始まるeショップの贈り物。クリスマス前に間に合います。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上、蜜塔ラジオでした。また明日。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-16",
+ "lang": "ja",
+ "seconds": 100.26,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.82,
+   "show": "おはようございます、蜜塔ラジオです。11月16日、月曜日のゲームニュース。",
+   "part": 0
+  },
+  {
+   "start": 8.07,
+   "end": 13.12,
+   "show": "今日は4本、eショップの贈り物から、クロスランド発売まで。",
+   "part": 0
+  },
+  {
+   "start": 14.17,
+   "end": 20.5,
+   "show": "まずはNintendo。あす17日から、eショップのソフトを家族に贈れます。",
+   "part": 1
+  },
+  {
+   "start": 20.75,
+   "end": 26.64,
+   "show": "対象はファミリーグループ。子どもアカウントからは送れず、回数にも上限があります。",
+   "part": 1
+  },
+  {
+   "start": 26.89,
+   "end": 31.16,
+   "show": "受け取る側は、支払い情報もダウンロード番号も要りません。",
+   "part": 1
+  },
+  {
+   "start": 32.21,
+   "end": 37.29,
+   "show": "Riotが『League of Legends』の大型更新「New Dawn」を発表。",
+   "part": 2
+  },
+  {
+   "start": 37.54,
+   "end": 44.25,
+   "show": "Worlds決勝の映像はSummoner's Riftの作り替えを示唆。詳細は来年1月。",
+   "part": 2
+  },
+  {
+   "start": 44.5,
+   "end": 49.21,
+   "show": "Riotは続編ではなく、League Next級の刷新だとしています。",
+   "part": 2
+  },
+  {
+   "start": 50.26,
+   "end": 58.59,
+   "show": "今週の目玉は『GTA6』。19日にPS5とXbox Series X|Sで発売。",
+   "part": 3
+  },
+  {
+   "start": 58.84,
+   "end": 65.13,
+   "show": "日本も北米も同日。事前ダウンロードの次は、本番の週です。",
+   "part": 3
+  },
+  {
+   "start": 65.38,
+   "end": 70.29,
+   "show": "まとめにPC版は出ていません。据え置き2機種の週です。",
+   "part": 3
+  },
+  {
+   "start": 71.34,
+   "end": 76.79,
+   "show": "Spry Foxの『クロスランド』は17日にSwitch 2とPCで発売。",
+   "part": 4
+  },
+  {
+   "start": 77.04,
+   "end": 83.38,
+   "show": "精霊を助けて家を建てる、ほっこり系MMO。発売割引もあります。",
+   "part": 4
+  },
+  {
+   "start": 83.63,
+   "end": 88.71,
+   "show": "税込3700円。21日まで、20%引きです。",
+   "part": 4
+  },
+  {
+   "start": 89.76,
+   "end": 95.7,
+   "show": "今日の注目は、あす始まるeショップの贈り物。クリスマス前に間に合います。",
+   "part": 5
+  },
+  {
+   "start": 95.95,
+   "end": 99.26,
+   "show": "以上、蜜塔ラジオでした。また明日。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.17
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.17,
+   "end": 32.21
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 32.21,
+   "end": 50.26
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 50.26,
+   "end": 71.34
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 71.34,
+   "end": 89.76
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 89.76,
+   "end": 100.26
+  }
+ ],
+ "made_at": "2026-11-16T07:42:19"
+}

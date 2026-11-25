@@ -1,0 +1,311 @@
+{
+ "title": "eShop能送禮，英雄聯盟迎新黎明",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月十六日、星期一的遊戲新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月16日、星期一的遊戲新聞。"
+  },
+  {
+   "say": "今天四則：eShop禮物、英雄聯盟大改，還有俠盜獵車手六和克羅斯蘭。",
+   "show": "今天4則：eShop禮物、英雄聯盟大改，還有GTA6和クロスランド。"
+  }
+ ],
+ "news": [
+  {
+   "label": "eShop 明天可送禮",
+   "points": [
+    "十七日起可用",
+    "限家庭群組成員",
+    "兒童帳號不能送"
+   ],
+   "url": "https://www.nintendo.com/jp/topics/article/31e57164-941c-4103-bd30-f04744073cc3",
+   "lines": [
+    {
+     "say": "先看任天堂。明天十七日起，能把 eShop 遊戲送給家人。",
+     "show": "先看任天堂。明天17日起，能把eShop遊戲送給家人。"
+    },
+    {
+     "say": "限家庭群組。兒童帳號不能送，期間內次數也有上限。",
+     "show": "限家庭群組。兒童帳號不能送，期間內次數也有上限。"
+    },
+    {
+     "say": "對方不必填支付資料，也不用輸入下載序號。",
+     "show": "對方不必填支付資料，也不用輸入下載序號。"
+    }
+   ],
+   "details": [
+    "任天堂日本官方。系統版本23.5.0之後的Switch 2／Switch，11月17日起可用。",
+    "在eShop購買頁勾選「作為禮物」，指定收件人與包裝，會送到對方主畫面。",
+    "兒童帳號不能寄出。部分商品不適用，一定期間內的購買次數有上限。"
+   ],
+   "link": {
+    "url": "https://www.nintendo.com/jp/topics/article/31e57164-941c-4103-bd30-f04744073cc3",
+    "title": "Nintendo Switch 2 / Nintendo Switchの本体機能をバージョンアップ。新しい機能をご紹介します。 | トピックス | Nintendo",
+    "site": "任天堂ホームページ",
+    "description": "本日、Nintendo Switch 2 およびNintendo Switchに、本体機能の更新データを配信しました。この記事では、今回の更新で追加された新機能「プレゼント」につい",
+    "image": "https://assets.topics.apps-jp.nintendo.com/image/2026/10/07070638092355/1280/d8781568e2ee473ba0eb32e4d3ee2d9d.jpg",
+    "icon": "https://www.nintendo.com/jp/topics/article/favicon.ico"
+   }
+  },
+  {
+   "label": "英雄聯盟新黎明",
+   "points": [
+    "世界賽決賽公開",
+    "明年大規模翻新",
+    "一月公布細節"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316/",
+   "lines": [
+    {
+     "say": "拳頭公布英雄聯盟大型更新「新黎明」。",
+     "show": "Riot公布《英雄聯盟》大型更新「New Dawn」。"
+    },
+    {
+     "say": "世界賽決賽預告暗示召喚峽谷重做，細節明年一月才說。",
+     "show": "世界賽決賽預告暗示召喚峽谷重做，細節明年1月才說。"
+    },
+    {
+     "say": "拳頭並非續作，而是聯盟下一代等級的翻新。",
+     "show": "Riot並非續作，而是League Next等級的翻新。"
+    }
+   ],
+   "details": [
+    "AUTOMATON 11月15日報導，於Worlds 2026預告片公開。",
+    "Riot稱為「邁向2027的一瞥」，畫面顯示客戶端刷新與地圖結構變化。",
+    "細節於2027年1月公布。官方否定LoL 2，定位是League Next等級的翻新。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316/",
+    "title": "『League of Legends』大規模アップデートの内容チラ見せ。ビジュアル大刷新&ゲームプレイ変更いろいろありそう - AUTOMATON",
+    "site": "AUTOMATON",
+    "description": "Riot Gamesは11月15日、『League of Legends』向けの大型アップデート「New Dawn」の内容をお披露目した。ビジュアル刷新のほか、ゲームプレイにも変更が加えられそうだ。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/league-of-legends-20261115-479316-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-32x32.png"
+   }
+  },
+  {
+   "label": "俠盜獵車手六十九日",
+   "points": [
+    "十九日發售",
+    "兩款家用主機",
+    "日美同一天"
+   ],
+   "url": "https://www.inside-games.jp/article/2026/11/15/190995.html",
+   "lines": [
+    {
+     "say": "本週重頭是俠盜獵車手六。十九日在 PS5 與 Xbox 發售。",
+     "show": "本週重頭是《GTA6》。19日在PS5與Xbox Series X|S發售。"
+    },
+    {
+     "say": "日本跟北美同一天。預載之後，輪到正式開賣。",
+     "show": "日本跟北美同一天。預載之後，輪到正式開賣。"
+    },
+    {
+     "say": "這份週報沒寫 PC 版，是兩款家用主機的一週。",
+     "show": "這份週報沒寫PC版，是兩款家用主機的一週。"
+    }
+   ],
+   "details": [
+    "Inside Games 11月15日的本週新作整理。11月19日PS5與Xbox Series X|S、日美同日發售。",
+    "同週還列出克羅斯蘭（17日）與《魔法使之夜》（20日）。",
+    "北美家用版也是同一天。"
+   ],
+   "link": {
+    "url": "https://www.inside-games.jp/article/2026/11/15/190995.html",
+    "title": "今週発売の新作ゲーム『グランド・セフト・オートVI』『クロスランド せいれいたちとつむぐせかい』『魔法使いの夜』他 | インサイド",
+    "site": "インサイド",
+    "description": "日本・北米にて今週発売される新作ゲームをひとまとめにしてご紹介です。『グランド・セフト・オートVI』『クロスランド せいれいたちとつむぐせかい』『魔法使いの夜』『ムーンライト・ピークス -ヴァンパイアのゴシックライフ-』『ポッピュコム』『The House of Tesla: Definitive Edition』他。",
+    "image": "https://www.inside-games.jp/imgs/ogp_f/1807650.jpg",
+    "icon": "https://www.inside-games.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "克羅斯蘭十七日",
+   "points": [
+    "十七日發售",
+    "Switch 與 PC",
+    "療癒向線上生活"
+   ],
+   "url": "https://www.famitsu.com/article/202611/93284",
+   "lines": [
+    {
+     "say": "斯普萊福克斯的克羅斯蘭，十七日登陸 Switch 二與 PC。",
+     "show": "Spry Fox的《クロスランド》17日登陸Switch 2與PC。"
+    },
+    {
+     "say": "救精靈、蓋房子的療癒線上生活。上市還有折扣。",
+     "show": "救精靈、蓋房子的療癒線上生活。上市還有折扣。"
+    },
+    {
+     "say": "含稅三千七百日圓，二十一日前有八折。",
+     "show": "含稅3700日圓，21日前有八折。"
+    }
+   ],
+   "details": [
+    "Fami通：11月17日發售於Switch 2／Switch／PC（Steam、Epic），含稅三千七百日圓。",
+    "到11月21日23:59有八折，二千九百六十日圓，並提前公開上市預告。",
+    "開發是《Cozy Grove》的Spry Fox。在雲上救精靈、整理山頂的家。"
+   ],
+   "link": {
+    "url": "https://www.famitsu.com/article/202611/93284",
+    "title": "『クロスランド せいれいたちとつむぐせかい』ローンチトレーラーを先行公開。ときにはまったく何もせずにのんびり過ごしたりするのが楽しいオンラインマルチプレイヤーライフシム | ゲーム・エンタメ最新情報のファミ通.com",
+    "site": "ファミ通.com",
+    "description": "Spry Fox開発によるオンラインマルチプレイヤーライフシム『クロスランド せいれいたちとつむぐせかい』（英語タイトルは『Spirit Crossing』）のローンチトレーラーが公開された。“コージーMMO（ほっこり系MMO）”と銘打たれた一作だ。",
+    "image": "https://cimg.kgl-systems.io/camion/files/93284/thumbnail_yCQK.jpg?x=1280",
+    "icon": "https://www.famitsu.com/res/images/headIcons/apple-touch-icon.png"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天重點是明天開跑的 eShop 禮物，趕得上聖誕。",
+   "show": "今天重點是明天開跑的eShop禮物，趕得上聖誕。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-16",
+ "lang": "zh",
+ "seconds": 81.44,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.15,
+   "show": "早安，這裡是蜜塔 radio。11月16日、星期一的遊戲新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.4,
+   "end": 12.77,
+   "show": "今天4則：eShop禮物、英雄聯盟大改，還有GTA6和クロスランド。",
+   "part": 0
+  },
+  {
+   "start": 13.82,
+   "end": 19.25,
+   "show": "先看任天堂。明天17日起，能把eShop遊戲送給家人。",
+   "part": 1
+  },
+  {
+   "start": 19.5,
+   "end": 24.6,
+   "show": "限家庭群組。兒童帳號不能送，期間內次數也有上限。",
+   "part": 1
+  },
+  {
+   "start": 24.85,
+   "end": 28.74,
+   "show": "對方不必填支付資料，也不用輸入下載序號。",
+   "part": 1
+  },
+  {
+   "start": 29.79,
+   "end": 33.32,
+   "show": "Riot公布《英雄聯盟》大型更新「New Dawn」。",
+   "part": 2
+  },
+  {
+   "start": 33.57,
+   "end": 38.71,
+   "show": "世界賽決賽預告暗示召喚峽谷重做，細節明年1月才說。",
+   "part": 2
+  },
+  {
+   "start": 38.96,
+   "end": 42.91,
+   "show": "Riot並非續作，而是League Next等級的翻新。",
+   "part": 2
+  },
+  {
+   "start": 43.96,
+   "end": 49.1,
+   "show": "本週重頭是《GTA6》。19日在PS5與Xbox Series X|S發售。",
+   "part": 3
+  },
+  {
+   "start": 49.35,
+   "end": 53.86,
+   "show": "日本跟北美同一天。預載之後，輪到正式開賣。",
+   "part": 3
+  },
+  {
+   "start": 54.11,
+   "end": 58.0,
+   "show": "這份週報沒寫PC版，是兩款家用主機的一週。",
+   "part": 3
+  },
+  {
+   "start": 59.05,
+   "end": 63.66,
+   "show": "Spry Fox的《クロスランド》17日登陸Switch 2與PC。",
+   "part": 4
+  },
+  {
+   "start": 63.91,
+   "end": 68.55,
+   "show": "救精靈、蓋房子的療癒線上生活。上市還有折扣。",
+   "part": 4
+  },
+  {
+   "start": 68.8,
+   "end": 72.87,
+   "show": "含稅3700日圓，21日前有八折。",
+   "part": 4
+  },
+  {
+   "start": 73.92,
+   "end": 77.8,
+   "show": "今天重點是明天開跑的eShop禮物，趕得上聖誕。",
+   "part": 5
+  },
+  {
+   "start": 78.05,
+   "end": 80.44,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.82
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.82,
+   "end": 29.79
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 29.79,
+   "end": 43.96
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 43.96,
+   "end": 59.05
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 59.05,
+   "end": 73.92
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 73.92,
+   "end": 81.44
+  }
+ ],
+ "made_at": "2026-11-16T07:48:40"
+}

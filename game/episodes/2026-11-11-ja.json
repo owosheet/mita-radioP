@@ -1,0 +1,321 @@
+{
+ "title": "Devolverの初AAA、マーベル新シーズン",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十一日、水曜日のゲームニュースです。",
+   "show": "おはようございます、蜜塔ラジオです。11月11日、水曜日のゲームニュース。"
+  },
+  {
+   "say": "今日は五本、デボルバーの初トリプルエーから、マーベルの新シーズンまでお届けします。",
+   "show": "今日は5本、Devolverの「初AAA」から、Marvelの新シーズンまで。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Devolver 初のAAA",
+   "points": [
+    "All Army Attack",
+    "2027年PC発売",
+    "11月16日から体験版"
+   ],
+   "url": "https://www.thesixthaxis.com/2026/11/10/devolver-aaa-game-all-army-attack/",
+   "lines": [
+    {
+     "say": "まずはデボルバーです。初のトリプルエー作品として、オールアーミーアタックを発表しました。",
+     "show": "まずはDevolver。初のAAA作品として『All Army Attack』を発表。"
+    },
+    {
+     "say": "ブラックライトゲームズの自動戦闘ローグライトで、二〇二七年にピーシーで発売。十六日から体験版が配信されます。",
+     "show": "BlackLight Gamesの自動戦闘ローグライト。2027年PC発売、11月16日から体験版。"
+    }
+   ],
+   "details": [
+    "「AAA」はタイトルの頭文字で、大作という意味ではありません。",
+    "11月16日から23日まで、Steam Auto-Battler Festで体験版を配信します。",
+    "動物と植物が宇宙の脅威に立ち向かう、カードで軍を編成するゲームです。"
+   ],
+   "link": {
+    "url": "https://www.thesixthaxis.com/2026/11/10/devolver-aaa-game-all-army-attack/",
+    "title": "Roguelite auto-battler All Army Attack is Devolver's \"first AAA game\" | TheSixthAxis",
+    "site": "TheSixthAxis",
+    "description": "Yes, yes, Devolver, we see what you did here. Teasing their \"first AAA game\" yesterday was always going to be some kind of daft joke or pun, and that's",
+    "image": "https://www.thesixthaxis.com/wp-content/uploads/2026/11/AllArmyAttack-hero500.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "Shift Up 減益と延期",
+   "points": [
+    "営業益58.2%減",
+    "Project Spirits",
+    "発表は2027年へ"
+   ],
+   "url": "http://www.gamespark.jp/article/2026/11/10/174724.html",
+   "lines": [
+    {
+     "say": "次はシフトアップです。第三クォーターの営業利益は二百七億ウォンで、前年より五十八点二パーセント減りました。",
+     "show": "次はShift Up。第3四半期の営業利益は207億ウォンで、前年比58.2%減。"
+    },
+    {
+     "say": "新作プロジェクトスピリッツの発表は、年末の大作ラッシュを避けて二〇二七年に延期されます。",
+     "show": "新作『Project Spirits』の発表は2027年へ延期。年末の大作ラッシュを考慮。"
+    }
+   ],
+   "details": [
+    "売上は462億ウォンで前年同期比38.8%減、営業利益は58.2%減でした。",
+    "『NIKKE』と『Stellar Blade』の売上が、ともに前年を下回りました。",
+    "『Project Spirits』はUnreal Engine 5の新作で、発表時期を再検討中です。"
+   ],
+   "link": {
+    "url": "http://www.gamespark.jp/article/2026/11/10/174724.html",
+    "title": "SHIFT UP次期主力タイトル『Project Spirits』2026年内の発表は延期か―新作発売スケジュールを踏まえて見直し | Game*Spark - 国内・海外ゲーム情報サイト",
+    "site": "Game*Spark - 国内・海外ゲーム情報サイト",
+    "description": "新作『Stellar Blade: BLOOD RAIN』は段階的な情報公開を予定―三上真司氏率いるUNBOUNDにも言及",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1217959.webp",
+    "icon": "http://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "OVERKILL 中国展開",
+   "points": [
+    "ネクソンとテンセント",
+    "中国向け発行契約",
+    "発売日は後日"
+   ],
+   "url": "https://gamebiz.jp/news/435321",
+   "lines": [
+    {
+     "say": "続いてはネクソンです。子会社のネオプルが、テンセントとプロジェクトオーバーキルの中国発行契約を結びました。",
+     "show": "続いてはNexon。子会社NeopleがTencentと『Project OVERKILL』の中国発行契約。"
+    },
+    {
+     "say": "ディーエヌエフの世界を舞台にしたオンラインアクションアールピージーで、発売時期は後日発表です。",
+     "show": "DNFの世界観のオンラインアクションRPG。発売時期は後日発表。"
+    }
+   ],
+   "details": [
+    "『Project OVERKILL』はUnreal Engine 4で開発中のPC向けタイトルです。",
+    "Nexonの李政憲CEOは、DNFとTencentの提携をさらに広げるとコメントしました。",
+    "中国でのサービス開始時期は未定です。"
+   ],
+   "link": {
+    "url": "https://gamebiz.jp/news/435321",
+    "title": "ネクソン、新作オンラインアクションRPG『Project OVERKILL』の中国展開についてテンセントとパブリッシング契約 | gamebiz",
+    "site": "gamebiz【ゲームビズ】",
+    "description": "ネクソン<3659>は本日11月10日、連結子会社であるネオプルがテンセントと新たな契約を締結し、アラド戦記の世界を舞台としたオンラインアクションRPG『Project OVERKILL』を中国のユーザー向けに提供することを発表した。リリース時期は後日発表する予定だ。『Project OVERKILL』は、世界的ヒット作『アラド戦記』を原作としたオンラインアクションRPGで、ネオプルが開発してい…",
+    "image": "https://i3.gamebiz.jp/media/7dc47f5c-3da7-4721-905c-840eeee5819c.jpg",
+    "icon": "https://gamebiz.jp/favicon.ico?1793002622"
+   }
+  },
+  {
+   "label": "Golden Joystick 2026",
+   "points": [
+    "11月12日午前3時",
+    "日本語字幕で配信",
+    "バイオハザード候補"
+   ],
+   "url": "https://gamerszone.jp/post/38775",
+   "lines": [
+    {
+     "say": "次はゴールデンジョイスティックアワードです。第四十四回の授賞式が、日本時間の明日午前三時から配信されます。",
+     "show": "次はGolden Joystick Awards。第44回授賞式が日本時間11月12日午前3時から配信。"
+    },
+    {
+     "say": "年間最優秀作品にはバイオハザードレクイエムなどがノミネート。ニコ生では日本語字幕が付きます。",
+     "show": "年間最優秀作品には『バイオハザード レクイエム』などがノミネート。ニコ生は日本語字幕付き。"
+    }
+   ],
+   "details": [
+    "授賞式はロンドンで開催され、日本時間11月12日午前3時から配信されます。",
+    "『バイオハザード レクイエム』は年間最優秀作品にノミネートされています。",
+    "司会はAlix Wilton Reganさんです。"
+   ],
+   "link": {
+    "url": "https://gamerszone.jp/post/38775",
+    "title": "『バイオハザード レクイエム』が最高賞にノミネート！世界最長のゲーム賞、11月12日にニコ生で日本語字幕付き生放送 | GAMERS ZONE",
+    "site": "GAMERS ZONE",
+    "description": "GAMERS ZONEは、eスポーツブームを受けて「ゲーム」が当たり前に日常にある新しい世界を楽しむための、まったく新しいゲームメディアです。PCからモバイルまでありとあらゆるゲームの最新情報、文化、トレンド、eスポーツの話題などなど、「ゲーム」にまつわるあらゆる情報を通して、より「ゲーム」を楽しめるような世界を提供していきます。",
+    "image": "https://gamerszone.jp/images/upload/2026/11/334b57eee3b2fde88a7138112bcf1b3b.jpg",
+    "icon": "https://gamerszone.jp/images/favicons/favicon.ico?t=1760056555"
+   }
+  },
+  {
+   "label": "Marvel Rivals S11",
+   "points": [
+    "11月13日開幕",
+    "Nightcrawler参戦",
+    "Draculaは季中"
+   ],
+   "url": "https://www.destructoid.com/marvel-rivals-season-11-patch-notes/",
+   "lines": [
+    {
+     "say": "最後はマーベルライバルズです。第十一シーズン、ドゥームズデイが十一月十三日に開幕します。",
+     "show": "最後はMarvel Rivals。第11シーズン「Doomsday」が11月13日に開幕。"
+    },
+    {
+     "say": "新ヒーローはナイトクロウラー。シーズン途中にはドラキュラも参戦予定です。",
+     "show": "新ヒーローはNightcrawler。シーズン途中にはDraculaも参戦予定。"
+    }
+   ],
+   "details": [
+    "第11シーズンは、ニューヨークとヌエバヨークが衝突するインカージョンが題材です。",
+    "Nightcrawlerは55人目のヒーローで、13人目のストラテジストです。",
+    "Draculaはシーズン11.5で追加される予定です。"
+   ],
+   "link": {
+    "url": "https://www.destructoid.com/marvel-rivals-season-11-patch-notes/",
+    "title": "Marvel Rivals' Doomsday-themed season 11 brings Nightcrawler into the fold, and Dracula soon",
+    "site": "Destructoid",
+    "description": "Season 11 of Marvel Rivals adds Nightcrawler first and then Dracula, not Doctor Doom like leaks suggested, coming in December.",
+    "image": "https://www.destructoid.com/wp-content/uploads/2026/11/image-2026-11-10T110100.650.jpg",
+    "icon": "https://www.destructoid.com/wp-content/uploads/2026/01/cropped-favicon.webp?fit=32%2C32"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、デボルバーの初トリプルエー。名前の頭文字だけの大作宣言、さすがです。",
+   "show": "今日の注目はDevolverの「初AAA」。名前の頭文字だけの大作宣言、さすが。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上、蜜塔ラジオでした。また明日。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-11",
+ "lang": "ja",
+ "seconds": 108.89,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.34,
+   "show": "おはようございます、蜜塔ラジオです。11月11日、水曜日のゲームニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.59,
+   "end": 13.38,
+   "show": "今日は5本、Devolverの「初AAA」から、Marvelの新シーズンまで。",
+   "part": 0
+  },
+  {
+   "start": 14.43,
+   "end": 20.85,
+   "show": "まずはDevolver。初のAAA作品として『All Army Attack』を発表。",
+   "part": 1
+  },
+  {
+   "start": 21.1,
+   "end": 30.46,
+   "show": "BlackLight Gamesの自動戦闘ローグライト。2027年PC発売、11月16日から体験版。",
+   "part": 1
+  },
+  {
+   "start": 31.51,
+   "end": 40.49,
+   "show": "次はShift Up。第3四半期の営業利益は207億ウォンで、前年比58.2%減。",
+   "part": 2
+  },
+  {
+   "start": 40.74,
+   "end": 48.34,
+   "show": "新作『Project Spirits』の発表は2027年へ延期。年末の大作ラッシュを考慮。",
+   "part": 2
+  },
+  {
+   "start": 49.39,
+   "end": 57.48,
+   "show": "続いてはNexon。子会社NeopleがTencentと『Project OVERKILL』の中国発行契約。",
+   "part": 3
+  },
+  {
+   "start": 57.73,
+   "end": 65.11,
+   "show": "DNFの世界観のオンラインアクションRPG。発売時期は後日発表。",
+   "part": 3
+  },
+  {
+   "start": 66.16,
+   "end": 74.71,
+   "show": "次はGolden Joystick Awards。第44回授賞式が日本時間11月12日午前3時から配信。",
+   "part": 4
+  },
+  {
+   "start": 74.96,
+   "end": 82.24,
+   "show": "年間最優秀作品には『バイオハザード レクイエム』などがノミネート。ニコ生は日本語字幕付き。",
+   "part": 4
+  },
+  {
+   "start": 83.29,
+   "end": 90.73,
+   "show": "最後はMarvel Rivals。第11シーズン「Doomsday」が11月13日に開幕。",
+   "part": 5
+  },
+  {
+   "start": 90.98,
+   "end": 96.55,
+   "show": "新ヒーローはNightcrawler。シーズン途中にはDraculaも参戦予定。",
+   "part": 5
+  },
+  {
+   "start": 97.6,
+   "end": 104.74,
+   "show": "今日の注目はDevolverの「初AAA」。名前の頭文字だけの大作宣言、さすが。",
+   "part": 6
+  },
+  {
+   "start": 104.99,
+   "end": 107.89,
+   "show": "以上、蜜塔ラジオでした。また明日。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.43
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.43,
+   "end": 31.51
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 31.51,
+   "end": 49.39
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 49.39,
+   "end": 66.16
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 66.16,
+   "end": 83.29
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 83.29,
+   "end": 97.6
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 97.6,
+   "end": 108.89
+  }
+ ],
+ "made_at": "2026-11-11T09:14:55"
+}

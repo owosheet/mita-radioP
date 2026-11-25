@@ -1,0 +1,371 @@
+{
+ "title": "矩陣乘法2.25，MCP爆漏洞",
+ "opening": [
+  {
+   "say": "早安，這裡是蜜塔 radio。十一月二十五日、星期三的科技新聞。",
+   "show": "早安，這裡是蜜塔 radio。11月25日、星期三的科技新聞。"
+  },
+  {
+   "say": "今天五則：數學的大消息，還有資安新聞。",
+   "show": "今天5則：數學的大消息，還有資安新聞。"
+  }
+ ],
+ "news": [
+  {
+   "label": "矩陣乘法指數 2.25",
+   "points": [
+    "指數降到2.25",
+    "論文111頁",
+    "尚未審查"
+   ],
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/README.md",
+   "lines": [
+    {
+     "say": "OpenAI 在二十四日，公開了一篇關於矩陣乘法計算量的論文。",
+     "show": "OpenAI 在24日，公開了一篇關於矩陣乘法計算量的論文。"
+    },
+    {
+     "say": "論文中主張，乘法的指數可以降到四分之九，也就是二點二五。",
+     "show": "論文中主張，乘法的指數可以降到四分之九，也就是2.25。"
+    },
+    {
+     "say": "號稱在所有體上都成立，還給出了匹配的下界，不過論文還沒經過同儕審查。",
+     "show": "號稱在所有體上都成立，還給出了匹配的下界，不過論文還沒經過同儕審查。"
+    }
+   ],
+   "details": [
+    "傳統最佳約 2.371。",
+    "論文共 111 頁。",
+    "在 GitHub 公開。"
+   ],
+   "link": {
+    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/README.md",
+    "title": "math/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/README.md at main · openai/math",
+    "site": "GitHub",
+    "description": "Contribute to openai/math development by creating an account on GitHub.",
+    "image": "https://opengraph.githubassets.com/c1d65b83717c15083b30a2a5af7073dac57672002e13b2256a75b756420e0b69/openai/math",
+    "icon": "https://github.com/fluidicon.png"
+   }
+  },
+  {
+   "label": "MCP 伺服器爆漏洞",
+   "points": [
+    "8個漏洞",
+    "5個高風險",
+    "2.5.0 修正"
+   ],
+   "url": "https://i10x.ai/news/mcp-server-git-repo-config-runs-commands-read-only-tools",
+   "lines": [
+    {
+     "say": "GitHub 的 MCP 伺服器 mcp-server-git，公開了八個漏洞，其中五個是高風險。",
+     "show": "GitHub 的 MCP 伺服器 mcp-server-git，公開了8個漏洞，其中5個是高風險。"
+    },
+    {
+     "say": "只要修改倉庫的設定檔，連唯讀工具都可能被用來執行指令。",
+     "show": "只要修改倉庫的設定檔，連唯讀工具都可能被用來執行指令。"
+    },
+    {
+     "say": "已經在 2.5.0 版修正，目前沒有遭到利用。",
+     "show": "已經在 2.5.0 版修正，目前沒有遭到利用。"
+    }
+   ],
+   "details": [
+    "3 週內第 3 次安全更新。",
+    "沒有 CVE 編號。",
+    "沒有遭利用的報告。"
+   ],
+   "link": {
+    "url": "https://i10x.ai/news/mcp-server-git-repo-config-runs-commands-read-only-tools",
+    "title": "mcp-server-git let a repo’s own config run commands, even on read-only calls",
+    "site": "i10X News",
+    "description": "Eight MCP reference server advisories: in mcp-server-git a repo's own Git config ran programs, even via git_status. Versions, checks and stopgaps.",
+    "image": "https://i10x.ai/news/wp-content/uploads/2026/11/mcp-server-git-repo-config-runs-commands-read-only-tools-title.webp",
+    "icon": null
+   }
+  },
+  {
+   "label": "pull_request_target 封鎖",
+   "points": [
+    "12月2日起",
+    "公開倉庫預設",
+    "可設定開放"
+   ],
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2/",
+   "lines": [
+    {
+     "say": "GitHub 宣布，從十二月二日起，公開倉庫預設封鎖 pull_request_target 事件。",
+     "show": "GitHub 宣布，從12月2日起，公開倉庫預設封鎖 pull_request_target 事件。"
+    },
+    {
+     "say": "這個事件權限很強，過去屢屢被拿來攻擊。",
+     "show": "這個事件權限很強，過去屢屢被拿來攻擊。"
+    },
+    {
+     "say": "有需要的人，可以在 Actions 設定裡開放。",
+     "show": "有需要的人，可以在 Actions 設定裡開放。"
+    }
+   ],
+   "details": [
+    "11/9 與 11/16 有預告演練。",
+    "private 與 GHES 不受影響。",
+    "記得檢查現有 workflow。"
+   ],
+   "link": {
+    "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2/",
+    "title": "pull_request_target blocked by default December 2 - GitHub Changelog",
+    "site": "The GitHub Blog",
+    "description": "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in all public repositories, unless an applicable Actions event policy explicitly allows them. Enforcement was previously scheduled for…",
+    "image": "https://github.blog/wp-content/uploads/2026/11/682988073-439dd4ff-beed-4b9b-b767-acf8c41542d9.jpg",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  },
+  {
+   "label": "財政部子網域被接管",
+   "points": [
+    "5個子網域",
+    "48小時28件",
+    "一個3美元"
+   ],
+   "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+   "lines": [
+    {
+     "say": "美國財政部的五個子網域，被發現一度遭到接管。",
+     "show": "美國財政部的5個子網域，被發現一度遭到接管。"
+    },
+    {
+     "say": "研究團隊在四十八小時內，成功接管二十八個網域，一個 IP 只要三美元左右。",
+     "show": "研究團隊在48小時內，成功接管28個網域，一個 IP 只要3美元左右。"
+    },
+    {
+     "say": "已經通報財政部，並完成修正。",
+     "show": "已經通報財政部，並完成修正。"
+    }
+   ],
+   "details": [
+    "濫用 AWS 的 Elastic IP。",
+    "ftp 等 5 個子網域。",
+    "AWS 已停用該帳號。"
+   ],
+   "link": {
+    "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "title": "Taking over US Treasury subdomains for $3 each",
+    "site": "www.intruder.io",
+    "description": "We took over five US Treasury subdomains for about $3 each by cycling through AWS Elastic IPs. Here’s how it works, and what to check in your own DNS.",
+    "image": "https://cdn.prod.website-files.com/61dd9339d05701829d0b3241/6afdc01d62cd6e97b94540b6_Elastic%20IP%20adresses%20(1).jpg",
+    "icon": "https://cdn.prod.website-files.com/61dd9339d05701b1440b323d/61dd9339d0570106de0b327f_32.png"
+   }
+  },
+  {
+   "label": "GitHub 通知遷移",
+   "points": [
+    "12月1日起",
+    "使用者免動作",
+    "設定會保留"
+   ],
+   "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+   "lines": [
+    {
+     "say": "GitHub 從十二月一日起，開始遷移通知系統。",
+     "show": "GitHub 從12月1日起，開始遷移通知系統。"
+    },
+    {
+     "say": "大約要一週，使用者不需要做任何事。",
+     "show": "大約要一週，使用者不需要做任何事。"
+    },
+    {
+     "say": "取消訂閱的設定會保留，團隊提及也會依成員身分送達。",
+     "show": "取消訂閱的設定會保留，團隊提及也會依成員身分送達。"
+    }
+   ],
+   "details": [
+    "遷移約需 1 週。",
+    "訂閱頁面只能手動調整。",
+    "通知會更好預測。"
+   ],
+   "link": {
+    "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+    "title": "More predictable notifications on GitHub.com - GitHub Changelog",
+    "site": "The GitHub Blog",
+    "description": "Starting December 1, 2026, we’re migrating notifications on GitHub.com over the course of a week to make subscriptions more predictable, correct unexpected behavior, and support the growing scale of activity.…",
+    "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+    "icon": "https://github.githubassets.com/favicon.ico"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今天的重點是矩陣乘法的 2.25。數學的常識，可能要被改寫了。",
+   "show": "今天的重點是矩陣乘法的2.25。數學的常識，可能要被改寫了。"
+  },
+  {
+   "say": "以上，蜜塔 radio。明天見。",
+   "show": "以上，蜜塔 radio。明天見。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-25",
+ "lang": "zh",
+ "seconds": 101.24,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 6.51,
+   "show": "早安，這裡是蜜塔 radio。11月25日、星期三的科技新聞。",
+   "part": 0
+  },
+  {
+   "start": 6.76,
+   "end": 10.67,
+   "show": "今天5則：數學的大消息，還有資安新聞。",
+   "part": 0
+  },
+  {
+   "start": 11.72,
+   "end": 16.79,
+   "show": "OpenAI 在24日，公開了一篇關於矩陣乘法計算量的論文。",
+   "part": 1
+  },
+  {
+   "start": 17.04,
+   "end": 22.33,
+   "show": "論文中主張，乘法的指數可以降到四分之九，也就是2.25。",
+   "part": 1
+  },
+  {
+   "start": 22.58,
+   "end": 29.14,
+   "show": "號稱在所有體上都成立，還給出了匹配的下界，不過論文還沒經過同儕審查。",
+   "part": 1
+  },
+  {
+   "start": 30.19,
+   "end": 37.52,
+   "show": "GitHub 的 MCP 伺服器 mcp-server-git，公開了8個漏洞，其中5個是高風險。",
+   "part": 2
+  },
+  {
+   "start": 37.77,
+   "end": 42.33,
+   "show": "只要修改倉庫的設定檔，連唯讀工具都可能被用來執行指令。",
+   "part": 2
+  },
+  {
+   "start": 42.58,
+   "end": 46.52,
+   "show": "已經在 2.5.0 版修正，目前沒有遭到利用。",
+   "part": 2
+  },
+  {
+   "start": 47.57,
+   "end": 54.1,
+   "show": "GitHub 宣布，從12月2日起，公開倉庫預設封鎖 pull_request_target 事件。",
+   "part": 3
+  },
+  {
+   "start": 54.35,
+   "end": 58.08,
+   "show": "這個事件權限很強，過去屢屢被拿來攻擊。",
+   "part": 3
+  },
+  {
+   "start": 58.33,
+   "end": 61.63,
+   "show": "有需要的人，可以在 Actions 設定裡開放。",
+   "part": 3
+  },
+  {
+   "start": 62.68,
+   "end": 66.69,
+   "show": "美國財政部的5個子網域，被發現一度遭到接管。",
+   "part": 4
+  },
+  {
+   "start": 66.94,
+   "end": 74.21,
+   "show": "研究團隊在48小時內，成功接管28個網域，一個 IP 只要3美元左右。",
+   "part": 4
+  },
+  {
+   "start": 74.46,
+   "end": 76.95,
+   "show": "已經通報財政部，並完成修正。",
+   "part": 4
+  },
+  {
+   "start": 78.0,
+   "end": 81.73,
+   "show": "GitHub 從12月1日起，開始遷移通知系統。",
+   "part": 5
+  },
+  {
+   "start": 81.98,
+   "end": 84.99,
+   "show": "大約要一週，使用者不需要做任何事。",
+   "part": 5
+  },
+  {
+   "start": 85.24,
+   "end": 90.14,
+   "show": "取消訂閱的設定會保留，團隊提及也會依成員身分送達。",
+   "part": 5
+  },
+  {
+   "start": 91.19,
+   "end": 97.15,
+   "show": "今天的重點是矩陣乘法的2.25。數學的常識，可能要被改寫了。",
+   "part": 6
+  },
+  {
+   "start": 97.4,
+   "end": 100.24,
+   "show": "以上，蜜塔 radio。明天見。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 11.72
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.72,
+   "end": 30.19
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 30.19,
+   "end": 47.57
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 47.57,
+   "end": 62.68
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 62.68,
+   "end": 78.0
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 78.0,
+   "end": 91.19
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 91.19,
+   "end": 101.24
+  }
+ ],
+ "made_at": "2026-11-25T22:53:06"
+}

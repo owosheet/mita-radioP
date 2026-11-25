@@ -1,0 +1,321 @@
+{
+ "title": "SPY×FAMILY4期、魔法使いの夜 冬アニメ前線",
+ "opening": [
+  {
+   "say": "おはようございます、みたラジオです。十一月十日、火曜日のアニメニュースです。",
+   "show": "おはようございます、蜜塔ラジオです。11月10日、火曜日のアニメニュース。"
+  },
+  {
+   "say": "今日は五本、スパイファミリーの新展開、魔法使いの夜、死亡フラグ、デモンズクレスト、そしてひらやすみです。",
+   "show": "今日は5本、SPY×FAMILYの新展開、魔法使いの夜、死亡フラグ、デモンズ・クレスト、ひらやすみ。"
+  }
+ ],
+ "news": [
+  {
+   "label": "SPY×FAMILY 4期と映画",
+   "points": [
+    "2027年に4期",
+    "劇場版第2弾も",
+    "門脇聡の新ビジュアル"
+   ],
+   "url": "https://mantan-web.jp/article/20261108dog00m200015000a.html",
+   "lines": [
+    {
+     "say": "まずはスパイファミリーです。テレビアニメの第四期と、劇場版の第二弾が、二〇二七年に決まりました。",
+     "show": "まずはSPY×FAMILY。TVアニメSeason 4と劇場版第2弾が2027年に決定。"
+    },
+    {
+     "say": "十一月八日のイベントで発表され、新しく描き下ろされたビジュアルも公開されています。",
+     "show": "11月8日のイベントで発表。門脇聡描き下ろしの新ビジュアルも公開。"
+    }
+   ],
+   "details": [
+    "11月8日、ベルサール高田馬場のイベント「ANIME EXTRA MISSION II」で発表されました。",
+    "TVアニメSeason 4は2027年放送、劇場版第2弾は2027年公開。劇場版の配給は東宝です。",
+    "原作者の遠藤達哉さんも、アーニャが「4」と「2」を掲げる祝福イラストを投稿しています。"
+   ],
+   "link": {
+    "url": "https://mantan-web.jp/article/20261108dog00m200015000a.html",
+    "title": "SPY×FAMILY：テレビアニメシーズン4制作 2027年放送 劇場版アニメ第2弾も2027年公開 - MANTANWEB（まんたんウェブ）",
+    "site": "MANTANWEB（まんたんウェブ）",
+    "description": "集英社のマンガアプリ「少年ジャンプ＋（プラス）」で連載中の遠藤達哉さんのマンガが原作のテレビアニメ「SPY×FAMILY」のシーズン4が制作され、2027年に放送されることが分か…",
+    "image": null,
+    "icon": "https://mantan-web.jp/assets/favicons/apple-touch-icon-57x57.png"
+   }
+  },
+  {
+   "label": "魔法使いの夜 11月20日公開",
+   "points": [
+    "11月20日公開",
+    "IMAX同時上映",
+    "11劇場で最速上映"
+   ],
+   "url": "https://eiga.com/news/20261102/2/",
+   "lines": [
+    {
+     "say": "次は劇場アニメ、魔法使いの夜です。ユーフォーテーブル制作で、十一月二十日に公開されます。",
+     "show": "次は劇場アニメ『魔法使いの夜』。ufotable制作で11月20日公開。"
+    },
+    {
+     "say": "初日からアイマックス版も同時に上映され、全国十一の劇場では、二十日の午前零時から最速上映があります。",
+     "show": "初日からIMAX版も同時上映。全国11劇場で20日午前0時の最速上映。"
+    }
+   ],
+   "details": [
+    "蒼崎青子役は戸松遥さん、久遠寺有珠役は花澤香菜さん、静希草十郎役は小林裕介さんです。",
+    "11月21日はTOHOシネマズ日比谷、22日はTOHOシネマズ梅田で舞台挨拶が行われます。",
+    "主題歌はsupercellの「夜と青」。公開初日からのIMAX上映も決まっています。"
+   ],
+   "link": {
+    "url": "https://eiga.com/news/20261102/2/",
+    "title": "TYPE-MOON×ufotable「魔法使いの夜」11月20日からIMAX版が同時公開 戸松遥、小林裕介登壇の舞台挨拶も決定 : 映画ニュース - 映画.com",
+    "site": "映画.com",
+    "description": "劇場アニメ「魔法使いの夜」のIMAX版が、公開日の11月20日から同時公開されることが分かった。あわせて、IMAXビジュアルが披露されている。また、11月21、22日に蒼崎青子役の戸松遥と静希草十郎役の小林裕介が登壇する公開記念舞台挨拶も決",
+    "image": "https://media.eiga.com/images/buzz/130247/8d1ebb3b413ec192.jpg",
+    "icon": "https://media.eiga.com/favicon.ico"
+   }
+  },
+  {
+   "label": "死亡フラグ 2027年アニメ化",
+   "points": [
+    "2027年にTVアニメ",
+    "累計175万部",
+    "悪役憑依ファンタジー"
+   ],
+   "url": "https://mantan-web.jp/article/20261109dog00m200053000a.html",
+   "lines": [
+    {
+     "say": "続いては、俺の死亡フラグが留まるところを知らない。二〇二七年にテレビアニメ化されることが決まりました。",
+     "show": "続いては『俺の死亡フラグが留まるところを知らない』。2027年にTVアニメ化決定。"
+    },
+    {
+     "say": "ゲームの悪役に憑依した主人公が、死亡フラグを避けていく物語で、シリーズは累計百七十五万部を超えています。",
+     "show": "ゲームの悪役に憑依した主人公が死亡フラグを回避する物語。シリーズ累計175万部。"
+    }
+   ],
+   "details": [
+    "原作は泉さん、キャラクター原案はAちきさん、漫画は乙須ミツヤさんです。",
+    "2014年から「小説家になろう」で連載され、第3回なろうコン大賞を受賞しました。",
+    "小説第5巻は12月11日、漫画第13巻は11月29日に発売されます。"
+   ],
+   "link": {
+    "url": "https://mantan-web.jp/article/20261109dog00m200053000a.html",
+    "title": "俺の死亡フラグが留まるところを知らない：“なろう系”人気作 2027年テレビアニメ化 ツンデレな悪役が膨大な死亡フラグを回避！ - MANTANWEB（まんたんウェブ）",
+    "site": "MANTANWEB（まんたんウェブ）",
+    "description": "小説投稿サイト「小説家になろう」から生まれた人気作「俺の死亡フラグが留まるところを知らない」（宝島社）が、2027年にテレビアニメ化されることが分かった。ゲームの悪役・ハロルドに…",
+    "image": null,
+    "icon": "https://mantan-web.jp/assets/favicons/apple-touch-icon-57x57.png"
+   }
+  },
+  {
+   "label": "デモンズ・クレスト 2クール",
+   "points": [
+    "連続2クール放送",
+    "Prime Videoで配信",
+    "Production I.G制作"
+   ],
+   "url": "https://www.animenewsnetwork.com/news/2026-11-10/devils-crest-anime-confirms-half-year-run/.243678",
+   "lines": [
+    {
+     "say": "川原礫さんの小説、デモンズクレストのアニメが、二つのクールにわたって放送されることが分かりました。",
+     "show": "川原礫原作『デモンズ・クレスト』、連続2クール放送が決定。"
+    },
+    {
+     "say": "今月六日からプライムビデオで世界配信が始まっていて、プロダクションアイジーが制作しています。",
+     "show": "11月6日からPrime Videoで世界配信。Production I.G制作。"
+    }
+   ],
+   "details": [
+    "総監督はウシロシンジさん、監督は駒屋健一郎さん、シリーズ構成は梅原英司さんです。",
+    "オープニングはAdoの「シンカ」、エンディングはSoalaの「ReaL」。",
+    "原作は電撃文庫から刊行されている川原礫さんの「デモンズ・クレスト」です。"
+   ],
+   "link": {
+    "url": "https://www.animenewsnetwork.com/news/2026-11-10/devils-crest-anime-confirms-half-year-run/.243678",
+    "title": "Devils' Crest Anime Confirms Half-Year Run",
+    "site": "Anime News Network",
+    "description": "Anime debuted worldwide on Prime Video on November 6",
+    "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJD/cms/news.10/242411/1003-reveal-devils-crest-battle-key-art.jpg",
+    "icon": "https://www.animenewsnetwork.com/meta/favicon.ico"
+   }
+  },
+  {
+   "label": "ひらやすみ NHKで来年1月",
+   "points": [
+    "2027年1月放送",
+    "Netflixで世界配信",
+    "星野源がOP曲"
+   ],
+   "url": "https://www.nhk.jp/g/blog/4n07fyu5xm8w/",
+   "lines": [
+    {
+     "say": "最後は、ひらやすみです。人気漫画のひらやすみが、来年一月からエヌエイチケーでアニメになります。",
+     "show": "最後は『ひらやすみ』。人気漫画が2027年1月からNHKでアニメ化。"
+    },
+    {
+     "say": "ネットフリックスでも世界配信され、オープニングテーマは星野源さんの書き下ろしです。",
+     "show": "Netflixでも世界配信。OPは星野源の書き下ろし、EDはTOMOO。"
+    }
+   ],
+   "details": [
+    "NHK総合で2027年1月に放送され、同じ月からNetflixで世界配信されます。",
+    "アニメ制作はProduction +h.、監督は末澤慧さんです。",
+    "主演は内田雄馬さん、髙橋茉優さん。原作の累計発行部数は170万部を超えています。"
+   ],
+   "link": {
+    "url": "https://www.nhk.jp/g/blog/4n07fyu5xm8w/",
+    "title": "アニメ「ひらやすみ」オープニングテーマは星野源の書き下ろし新曲に決定！",
+    "site": "NHKアニメ",
+    "description": "アニメ「ひらやすみ」オープニングテーマは星野源の書き下ろし新曲に決定！",
+    "image": "https://g-img.nhk.jp/assets/dfd470c2eaaf4f90a547bdabbb16d678/8f5b4e137c444bab8c3e692a611040c5/anime_%E3%83%95%E3%82%99%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81_%E3%81%B2%E3%82%89%E3%82%84%E3%81%99%E3%81%BF_OP%E8%A7%A3%E7%A6%81.jpg?w=1280",
+    "icon": null
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日の注目は、スパイファミリーの新展開です。第四期と劇場版第二弾が同じ年にそろうのは、シリーズにとって大きな節目になります。",
+   "show": "今日の注目はSPY×FAMILY。Season 4と劇場版第2弾が同じ2027年にそろう。"
+  },
+  {
+   "say": "以上、みたラジオでした。また明日。",
+   "show": "以上、蜜塔ラジオでした。また明日。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-10",
+ "lang": "ja",
+ "seconds": 116.02,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.73,
+   "show": "おはようございます、蜜塔ラジオです。11月10日、火曜日のアニメニュース。",
+   "part": 0
+  },
+  {
+   "start": 7.98,
+   "end": 16.76,
+   "show": "今日は5本、SPY×FAMILYの新展開、魔法使いの夜、死亡フラグ、デモンズ・クレスト、ひらやすみ。",
+   "part": 0
+  },
+  {
+   "start": 17.81,
+   "end": 26.07,
+   "show": "まずはSPY×FAMILY。TVアニメSeason 4と劇場版第2弾が2027年に決定。",
+   "part": 1
+  },
+  {
+   "start": 26.32,
+   "end": 32.47,
+   "show": "11月8日のイベントで発表。門脇聡描き下ろしの新ビジュアルも公開。",
+   "part": 1
+  },
+  {
+   "start": 33.52,
+   "end": 41.82,
+   "show": "次は劇場アニメ『魔法使いの夜』。ufotable制作で11月20日公開。",
+   "part": 2
+  },
+  {
+   "start": 42.07,
+   "end": 50.92,
+   "show": "初日からIMAX版も同時上映。全国11劇場で20日午前0時の最速上映。",
+   "part": 2
+  },
+  {
+   "start": 51.97,
+   "end": 59.7,
+   "show": "続いては『俺の死亡フラグが留まるところを知らない』。2027年にTVアニメ化決定。",
+   "part": 3
+  },
+  {
+   "start": 59.95,
+   "end": 69.32,
+   "show": "ゲームの悪役に憑依した主人公が死亡フラグを回避する物語。シリーズ累計175万部。",
+   "part": 3
+  },
+  {
+   "start": 70.37,
+   "end": 77.6,
+   "show": "川原礫原作『デモンズ・クレスト』、連続2クール放送が決定。",
+   "part": 4
+  },
+  {
+   "start": 77.85,
+   "end": 84.78,
+   "show": "11月6日からPrime Videoで世界配信。Production I.G制作。",
+   "part": 4
+  },
+  {
+   "start": 85.83,
+   "end": 93.71,
+   "show": "最後は『ひらやすみ』。人気漫画が2027年1月からNHKでアニメ化。",
+   "part": 5
+  },
+  {
+   "start": 93.96,
+   "end": 99.98,
+   "show": "Netflixでも世界配信。OPは星野源の書き下ろし、EDはTOMOO。",
+   "part": 5
+  },
+  {
+   "start": 101.03,
+   "end": 111.36,
+   "show": "今日の注目はSPY×FAMILY。Season 4と劇場版第2弾が同じ2027年にそろう。",
+   "part": 6
+  },
+  {
+   "start": 111.61,
+   "end": 115.02,
+   "show": "以上、蜜塔ラジオでした。また明日。",
+   "part": 6
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 17.81
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 17.81,
+   "end": 33.52
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 33.52,
+   "end": 51.97
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 51.97,
+   "end": 70.37
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 70.37,
+   "end": 85.83
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 85.83,
+   "end": 101.03
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 101.03,
+   "end": 116.02
+  }
+ ],
+ "made_at": "2026-11-11T02:39:55"
+}
